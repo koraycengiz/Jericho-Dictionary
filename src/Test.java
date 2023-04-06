@@ -1,9 +1,8 @@
 public class Test {
     public static void main(String[] args) {
-        DictionaryParser dictionaryParser = new DictionaryParser();
-        FileManager fileManager = new FileManager();
+        Dictionary dictionary = new Dictionary();
+        Word word = new Word("apple","eng");
 
-
-        System.out.println(fileManager.searchWord("apple","eng"));
+        dictionary.getTranslations(word);
     }
 }
