@@ -4,6 +4,6 @@ public class Test {
         FileManager fileManager = new FileManager();
 
 
-        System.out.println(fileManager.searchWord("tea"));
+        System.out.println(fileManager.searchWord("apple","eng"));
     }
 }

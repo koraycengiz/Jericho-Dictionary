@@ -8,11 +8,12 @@ public class FileManager {
 
 
 
-    public String searchWord(String word){
+    public String searchWord(String word,String sourceLanguageTag){
         String retString = "";
         try {
 
-            BufferedReader bufferedReader = new BufferedReader(new FileReader("dictionaries\\eng-deu\\eng-deu.index"));
+            String path = String.format("dictionaries\\%s-deu\\%s-deu.index",sourceLanguageTag,sourceLanguageTag);
+            BufferedReader bufferedReader = new BufferedReader(new FileReader(path));
             String st;
 
             while ((st = bufferedReader.readLine()) != null){
