@@ -1,3 +1,5 @@
+import java.util.Locale;
+
 public class Dictionary {
 
     final String[] languageList = {"eng","deu","tur","fra"};
@@ -5,6 +7,7 @@ public class Dictionary {
 
     public void getTranslations(Word word){
         FileManager fileManager = new FileManager();
+        word.setText(word.getText().toLowerCase());
         for (String language: languageList){
 
             if (!language.equals(word.getLanguage())) {
@@ -14,14 +17,14 @@ public class Dictionary {
 
     }
 
-    public String translate(String definition){
+    public static String translate(String definition){
         String[] lines = definition.split("\n");
         String line = lines[1];
         String[] parts = line.split(" ");
         if (parts[0].equals("1.")){
-            return parts[1];
+            return parts[1].replaceAll(",","");
         }else {
-            return parts[0];
+            return parts[0].replaceAll(",","");
         }
     }
 

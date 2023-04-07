@@ -26,8 +26,8 @@ public class FileManager {
 
             }
         }catch (IOException e){
-            e.printStackTrace();
-
+           Word tempWord = new Word(Dictionary.translate(searchWord(word,"eng")),"eng");
+            retString = searchWord(tempWord,targetLanTag);
         }
         return retString;
 
