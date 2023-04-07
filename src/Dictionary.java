@@ -1,6 +1,6 @@
 public class Dictionary {
 
-    final String[] languageList = {"eng","deu","tur"};
+    final String[] languageList = {"eng","deu","tur","fra"};
 
 
     public void getTranslations(Word word){

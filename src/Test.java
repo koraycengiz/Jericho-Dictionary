@@ -1,7 +1,7 @@
 public class Test {
     public static void main(String[] args) {
         Dictionary dictionary = new Dictionary();
-        Word word = new Word("apple","eng");
+        Word word = new Word("love","eng");
 
         dictionary.getTranslations(word);
     }
