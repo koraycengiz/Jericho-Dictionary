@@ -27,13 +27,12 @@ public class FileManager {
             }
         }catch (IOException e){
             e.printStackTrace();
-            /* TODO: 7.04.2023 add feature for languages that don't have any translations(ex. tur-swe) doesn't exist so
-            TODO: we should translate it to eng and then to swe we can add this also in getTranslations method(didn't decided)
-            */
+
         }
         return retString;
 
     }
+
     public String searchDef(long abBytePath, long textLength,String filePath){
         String text = "";
 
