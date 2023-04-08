@@ -1,4 +1,3 @@
-import java.util.Locale;
 
 public class Dictionary {
 
@@ -11,21 +10,36 @@ public class Dictionary {
         for (String language: languageList){
 
             if (!language.equals(word.getLanguage())) {
-                System.out.println(translate(fileManager.searchWord(word, language)));
+                System.out.println(language+": "+fileManager.searchWord(word, language)+"\n");
             }
         }
 
     }
 
     public static String translate(String definition){
+
         String[] lines = definition.split("\n");
+        if (definition.isEmpty()|| lines.length == 1){
+            return "Translation not found";
+        }
         String line = lines[1];
         String[] parts = line.split(" ");
-        if (parts[0].equals("1.")){
-            return parts[1].replaceAll(",","");
-        }else {
-            return parts[0].replaceAll(",","");
-        }
+        boolean flag = true;
+       for (String part: parts){
+           String[] punctiations = {".","[","]",">","<","/","\\"};
+
+           for (String punctiation:punctiations){
+               if (part.contains(punctiation)){
+                   flag = false;
+               }
+           }
+           if (flag){
+               return part;
+           }
+       }
+
+
+       return "";
     }
 
 
