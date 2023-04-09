@@ -28,20 +28,21 @@ public class Dictionary {
             line = lines[2];
         }
         String[] parts = line.split(" ");
-        boolean flag = true;
+        boolean flag;
         String retString = "";
 
-        for (String part : parts) {
+        for (int i = 0; i<parts.length;i++) {
             flag = true;
-            String[] punctiations = {".", "[", "]", ">", "<", "/"};
+            String[] punctiations = {"[", "]", ">", "<", "/","1","2","3","4","(",")"};
 
             for (String punctiation : punctiations) {
-                if (part.contains(punctiation)) {
+                if (parts[i].contains(punctiation)) {
                     flag = false;
                 }
             }
-            if (flag&&!part.isEmpty()&&!retString.contains(",")) {
-                retString = retString.concat(part+" ");
+            if (flag&&!parts[i].isEmpty()&&!retString.contains(",")) {
+                retString = retString.concat(parts[i]+" ");
+
             }
         }
         return retString.trim().replaceAll(",","").replaceAll("!","");
