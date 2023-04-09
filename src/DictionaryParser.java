@@ -2,6 +2,13 @@ public class DictionaryParser {
 
     final static String b64_list = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
 
+
+    /**
+     * Takes an integer and encodes it with base64 for .dict and .index files.
+     * This method will be used later on when user can add new translations on the files.
+     * @param val that needs to be encoded
+     * @return the encoded version of the val
+     */
     public static String b64Encode(int val) {
 
         String [] b64List = b64_list.split("");
@@ -22,6 +29,11 @@ public class DictionaryParser {
         }
     }
 
+    /**
+     * decodes the string value with base64 for .dict and .index files.
+     * @param str string that needs to be decoded in base64
+     * @return the decoded version of the string
+     */
     public static long b64Decode(String str) {
 
 

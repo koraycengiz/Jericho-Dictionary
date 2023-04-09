@@ -21,6 +21,15 @@ public class Dictionary {
 
     }
 
+    /**
+     * separates the translation of the word from the definition.
+     * the dictionaries have different structure therefore the there are lines for special dictionaries:
+     * line 38 is for modern greek to english.
+     * passChecker is for a problem in german dictionaries.
+     *
+     * @param definition is the definition of the headword
+     * @return translation of the headword
+     */
     public static String translate(String definition) {
         if (definition.isEmpty()){
             return "Translation not found";
