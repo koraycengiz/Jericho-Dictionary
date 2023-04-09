@@ -18,6 +18,9 @@ public class Dictionary {
     }
 
     public static String translate(String definition) {
+        if (definition.isEmpty()){
+            return "Translation not found";
+        }
         String[] lines = definition.split("\n");
 
         String line = lines[1];
@@ -25,9 +28,11 @@ public class Dictionary {
             line = lines[2];
         }
         String[] parts = line.split(" ");
+        boolean flag = true;
+        String retString = "";
 
         for (String part : parts) {
-            boolean flag = true;
+            flag = true;
             String[] punctiations = {".", "[", "]", ">", "<", "/"};
 
             for (String punctiation : punctiations) {
@@ -35,11 +40,11 @@ public class Dictionary {
                     flag = false;
                 }
             }
-            if (flag) {
-                return part.replaceAll(",","");
+            if (flag&&!part.isEmpty()&&!retString.contains(",")) {
+                retString = retString.concat(part+" ");
             }
         }
-        return "Translation not found";
+        return retString.trim().replaceAll(",","").replaceAll("!","");
     }
 
 }

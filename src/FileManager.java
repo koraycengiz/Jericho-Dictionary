@@ -21,10 +21,12 @@ public class FileManager {
 
                 if (word.getText().equals(parts[0])){
                     retString = searchDef(DictionaryParser.b64Decode(parts[1]),DictionaryParser.b64Decode(parts[2]),path);
+
                     break;
                 }
 
             }
+
         }catch (IOException e){
            Word tempWord = new Word(Dictionary.translate(searchWord(word,"eng")),"eng");
             retString = searchWord(tempWord,targetLanTag);
