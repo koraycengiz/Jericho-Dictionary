@@ -10,6 +10,7 @@ import javafx.scene.control.*;
 import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
+import java.util.List;
 
 public class GUI extends Application {
     public static void main(String[] args) {
@@ -104,15 +105,12 @@ public class GUI extends Application {
 
         Label label = new Label("Source Language");
 
-        //Languages
-        ChoiceBox choiceBox = new ChoiceBox();
-        choiceBox.getItems().add("Turkish");
-        choiceBox.getItems().add("English");
-        choiceBox.getItems().add("German");
-        choiceBox.getItems().add("Modern Greek");
-        choiceBox.getItems().add("French");
-        choiceBox.getItems().add("Italian");
-        choiceBox.getItems().add("Swedish");
+
+
+        ChoiceBox<String> choiceBox = new ChoiceBox<>(
+                FXCollections.observableArrayList("eng", "deu", "tur", "fra", "ell", "swe", "ita"));
+        choiceBox.getSelectionModel().selectFirst(); // Select English by default
+
 
         HBox.setHgrow(label, Priority.ALWAYS);
         HBox.setHgrow(choiceBox, Priority.ALWAYS);
@@ -128,6 +126,19 @@ public class GUI extends Application {
         TextField textField = new TextField();
         Button benjamin = new Button("Search");
 
+
+
+
+        //Search button's action
+        Dictionary dict = new Dictionary();
+        String lastWord = textField.getText();
+        Word word1 = new Word(lastWord,"eng");
+        benjamin.setOnAction(Event -> dict.getTranslations(word1));
+
+
+
+
+
         HBox.setHgrow(word, Priority.ALWAYS);
         HBox.setHgrow(textField, Priority.ALWAYS);
         HBox.setHgrow(benjamin, Priority.ALWAYS);
@@ -138,12 +149,31 @@ public class GUI extends Application {
         HBox thirdLine = new HBox(8);
         thirdLine.setAlignment(Pos.CENTER);
 
-        ListView listview = new ListView();
 
-        HBox.setHgrow(listview, Priority.ALWAYS);
+        //Listview's action
+        ListView<String> listView = new ListView<>();
+        ObservableList<String> items = FXCollections.observableArrayList();
+        listView.setItems(items);
+
+
+
+        benjamin.setOnAction(event -> {
+            String wordText = textField.getText();
+            String selectedLanguage = choiceBox.getValue();
+            Word word4 = new Word(wordText, selectedLanguage);
+            List<String> translations = dict.getTranslations(word4);
+            items.clear();
+            items.addAll(translations);
+        });
+
+
+
+
+
+        HBox.setHgrow(listView, Priority.ALWAYS);
 
         VBox.setMargin(thirdLine, new Insets(8));
-        thirdLine.getChildren().addAll(listview);
+        thirdLine.getChildren().addAll(listView);
 
 
         mainLayout.getChildren().addAll(root, firstLine, secondLine, thirdLine);
@@ -157,7 +187,7 @@ public class GUI extends Application {
         stage.setTitle("Dictionary Jericho");
         stage.setScene(scene);
         stage.show();
-}
+    }
 
 
 }
