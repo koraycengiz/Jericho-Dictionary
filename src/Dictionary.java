@@ -1,8 +1,8 @@
-import java.util.Locale;
+
 
 public class Dictionary {
 
-    final String[] languageList = {"eng","deu","tur","fra"};
+    final String[] languageList = {"eng","deu","tur","fra","ell","swe","ita"};
 
 
     public void getTranslations(Word word){
@@ -11,7 +11,7 @@ public class Dictionary {
         for (String language: languageList){
 
             if (!language.equals(word.getLanguage())) {
-                System.out.println(translate(fileManager.searchWord(word, language)));
+                System.out.println(language+": "+fileManager.searchWord(word, language));
             }
         }
 
