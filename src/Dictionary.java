@@ -30,8 +30,10 @@ public class Dictionary {
         String[] parts = line.split(" ");
         boolean flag;
         String retString = "";
+        int passChecker = -1;
 
         for (int i = 0; i<parts.length;i++) {
+
             flag = true;
             String[] punctiations = {"[", "]", ">", "<", "/","1","2","3","4","(",")"};
 
@@ -40,12 +42,15 @@ public class Dictionary {
                     flag = false;
                 }
             }
-            if (flag&&!parts[i].isEmpty()&&!retString.contains(",")) {
+            if (flag&&!parts[i].isEmpty()&&!retString.contains(",")&&(passChecker == i-1||parts[0].contains("."))){
                 retString = retString.concat(parts[i]+" ");
 
+
+                passChecker = i;
             }
+
         }
-        return retString.trim().replaceAll(",","").replaceAll("!","");
+        return retString.trim().replaceAll(",","").replaceAll("!","").replaceAll("‐","");
     }
 
 }
