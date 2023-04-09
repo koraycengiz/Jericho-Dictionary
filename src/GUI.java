@@ -119,6 +119,7 @@ public class GUI extends Application {
 
 
 
+
         mainLayout.getChildren().addAll(root,firstLine,secondLine,thirdLine);
 
         BackgroundFill backgroundFill = new BackgroundFill(Color.PINK, CornerRadii.EMPTY,Insets.EMPTY);

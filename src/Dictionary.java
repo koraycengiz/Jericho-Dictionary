@@ -17,6 +17,15 @@ public class Dictionary {
 
     }
 
+    /**
+     * separates the translation of the word from the definition.
+     * the dictionaries have different structure therefore the there are lines for special dictionaries:
+     * line 38 is for modern greek to english.
+     * passChecker is for a problem in german dictionaries.
+     *
+     * @param definition is the definition of the headword
+     * @return translation of the headword
+     */
     public static String translate(String definition) {
         if (definition.isEmpty()){
             return "Translation not found";
@@ -24,9 +33,11 @@ public class Dictionary {
         String[] lines = definition.split("\n");
 
         String line = lines[1];
+
         if (line.isEmpty()){
             line = lines[2];
         }
+
         String[] parts = line.split(" ");
         boolean flag;
         String retString = "";
@@ -42,13 +53,13 @@ public class Dictionary {
                     flag = false;
                 }
             }
-            if (flag&&!parts[i].isEmpty()&&!retString.contains(",")&&(passChecker == i-1||parts[0].contains("."))){
-                retString = retString.concat(parts[i]+" ");
 
+            if (flag&&!parts[i].isEmpty()&&!retString.contains(",")&&(passChecker == i-1||parts[0].contains("."))){
+
+                retString = retString.concat(parts[i]+" ");
 
                 passChecker = i;
             }
-
         }
         return retString.trim().replaceAll(",","").replaceAll("!","").replaceAll("‐","");
     }

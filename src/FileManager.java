@@ -6,7 +6,16 @@ import java.io.RandomAccessFile;
 public class FileManager {
 
 
-
+    /**
+     * Finds the definition of the headword and returns.
+     * Even if the dictionary file cannot be found the method tries to translate
+     * to english then the target language in the  catch part exception handling.
+     * uses 64base decoding for finding the definition.
+     *
+     * @param word the word which required to be translated
+     * @param targetLanTag the tag of the target language
+     * @return definition of the headword
+     */
     public String searchWord(Word word,String targetLanTag){
         String retString = "";
         try {
@@ -35,6 +44,13 @@ public class FileManager {
 
     }
 
+    /**
+     * Accesses file from the absolute byte position and finds the definition in the .dict file
+     * @param abBytePath the absolute byte position of the definition
+     * @param textLength length of the definition
+     * @param filePath path of the required file without the extension(dict)
+     * @return definition of the headword
+     */
     public String searchDef(long abBytePath, long textLength,String filePath){
         String text = "";
 
