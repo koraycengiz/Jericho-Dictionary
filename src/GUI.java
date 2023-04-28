@@ -131,9 +131,9 @@ public class GUI extends Application {
 
         //Search button's action
         Dictionary dict = new Dictionary();
-        String lastWord = textField.getText();
-        Word word1 = new Word(lastWord,"eng");
-        benjamin.setOnAction(Event -> dict.getTranslations(word1));
+        String textEntry = textField.getText();
+
+        benjamin.setOnAction(Event -> dict.getTranslations(textEntry,choiceBox.getValue()));
 
 
 
@@ -158,10 +158,10 @@ public class GUI extends Application {
 
 
         benjamin.setOnAction(event -> {
-            String wordText = textField.getText();
+            String searchedWord = textField.getText();
             String selectedLanguage = choiceBox.getValue();
-            Word word4 = new Word(wordText, selectedLanguage);
-            List<String> translations = dict.getTranslations(word4);
+
+            List<String> translations = dict.getTranslations(searchedWord,selectedLanguage);
             items.clear();
             items.addAll(translations);
         });

@@ -1,8 +1,10 @@
 public class Test {
     public static void main(String[] args) {
         Dictionary dictionary = new Dictionary();
-        Word word = new Word("hello","eng");
+        String a = "<quote xml:lang=\"en\">apple</quote>";
+        String quote = a.replaceAll("<.*?>", "").trim();
+        System.out.println(quote);
 
-        dictionary.getTranslations(word);
+
     }
 }

@@ -1,68 +1,35 @@
+import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Locale;
 
 public class Dictionary {
 
     final String[] languageList = {"eng", "deu", "tur", "fra", "ell", "swe", "ita"};
 
 
-    public ArrayList<String> getTranslations(Word word) {
+    public ArrayList<String> getTranslations(String word, String sourceLan)  {
         FileManager fileManager = new FileManager();
-        word.setText(word.getText().toLowerCase());
+        word = word.toLowerCase();
 
         ArrayList<String > translationList = new ArrayList<>();
         for (String language : languageList) {
 
-            if (!language.equals(word.getLanguage())) {
-                translationList.add(language + ": " + translate(fileManager.searchWord(word, language)));
+            if (!language.equals(sourceLan)) {
+                File file = new File("dictionaries\\"+ sourceLan+"-"+ language+".tei");
+                if (file.exists()) {
+                    translationList.add(language + ": " + fileManager.searchWord(word, sourceLan, language));
+                }else{
+                    translationList.add(language + ": " + fileManager.searchWord(fileManager.searchWord(word, sourceLan, "eng"),"eng",language));
+                }
+
+
             }
         }
         return translationList;
 
     }
 
-    /**
-     * separates the translation of the word from the definition.
-     * the dictionaries have different structure therefore the there are lines for special dictionaries:
-     * line 38 is for modern greek to english.
-     *
-     * @param definition is the definition of the headword
-     * @return translation of the headword
-     */
-    public static String translate(String definition) {
-        if (definition.isEmpty()){
-            return "Translation not found";
-        }
-        String[] lines = definition.split("\n");
-
-        String line = lines[1];
-        if (line.isEmpty()){
-            line = lines[2];
-        }
-        String[] parts = line.split(" ");
-        boolean flag;
-        String retString = "";
-
-
-        for (int i = 0; i<parts.length;i++) {
-
-            flag = true;
-            String[] punctiations = {"[", "]", ">", "<", "/","1","2","3","4","(",")"};
-
-            for (String punctiation : punctiations) {
-                if (parts[i].contains(punctiation)) {
-                    flag = false;
-                }
-            }
-            if (flag&&!parts[i].isEmpty()&&!retString.contains(",")){
-                retString = retString.concat(parts[i]+" ");
-
-
-
-            }
-
-        }
-        return retString.trim().replaceAll(",","").replaceAll("!","").replaceAll("‐","");
-    }
 
 }

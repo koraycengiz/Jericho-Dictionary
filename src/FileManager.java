@@ -1,78 +1,46 @@
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.RandomAccessFile;
+import java.io.*;
+import java.nio.charset.StandardCharsets;
 
 public class FileManager {
 
 
-    /**
-     * Finds the definition of the headword and returns.
-     * Even if the dictionary file cannot be found the method tries to translate
-     * to english then the target language in the  catch part exception handling.
-     * uses 64base decoding for finding the definition.
-     *
-     * @param word the word which required to be translated
-     * @param targetLanTag the tag of the target language
-     * @return definition of the headword
-     */
-    public String searchWord(Word word,String targetLanTag){
-        String retString = "";
+
+    public String searchWord(String word,String sourceLanTag, String targetLanTag) {
         try {
+            BufferedReader reader = new BufferedReader(new FileReader("dictionaries\\" + sourceLanTag + "-" + targetLanTag + ".tei"));
 
-            String path = String.format("dictionaries\\%s-%s\\%s-%s.",word.getLanguage(),targetLanTag,word.getLanguage(),targetLanTag);
-            BufferedReader bufferedReader = new BufferedReader(new FileReader(path+"index"));
-            String st;
+            String headword = "";
+            String line;
+            while ((line = reader.readLine()) != null) {
 
-            while ((st = bufferedReader.readLine()) != null){
+                if (line.contains("</orth>")) {
 
-                String[] parts = st.split("\t");
+                    headword = line.replaceAll("<.*?>", "").trim();
 
-                if (word.getText().equals(parts[0])){
-                    retString = searchDef(DictionaryParser.b64Decode(parts[1]),DictionaryParser.b64Decode(parts[2]),path);
+                    while (!(line.contains("</quote>")||line.contains("</def>"))&&reader.ready()) {
+                        line = reader.readLine();
 
-                    break;
+                    }
+
+                    String quote = line.replaceAll("<.*?>", "").trim();
+
+                    if (word.equalsIgnoreCase(headword)) {
+                        return quote;
+                    }
+
                 }
+
 
             }
 
-        }catch (IOException e){
-           Word tempWord = new Word(Dictionary.translate(searchWord(word,"eng")),"eng");
-            retString = searchWord(tempWord,targetLanTag);
-        }
-        return retString;
+            reader.close();
 
+        } catch (Exception e) {
+
+        }
+        return "";
     }
 
 
-    /**
-     * Accesses file from the absolute byte position and finds the definition in the .dict file
-     * @param abBytePath the absolute byte position of the definition
-     * @param textLength length of the definition
-     * @param filePath path of the required file without the extension(dict)
-     * @return definition of the headword
-     */
-    public String searchDef(long abBytePath, long textLength,String filePath){
-        String text = "";
 
-
-        try (RandomAccessFile file = new RandomAccessFile(filePath+"dict", "r")) {
-
-            file.seek(abBytePath);
-
-
-            byte[] textBytes = new byte[(int)textLength];
-            file.read(textBytes);
-
-
-            text = new String(textBytes);
-
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-        return text;
-
-
-    }
 }
