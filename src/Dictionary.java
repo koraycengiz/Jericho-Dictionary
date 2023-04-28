@@ -9,27 +9,42 @@ public class Dictionary {
     final String[] languageList = {"eng", "deu", "tur", "fra", "ell", "swe", "ita"};
 
 
-    public ArrayList<String> getTranslations(String word, String sourceLan)  {
+    public ArrayList<ArrayList<String>> getTranslations(String word)  {
         FileManager fileManager = new FileManager();
-        word = word.toLowerCase();
 
-        ArrayList<String > translationList = new ArrayList<>();
-        for (String language : languageList) {
 
-            if (!language.equals(sourceLan)) {
-                File file = new File("dictionaries\\"+ sourceLan+"-"+ language+".tei");
-                if (file.exists()) {
-                    translationList.add(language + ": " + fileManager.searchWord(word, sourceLan, language));
-                }else{
-                    translationList.add(language + ": " + fileManager.searchWord(fileManager.searchWord(word, sourceLan, "eng"),"eng",language));
+        ArrayList<ArrayList<String>> allTranslations = new ArrayList<>();
+
+        for (String language1 : languageList) {
+            ArrayList<String> translationList = new ArrayList<>();
+            translationList.add(language1);
+            boolean flag = false;
+            for(String language2: languageList) {
+                String filePath = "dictionaries\\" + language1 + "-" + language2 + ".tei";
+                if (!language1.equals(language2)) {
+                    String translation = fileManager.searchWord(word,language1,language2);
+                    if (!translation.equals("")) {
+                        translationList.add(language2+":"+translation);
+                        flag = true;
+                    }
+
+
                 }
-
+            }
+            if (flag) {
+                translationList.add("--------------------------");
+                allTranslations.add(translationList);
 
             }
+
         }
-        return translationList;
+        return allTranslations;
 
     }
+
+
+
+
 
 
 }

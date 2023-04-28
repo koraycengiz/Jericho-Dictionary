@@ -10,6 +10,8 @@ import javafx.scene.control.*;
 import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
 import javafx.stage.Stage;
+
+import java.util.ArrayList;
 import java.util.List;
 
 public class GUI extends Application {
@@ -107,20 +109,18 @@ public class GUI extends Application {
 
 
 
-        ChoiceBox<String> choiceBox = new ChoiceBox<>(
-                FXCollections.observableArrayList("eng", "deu", "tur", "fra", "ell", "swe", "ita"));
-        choiceBox.getSelectionModel().selectFirst(); // Select English by default
+
 
 
         HBox.setHgrow(label, Priority.ALWAYS);
-        HBox.setHgrow(choiceBox, Priority.ALWAYS);
+
 
         HBox secondLine = new HBox(8);
         secondLine.setAlignment(Pos.CENTER);
 
         VBox.setMargin(firstLine, new Insets(8));
 
-        firstLine.getChildren().addAll(label, choiceBox);
+
 
         Label word = new Label("Word:");
         TextField textField = new TextField();
@@ -133,7 +133,7 @@ public class GUI extends Application {
         Dictionary dict = new Dictionary();
         String textEntry = textField.getText();
 
-        benjamin.setOnAction(Event -> dict.getTranslations(textEntry,choiceBox.getValue()));
+
 
 
 
@@ -159,11 +159,13 @@ public class GUI extends Application {
 
         benjamin.setOnAction(event -> {
             String searchedWord = textField.getText();
-            String selectedLanguage = choiceBox.getValue();
 
-            List<String> translations = dict.getTranslations(searchedWord,selectedLanguage);
+
+            List<ArrayList<String>> translations = dict.getTranslations(searchedWord);
             items.clear();
-            items.addAll(translations);
+            for (ArrayList<String> translation:translations) {
+                items.addAll(translation);
+            }
         });
 
 

@@ -22,10 +22,10 @@ public class FileManager {
 
                     }
 
-                    String quote = line.replaceAll("<.*?>", "").trim();
+                    String translation = line.replaceAll("<.*?>", "").trim();
 
                     if (word.equalsIgnoreCase(headword)) {
-                        return quote;
+                        return translation;
                     }
 
                 }
