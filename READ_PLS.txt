@@ -1,0 +1,4 @@
+1-you need to download the zip file i added to git
+2- create a folder and name it "dictionaries" and put all the files into the folder from zip
+
+the reason why im doing this is because .tei files are too large to upload. i added "dictionaries" folder to gitignore so git won't see it as modifications. all of us will have the folder on our pcs but it won't be on github.
