@@ -65,6 +65,22 @@ public class Dictionary {
         return "";
     }
 
+    public void editWord(String oldWord,String newWord,String filePath){
+        FileManager fileManager = new FileManager();
+        String oldText = "<orth>"+oldWord+"</orth>";
+        String newText = "<orth>"+newWord+"</orth>";
+        fileManager.updateFile(oldText,newText,filePath);
+    }
+
+    public void editTranslation(String oldWord,String newWord,String filePath){
+        FileManager fileManager = new FileManager();
+        String oldText = "<quote>"+oldWord+"</quote>";
+        String oldText2 = "<def>"+oldWord+"</def>";
+        String newText = "<quote>"+newWord+"</quote>";
+        fileManager.updateFile(oldText,newText,filePath);
+        fileManager.updateFile(oldText2,newText,filePath);
+    }
+
 
 
 
