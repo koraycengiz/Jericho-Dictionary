@@ -1,7 +1,6 @@
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.HashMap;
 
 
 public class Dictionary {
@@ -25,9 +24,9 @@ public class Dictionary {
 
 
                     if (!language1.equals(language2)) {
-                        File file = new File("dictionaries\\"+language1 + "-" + language2 + ".tei");
+                        File file = new File("dictionaries\\"+language1 + "-" + language2 + ".txt");
                         if (file.exists()) {
-                            String translation = fileManager.searchWord(word, language1, language2);
+                            String translation = fileManager.readFile(word, language1, language2);
 
                             if (!translation.equals("")) {
                                 translationList.add(getLanName(language2) + ":" + translation);
@@ -36,8 +35,8 @@ public class Dictionary {
 
 
                         }else{
-                            String engTranslation = fileManager.searchWord(word,language1,"eng");
-                            String translation = fileManager.searchWord(engTranslation,"eng",language2);
+                            String engTranslation = fileManager.readFile(word,language1,"eng");
+                            String translation = fileManager.readFile(engTranslation,"eng",language2);
 
                             if (!translation.equals("")) {
                                 translationList.add(getLanName(language2)  + ":" + translation);
@@ -66,21 +65,9 @@ public class Dictionary {
         return "";
     }
 
-    public void editWord(String oldWord,String newWord,String filePath){
-        FileManager fileManager = new FileManager();
-        String oldText = "<orth>"+oldWord+"</orth>";
-        String newText = "<orth>"+newWord+"</orth>";
-        fileManager.updateFile(oldText,newText,filePath);
-    }
 
-    public void editTranslation(String oldWord,String newWord,String filePath){
-        FileManager fileManager = new FileManager();
-        String oldText = "<quote>"+oldWord+"</quote>";
-        String oldText2 = "<def>"+oldWord+"</def>";
-        String newText = "<quote>"+newWord+"</quote>";
-        fileManager.updateFile(oldText,newText,filePath);
-        fileManager.updateFile(oldText2,newText,filePath);
-    }
+
+
 
 
 
