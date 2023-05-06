@@ -1,0 +1,486 @@
+Afrika	Africa
+Afrikalı	African
+Alman	German
+Almanya	Germany
+Amerika	UnitedStatesofAmerica
+Amerikalı	American
+Amerikan timsahı	alligator
+Anadolu	Anatolia
+Ankara	Angora
+Arap	Arab
+Arjantin	Argentina
+Arnavut	Albanian
+Arnavutluk	Albania
+Asya	Asia
+Atlas Okyanusu	Atlantic
+Avrupalı	European
+Avustralya	Australia
+Avustralyalı	Australian
+Avusturya	Austria
+Avusturyalı	Austrian
+Belçika	Belgium
+Belçikalı	Belgian
+Birleşik Devletler	UnitedStatesofAmerica
+Boğaziçi	Bosporus
+Brezilya	Brazil
+Brezilyalı	Brazilian
+Britanya	Britain
+Bulgaristan	Bulgaria
+Büyük Okyanus	Pacific
+Cezayir	Algeria
+Cezayirli	Algerian
+Danimarka	Denmark
+Danimarkalı	Dane
+Filistin	Palestine
+Finlandiya	Finland
+Fransa	France
+Fransız	French
+Habeşistan	Abyssinia
+Hindistan	India
+Hintli	Indian
+Hollanda	Holland
+Hollandalı	Dutchman
+Hıristiyan	Christian
+Japonca	Japanese
+Japonya	Japan
+Japonyalı	Japanese
+Kanada	Canada
+Kanadalı	Canadian
+Kıbrıs	Cyprus
+Kıbrıslı	Cypriot
+Kızılderili	Indian
+Lübnan	Lebanon
+Macaristan	Hungary
+Muhammet	Mohammed
+Musevi	Jew
+Müslüman	Mohammedan
+Mısır	Egypt
+Mısırlı	Egyptian
+Noel	Christmas
+Norveç	Norway
+Norveçce	Norwegian
+Norveçli	Norwegian
+Paskalya	Easter
+Polonya	Poland
+Polonyalı	Polish
+Portekiz	Portugal
+Portekizli	Portuguese
+Ren	Rhine
+Romanya	Romania
+Rumanya	Romania
+Rumca	Greek
+Rus	Russian
+Rusya	Russia
+Rusça	Russian
+Suriye	Syria
+Suriyeli	Syrian
+Türkiye	Turkey
+Yahudi	Jew
+Yugoslav	Yugoslav
+Yugoslavya	Yugoslavia
+Yunanistan	Greece
+Yunanlı	Greek
+abajur	lamp‐shade
+abartmak	exaggerate
+abes	absurd
+abide	monument
+abla	sister
+abluka	blockade
+abluka etmek	block
+abone	subscriber
+abuk sabuk	nonsense
+acayip	odd
+acele	hurried
+acemi	beginner
+acente	agent
+acil	pressing
+aciz	faint
+acı	acerbic
+acıklı	affecting
+acıkmak	besorryabout
+acılık	acerbity
+acımak	ache
+acındırmak	excitepity
+acıtmak	hurt
+ad	appellation
+ada	island
+adam	man
+adres	address
+af	actofgrace
+akasya	acacia
+akordeon	accordion
+akrobat	acrobat
+aktris	actress
+aktör	actor
+akustik	acoustics
+akvaryum	aquarium
+akümülatör	accumulator
+akşam	evening
+akıl	brain
+alay	irony
+alaşım	alloy
+albay	colonel
+albüm	album
+alev	flame
+aleyhinde	acrossfrom
+alfabe	alphabet
+alkiş	acclaim
+alkol	alcohol
+alkışlamak	acclaim
+almak	get
+almanak	almanac
+altı	six
+alüminyum	aluminium
+amatör	amateur
+amerikalı	American
+amiral	admiral
+amonyak	ammonia
+amper	ampère
+anahtar	key
+anarşi	anarchy
+anarşist	anarchist
+anatomi	anatomy
+ancak	barely
+anemi	anaemia
+anlamak	understand
+anne	mother
+anonim	anonymous
+anormal	abnormal
+ansiklopedi	encyclopaedia
+anten	aerial
+antika	ancient
+apostrof	apostrophe
+apse	abscess
+aralık	December
+aramak	lookfor
+arasında	among
+arena	arena
+arkadaş	friend
+arkasından	behind
+arpa	barley
+arzu	appetite
+arı	bee
+arı kovanı	beehive
+asfalt	asphalt
+asker	army
+astronomi	astronomy
+astronot	astronaut
+astım	asthma
+asır	centennial
+at	horse
+ata	forefather
+atardamar	artery
+ateş	fire
+atlas	atlas
+atlet	athlete
+atmak	throw
+atmosfer	atmosphere
+atom	atom
+avantaj	advantage
+avantajlı	advantageous
+ay	moon
+ayak bileği	ankle
+ayak parmağı	toe
+aç	hungry
+açgözlü	insatiable
+açmak	open
+açık	bright
+açıkgöz	clever
+açıklama	account
+açıklamak	accountfor
+açıkça	clearly
+ağustos	August
+baba	dad
+babacığım	dad
+baca	chimney
+bagaj	baggage
+bakteriler	bacterium
+bakışım	symmetry
+balina	whale
+balkon	balcony
+balon	balloon
+balta	axe
+balık	fish
+balıkçı	fisherman
+banka	bank
+banyo	bathroom
+banyo odası	bathroom
+barbar	barbarian
+barikat	barricade
+barometre	barometer
+baron	baron
+basur	haemorhoids
+battaniye	blanket
+batı	west
+batıya ait	western
+baykuş	owl
+bayrak	banner
+başka	other
+başlamak	begin
+bebek	baby
+beden	body
+beden yapısı	anatomy
+beklemek	abide
+belkemiği	spine
+benzin	gasolene
+berber	barber
+beygir	horse
+beyin	brain
+bez	cloth
+beş	five
+beğenmek	approve
+biftek	steak
+bilardo	billiards
+bilet	bill
+bilezik	bracelet
+bilgisinde	adjective
+bilmek	know
+bina	building
+bir	one
+bira	ale
+birader	brother
+biriktirmek	collect
+birlik	unity
+bir daha	other
+bir uzvu kesmek	amputate
+bisiklet	bike
+biz	us
+biçak	knife
+boksör	boxer
+bomba	bomb
+boş	empty
+boğa güreşi alanı	arena
+broşür	leaflet
+bugün	today
+bulmak	find
+bulunmayış	absence
+bulut	cloud
+bulüz	blouse
+burun	nose
+burç	horoscope
+buz	ice
+böbrek	kidney
+bölüm	chapter
+bülbül	nightingale
+bütün	all
+büyük	big
+büyük elçi	ambassador
+büyük kilise	cathedral
+büyük zil	cymbal
+bırakmak	absentonself
+cadde	street
+cambaz	acrobat
+cami	mosque
+cebir	algebra
+cephane	munition
+cevap	answer
+cevap vermek	answer
+ceviz	walnut
+ceylan	gazelle
+coğrafya	geography
+cuma	Friday
+cumartesi	Sabbath
+cümle kuruluşu	syntax
+da	also
+daha iyi	better
+daha şimdiden	already
+dahi	also
+daima	always
+daire	circle
+damat	son‐in‐law
+dana	calf
+dans	dance
+dans etmek	dance
+dar	narrow
+darı	corn
+dağ	mountain
+de	also
+defter	notebook
+demek	say
+demir	iron
+demirci	smith
+deri	leather
+dev	giant
+deve	camel
+dikenli çalı	thorn
+diktatör	dictator
+dilenci	beggar
+dilenmek	beg
+dimağ	brain
+dinamit	dynamite
+dinlemek	listen
+dinsizlik	atheism
+dip	bottom
+diploma	diploma
+diplomat	diplomat
+dirsek	elbow
+diyalog	dialogue
+diz	knee
+diğer bir	other
+dokuz	nine
+dolar	dollar
+domuz	hog
+domuz eti	pork
+domuz pastarması	bacon
+dondurma	ice
+doğru	accurate
+doğu	east
+doğum	birth
+doğum günü	birthday
+doğuya ait	eastern
+duka	duke
+durmak	halt
+dört	four
+dük	duke
+dükkân	boutique
+dülger	carpenter
+dün	yesterday
+dünya	world
+düzenlemek	arrange
+düşes	duchess
+düşmek	drop
+düşünmek	think
+ecnebi memlekette	foreigncountry
+ekim	October
+ekmek	bread
+elbise	clothes
+elektrik	electricity
+elektriki	electric
+elma	apple
+emniyet	police
+engel	barrier
+erkek	fellow
+erkek domuz	boar
+erkek kardeş	brother
+eski	ex‐
+etmek	achieve
+evet	yes
+ev kadını	housewife
+eylül	September
+eş	wife
+eşek	ass
+eşkiya	bandit
+eşlik etmek	accompany
+eğer	if
+eğlence	amusement
+eğlendirmek	amuse
+fakat	but
+falı	horoscope
+fare	mouse
+fark	difference
+fasulye	bean
+felaket	catastrophe
+fena	bad
+feshetmek	abjure
+fikir	idea
+fikir vermek	advise
+fil	elephant
+fildişi	ivory
+fizik	physics
+fizikçi	physicist
+formül	formula
+fotoğraf	photograph
+fren	brake
+fıkra	anecdote
+fındık	nut
+fırıncı	baker
+fırında pişirmek	bake
+fıskiye	fountain
+gaga	beak
+gazeteci	journalist
+gece	night
+gelmek	come
+gemi	boat
+genelev	brothel
+genişlik	width
+geometri	geometry
+geriye doğru	backward
+getirmek	bring
+girmek	goin
+gitar	guitar
+gitmek	go
+gri	grey
+grup	group
+göbek	abdomen
+göndermek	send
+görmek	see
+gövde	body
+gün	day
+gündem	agenda
+gündüz	day
+gürültü	ado
+gürültücü	noisy
+gürültülü	noisy
+güve	moth
+güzel	beautiful
+güzellik	beauty
+güzel koku	aroma
+güzel sanat	art
+güç	energy
+haber vermek	advertise
+hafta	week
+hala	aunt
+halihazırda	already
+halita	alloy
+hareket	achievement
+hasırdan yapılmış	straw
+hava	air
+havalimanı	airport
+havaî	aerial
+havuç	carrot
+havyar	caviar
+haydut	bandit
+hayran olmak	admire
+hayvan	animal
+hayvanat bahçesi	zoo
+hayvanbilim	zoology
+hayvansal	animal
+haziran	June
+hece	syllable
+hedef	aim
+hemen hemen	almost
+her zaman	always
+hesap	account
+heyet	committee
+hikâye	anecdote
+hiçbir yerde	nowhere
+hiçbir şey	nothing
+horoz	cock
+hortlak	ghost
+hoş	agreeable
+hücum	access
+hürmet göstermek	honor
+hırslı	ambitious
+hırsızlık	abstraction
+hıyar	cucumber
+hızlandırmak	accelerate
+idealist	idealist
+ideoloji	ideology
+ihtiras	ambition
+iki	two
+iklim	climate
+ilahi	anthem
+ilahiyat	theology
+ilan	ad
+ilan etmek	advertise
+imparator	emperor
+imparatoriçe	empress
+imparatorluk	empire
+inanmak	account
+inanç	belief
+inek	cow
+iptal etmek	abjure
+irtifa	altitude
+ise	if
+isim	appellation
+isimsiz	anonymous
+istasyon	railwaystation
+istek	appetite
+istihza	irony
+istiridye	oyster
+itaat etmek	obey
+itham etmek	accuse
+iyod	iodine
+izin vermek	accord
+içilen şey	beverage
+içmek

@@ -1,0 +1,6986 @@
+ADN	DNA
+Aalandais	Alandlı
+Aalandaise	Alandlı
+Aaron	Harun
+Abel	Habil
+Abkhazie	Abhazya
+Abraham	İbrahim
+Abyssinie	Habeşistan
+Achernar	Ağız
+Achille	Akhilleus
+Adam	Âdem
+Addis-Abeba	Addis Ababa
+Adrastée	Adrastea
+Afghanistan	Afganistan
+Africain	Afrikalı
+Afrique	Afrika
+Afrique du Sud	Güney Afrika Cumhuriyeti
+Agathias	Agathias
+Aigle	Kartal
+Ain	Ain
+Aisne	Aisne
+Aix-en-Provence	Aix-en-Provence
+Aix-la-Chapelle	Aachen
+Ajaccio	Ajaccio
+Al-Qaïda	El Kaide
+Albanie	Arnavutluk
+Albiorix	Albiorix
+Alep	Halep
+Alexandre	İskender
+Alexandre le Grand	Büyük İskender
+Alexandrette	İskenderun
+Alexandrie	İskenderiye
+Alger	Cezayir
+Algérie	Cezayir
+Algérien	Cezayirli
+Allah	Allah
+Allemagne	Almanya
+Allemagne de l’Ouest	Batı Almanya
+Allemand	Alman
+Allier	Allier
+Almaty	Almatı
+Alpes	Alpler
+Alpes-Maritimes	Alpes-Maritimes
+Alpes-de-Haute-Provence	Alpes-de-Haute-Provence
+Alsace	Alsas
+Amalthée	Amalthea
+Amazone	Amazon Nehri
+Amman	Amman
+Amour	Amur
+Amsterdam	Amsterdam
+Amédée	Ahmet
+Américain	Amerikalı
+Amérique	Amerika
+Amérique du Nord	Kuzey Amerika
+Amérique du Sud	Güney Amerika
+Anatolie	Anadolu
+Ancien Monde	Eski Dünya
+Andalousie	Endülüs
+Andorre	Andorra
+Andorre-la-Vieille	Andorra la Vella
+Andromaque	Andromahi
+Andromède	Andromeda
+Anglais	İngiliz
+Angleterre	İngiltere
+Angleterre du Nord-Est	Kuzey Doğu İngiltere
+Angleterre du Nord-Ouest	Kuzey-Batı İngiltere
+Angleterre du Sud-Est	Güney Doğu İngiltere
+Angola	Angola
+Anguilla	Anguilla
+Ankara	Ankara
+Antarctique	Antarktika
+Antigua-et-Barbuda	Antigua ve Barbuda
+Antiguais	Antigualı
+Antilles néerlandaises	Hollanda Antilleri
+Antioche	Antakya
+Antoine	Antümi
+Anvers	Antwerp
+Apiacées	maydanozgiller
+Arabe	Arap
+Arabie	Arabistan
+Arabie saoudite	Suudi Arabistan
+Aragon	Aragon
+Ararat	Ağrı Dağı
+Arcadie	Arkadia
+Archimède	Arşimet
+Ardennes	Ardennes
+Ardèche	Ardèche
+Argentin	Arjantinli
+Argentine	Arjantin
+Ariel	Ariel
+Aristote	Aristo
+Ariège	Ariège
+Arkhangelsk	Arhangelsk
+Arlequin	Harlequin
+Arménie	Ermenistan
+Arménien	ermeniler
+Arnaoute	arnavut
+Art nouveau	Art Nouveau
+Artémis	Artemis
+Aruba	Aruba
+Arubéen	Arubalı
+Asiatique	Asyalı
+Asie	Asya
+Asie du Sud	Güney Asya
+Asie du Sud-Est	Güneydoğu Asya
+Assyrie	Asur
+Astérix	Asteriks
+Athènes	Atina
+Atlantique	Atlantik
+Atlas	Atlas
+Attila	Attila
+Aube	Aube
+Aude	Aude
+Australie	Avustralya
+Australie-Méridionale	Güney Avustralya
+Australie-Occidentale	Batı Avustralya
+Autel	Sunak
+Autriche	Avusturya
+Autriche-Hongrie	Avusturya-Macaristan
+Autrichien	Avusturyalı
+Aveyron	Aveyron
+Avignon	Avignon
+Azerbaïdjan	Azerbaycan
+Açores	Azorlar
+Aïd el-Kebir	Kurban Bayramı
+BDSM	BDSM
+Babel	Babil
+Babylone	Babil
+Bachkirie	Başkurdistan
+Bagdad	Bağdat
+Bahamas	Bahama
+Bahreïn	Bahreyn
+Bakou	Bakü
+Balance	Terazi
+Baleine	Balina
+Balkans	Balkanlar
+Bamako	Bamako
+Bande de Gaza	Gazza seridi
+Bangkok	Bangkok
+Bangladesh	Bangladeş
+Banjul	Banjul
+Barbade	Barbados
+Barcelone	Barselona
+Basque	Basklar
+Basse-Normandie	Aşağı Normandiya
+Basse-Saxe	Niedersachsen
+Bavière	Bavyera
+Bebhionn	Bebhionn
+Belfast	Belfast
+Belge	Belçikalı
+Belgique	Belçika
+Belgrade	Belgrad
+Belize	Belize
+Benghazi	Bingazi
+Bergelmir	Bergelmir
+Berlin	Berlin
+Bermudes	Bermuda
+Bessarabie	Besarabya
+Bestla	Bestla
+Bethléem	Betlehem
+Beyrouth	Beyrut
+Bhoutan	Butan
+Bianca	Bianca
+Bible	Kitab-ı Mukaddes
+Bichkek	Bişkek
+Bilbao	Bilbao
+Birmanie	Birmanya
+Birmingham	Birmingham
+Biscaye	Biskay
+Biélorussie	Beyaz Rusya
+Blanche-Neige	Pamuk
+Bohême	Bohemya
+Bolivie	Bolivya
+Bolivien	Bolivyalı
+Bologne	Bologna
+Bombay	Mumbai
+Bornholm	Bornholm
+Bornéo	Borneo
+Bosnie-Herzégovine	Bosna ve Hersek
+Bosphore	İstanbul Boğazı
+Boston	Boston
+Botswana	Botsvana
+Bouches-du-Rhône	Bouches-du-Rhône
+Bouddha	Buda
+Bourgas	Burgaz
+Bourgogne	Burgonya
+Bouriatie	Buryatya
+Boussole	Kumpas
+Bouvier	Çoban
+Bratislava	Bratislava
+Bretagne	Breton
+Brunei	Brunei
+Bruxelles	Brüksel
+Brésil	Brezilya
+Brême	Bremen
+Bucarest	Bükreş
+Budapest	Budapeşte
+Bulgare	Bulgar
+Bulgarie	Bulgaristan
+Burin	Çelikkalem
+Burkina Faso	Burkina Faso
+Burundi	Burundi
+Bégonia	Begonya
+Bélier	Koç
+Bélinda	Belinda
+Bénin	Benin
+Bételgeuse	Betelgeuse
+CEE	AET
+Calabre	Calabria
+Caliban	Caliban
+Californie	Kaliforniya
+Callisto	Callisto
+Calvados	Calvados
+Calypso	Calypso
+Cambodge	Kamboçya
+Cameroun	Kamerun
+Caméléon	Bukalemun
+Canada	Kanada
+Canadien	Kanadalı
+Canaries	Kanarya Adaları
+Canberra	Canberra
+Cancer	Yengeç
+Candie	Kandiye
+Cantique des Cantiques	Ezgiler Ezgisi
+Cap-Vert	Kap Verde
+Cappadoce	Kapadokya
+Capricorne	Oğlak
+Captain America	Kaptan Amerika
+Caracas	Karakas
+Carbonifère	karbonifer
+Carcassonne	Carcassonne
+Cardiff	Cardiff
+Carpates	Karpatlar
+Carène	Karina
+Carélie	Karelya
+Cassiopée	Kraliçe
+Catalogne	Katalonya
+Catwoman	Kedi Kadın
+Caucase	Kafkasya
+Caïn	Kabil
+Cendrillon	Külkedisi
+Centaure	Erboğa
+Charlemagne	Şarlman
+Charon	Charon
+Chicago	Chicago
+Chiens de chasse	Av Köpekleri
+Chili	Şili
+Chine	Çin
+Chinois	Çinli
+Chitral	Çitral
+Christophe	Kristof
+Chronos	Kronos
+Chypre	Kıbrıs
+Chypriote	Kıbrıslı
+Cisjordanie	Batı Şeria
+Cizre	Cizre
+Clèves	Kleve
+Coca-Cola	Coca-Cola
+Coccinelle	Kaplumbağa
+Cocher	Arabacı
+Cologne	Köln
+Colombe	Güvercin
+Colombie	Kolombiya
+Colombie-Britannique	Britanya Kolumbiyası
+Colombien	Kolombiyalı
+Commission européenne	Avrupa Komisyonu
+Commonwealth	İngiliz Milletler Topluluğu
+Communauté européenne du charbon et de l’acier	Avrupa Kömür ve Çelik Topluluğu
+Communauté économique européenne	Avrupa Ekonomik Topluluğu
+Compas	Pergel
+Conakry	Konakri
+Connacht	Connacht
+Constance	Konstanz
+Constantinople	Konstantinopolis
+Constanța	Köstence
+Copenhague	Kopenhag
+Coran	Kur'an
+Corbeau	Karga
+Cordoue	Córdoba
+Cordélia	Cordelia
+Corfou	Korfu
+Corinthe	Korint
+Corne de l’Afrique	Afrika Boynuzu
+Corse	Korsika
+Corée	Kore
+Corée du Nord	Kuzey Kore
+Corée du Sud	Güney Kore
+Costa Rica	Kosta Rika
+Costa-Rica	Kosta Rika
+Coupe	Kupa
+Couronne australe	Güneytacı
+Couronne boréale	Kuzeytacı
+Cressida	Cressida
+Crimée	Kırım
+Croate	Hırvat
+Croatie	Hırvatistan
+Croissant fertile	Bereketli Hilal
+Croix du Sud	Güneyhaçı
+Cronos	Kronus
+Crète	Girit
+Crésus	Krezüs
+Crétacé	Kretase
+Cthulhu	Cthulhu
+Cuba	Küba
+Cupidon	Cupid
+Cyclades	Kiklad Adaları
+Cygne	Kuğu
+Cénozoïque	Senozoik
+Céphalonie	Kefalonia
+Céphée	Kral
+Cérès	Ceres
+Cérès	Ceres
+Côte d’Azur	Fransız Rivierası
+DDT	DDT
+Damas	Şam
+Danemark	Danimarka
+Danube	Tuna nehri
+Daphnis	Daphnis
+Daphné	Dafni
+Dardanelles	Çanakkale Boğazı
+Dauphin	Yunus
+David	Davut
+Decca	Decca
+Dehkanabad	Dehkanabad
+Delhi	Delhi
+Denys	Deniz
+Desdémone	Desdemona
+Despina	Despina
+Didymes	Didim
+Dieu	Tanrı
+Dingo	Gufi
+Dioné	Dione
+Djibouti	Cibuti
+Dniepr	Dinyeper
+Dodécanèse	On İki Ada
+Doha	Doha
+Dominique	Dominik
+Don	Don
+Don Quichotte	Don Kişot
+Dorade	Kılıçbalığı
+Douchanbé	Duşanbe
+Dr	Dr.
+Dragon	Ejderha
+Dresde	Dresden
+Dublin	Dublin
+Durrës	Dıraç
+Déimos	Deimos
+Démosthène	Demosthenes
+Dévonien	Devoniyen
+Empire ottoman	Osmanlı İmparatorluğu
+Encelade	Enceladus
+Erriapo	Erriapo
+Erriapus	Erriapo
+Eschyle	Aiskhylos
+Esdras	Üzeyir
+Espagne	İspanya
+Estonie	Estonya
+Ethernet	Ethernet kartı
+Euphrate	Fırat
+Eurasie	Avrasya
+Euripide	Euripides
+Europe	Avrupa
+Europe centrale	Orta Avrupa
+Europe du Sud	Güney Avrupa
+Européen	Avrupalı
+Extrême-Orient	Uzak Doğu
+Extrême-Orient russe	Uzak Doğu Rusyası
+Farbauti	Farbauti
+Fenrir	Fenrir
+Ferdinand	Ferdinand
+Fidji	Fiji
+Finlandais	Fin
+Finlande	Finlandiya
+Finnois	Fin
+Flandre	Flandre
+Florence	Floransa
+Floride	Florida
+Flèche	Okçuk
+Force	Güç
+Fornjot	Fornjot
+Fourneau	Ocak
+Franc	Frenk
+France	Fransa
+Franche-Comté	Franche-Comté
+Francisco	Francisco
+Français	Fransız
+Fès	Fes
+Gabon	Gabon
+Galata	Galata
+Galatée	Galatea
+Galice	Galiçya
+Galicie	Galiçya
+Galicien	Galiçyalı
+Galilée	Celile
+Gambie	Gambiya
+Gand	Gent
+Ganymède	Ganymede
+Garamantes	Garamantlar
+Gendarmerie nationale	Ulusal Jandarma
+Genève	Cenevre
+Georges	Jorj
+Ghana	Gana
+Gibraltar	Cebelitarık
+Girafe	Zürafa
+Glasgow	Glasgow
+Goudjarati	Gujarati
+Grand Chien	Büyük Köpek
+Grand Turc	Osmanlı Padişahı
+Grande Baie australienne	Büyük Avustralya Körfezi
+Grande Ourse	Büyük Ayı
+Grande-Bretagne	Büyük Britanya
+Grands Lacs	Büyük Göller
+Grenade	Granada
+Grenoble	Grenoble
+Groenland	Grönland
+Groenlandais	Grönlandlı
+Groupe local	Yerel Grup
+Grue	Turna
+Grèce	Yunanistan
+Guadeloupe	Guadeloupe
+Guam	Guam
+Guatemala	Guatemala
+Guernesey	Guernsey
+Guinée	Gine
+Guinée équatoriale	Ekvator Ginesi
+Guinée-Bissau	Gine Bissau
+Gujarati	Gujarati
+Guyana	Guyana
+Guyane	Fransız Guyanası
+Gémeaux	İkizler
+Géorgie	Gürcistan
+Gérone	Girona
+Gênes	Cenova
+Hadès	Hades
+Hambourg	Hamburg
+Hanoukka	Hanuka
+Hati	Hati
+Hautes-Alpes	Hautes-Alpes
+Hawaï	Hawaii
+Haïti	Haiti
+Haïtien	Haitili
+Helsinki	Helsinki
+Hercule	Herkül
+Himalia	Himalia
+Hippocrate	Hipokrat
+Hiérosolymitain	Kudüslü
+Hollande	Hollanda
+Homs	Humus
+Homère	Homeros
+Honduras	Honduras
+Hong Kong	Hong Kong
+Hongrie	Macaristan
+Hongrois	Macar
+Honshu	Honşu
+Horloge	Saat
+Hun	Hun
+Hydra	Hydra
+Hydre	Suyılanı
+Hydre mâle	Küçüksuyılanı
+Hygie	Hygieia
+Hypérion	Hyperion
+Hyrrokkin	Hyrokkin
+Hégire	Hicret
+Hélène	Helene
+Héra	Hera
+Héraklion	Kandiye
+IMC	VKİ
+IPv6	IPv6
+IRM	MR
+Ibiza	İbiza
+Ienisseï	Yenisey Irmağı
+Ijiraq	Ijiraq
+Ille-et-Vilaine	Ille-et-Vilaine
+Inde	Hindistan
+Indien	Hint
+Indien	Hintli
+Indonésie	Endonezya
+Internet	İnternet
+Io	Io
+Iran	İran
+Iranien	İranlı
+Iraq	Irak
+Irkoutsk	İrkutsk
+Irlande	İrlanda
+Irlande du Nord	Kuzey İrlanda
+Isaac	İshak
+Isis	İsis
+Islamabad	İslamabad
+Islande	İzlanda
+Israélien	İsrailli
+Israël	İsrail
+Istanbul	İstanbul
+Italie	İtalya
+Italien	İtalyan
+Ithaque	İthaka
+Ixion	İksion
+Izmir	İzmir
+Jack l’Éventreur	Karındeşen Jack
+Jacob	Yakup
+Jacques	Yakup
+Jakarta	Cakarta
+Jamaïque	Jamaika
+Jan Mayen	Jan Mayen
+Janus	Janus
+Japet	Iapetus
+Japon	Japonya
+Japonais	Japon
+Java	Java
+Jean	Yahya
+Jephté	Yeftah
+Jersey	Jersey
+Jeux olympiques	Olimpiyat Oyunları
+Jeux paralympiques	Paralimpik Oyunları
+Job	Eyyub
+Jordanie	Ürdün
+Joseph	Yusuf
+Judas	Yehuda
+Juges	Hakimler
+Juif	Musevi
+Juliette	Juliet
+Jupiter	Jüpiter
+Jutland	Yutland
+Jutland central	Orta Danimarka
+Jutland du Nord	Kuzey Danimarka
+Jéricho	Eriha
+Jérusalem	Kudüs
+Jésus	İsa
+Jésus-Christ	İsa Mesih
+Kaboul	Kâbil
+Kabylie	Kabiliye
+Kalmoukie	Kalmukya
+Kara-Koum	Karakum
+Karachi	Karaçi
+Karakoum	Karakum
+Kari	Kari
+Kaunas	Kaunas
+Kazakhstan	Kazakistan
+Kazan	Kazan
+Kenya	Kenya
+Khartoum	Hartum
+Khrouchtchev	Kruşçev
+Kiel	Kiel
+Kiev	Kiev
+Kirghizistan	Kırgızistan
+Kiribati	Kiribati
+Kiviuq	Kiviuq
+Klingon	Klingon
+Kobané	Arab-Pınar
+Konya	Konya
+Kosovo	Kosova
+Koweït	Kuveyt
+Košice	Košice
+Krasnodar	Krasnodar
+Kremlin	Kremlin
+Ku Klux Klan	Ku Klux Klan
+Kuala Lumpur	Kuala Lumpur
+Kurde	Kürt
+Kurdistan	Kürdistan
+Kyoto	Kyoto
+Kâmasûtra	Kama Sutra
+La Haye	Lahey
+La Mecque	Mekke
+Lahore	Lahor
+Laomédie	Laomedeia
+Laos	Laos
+Larissa	Larissa
+Lattaquié	Lazkiye
+Laurasie	Laurasia
+Lausanne	Lozan
+Le Caire	Kahire
+Le Cap	Cape Town
+Leinster	Leinster
+Leipzig	Leipzig
+Lena	Lena Nehri
+Lesotho	Lesoto
+Lettonie	Letonya
+Liban	Lübnan
+Libye	Libya
+Licorne	Tekboynuz
+Liechtenstein	Lihtenştayn
+Lilith	Lilith
+Lima	Lima
+Limerick	Limerick
+Lion	Aslan
+Lisbonne	Lizbon
+Lituanie	Litvanya
+Liverpool	Liverpool
+Lièvre	Tavşan
+Ljubljana	Ljubljana
+Loge	Loge
+Lombardie	Lombardy
+Londres	Londra
+Lorraine	Lorraine
+Los Angeles	Los Angeles
+Louisiane	Louisiana
+Loup	Kurt
+Lucky Luke	Red Kit
+Lune	Ay
+Luxembourg	Lüksemburg
+Lydie	Lidya
+Lynx	Vaşak
+Lyon	Lyon
+Lyre	Çalgı
+Léda	Leda
+Léna	Lena Nehri
+Lénine	Lenin
+Léningrad	Leningrad
+Léthé	Lethe
+Lézard	Kertenkele
+Lübeck	Lübeck
+L’Aquila	L’Aquila
+M. Je-Sais-Tout	çokbilmiş
+Mab	Mab
+Macao	Makao
+Machine pneumatique	Pompa
+Machrek	Maşrek
+Macédoine	Makedonya
+Madagascar	Madagaskar
+Madame	hanım
+Mademoiselle	bayan
+Madrid	Madrid
+Maghreb	Mağrip
+Mahomet	Muhammed
+Maison Blanche	Beyaz Saray
+Majorque	Mayorka
+Malaisie	Malezya
+Malawi	Malavi
+Maldives	Maldivler
+Mali	Mali
+Malte	Malta
+Manbij	Menbic
+Manche	Manche
+Manchester	Manchester
+Manitoba	Manitoba
+Marguerite	Margaret
+Marie	Meryem
+Marmara	Marmara
+Maroc	Fas
+Marrakech	Marakeş
+Mars	Mars
+Marseille	Marsilya
+Marsupilami	Marsupilami
+Martinique	Martinique
+Mauritanie	Moritanya
+Maya	Maya
+Mayotte	Mayotte
+Medjidieh	Mecidiye
+Melbourne	Melbourne
+Melilla	Melilla
+Mercure	Merkür
+Mexique	Meksika
+Miami	Miami
+Michel	Mikail
+Micronésie	Mikronezya
+Microscope	Mikroskop
+Milan	Milano
+Mimas	Mimas
+Minorque	Minorka
+Minsk	Minsk
+Miranda	Miranda
+Misrata	Misurata
+Mogadiscio	Mogadişu
+Moires	Mireler
+Moldavie	Moldova
+Monaco	Monako
+Mongol	Moğol
+Mongolie	Moğolistan
+Mongolie intérieure	İç Moğolistan
+Monsieur	beyefendi
+Montréal	Montreal
+Montserrat	Montserrat
+Monténégro	Karadağ
+Moravie	Moravya
+Moscou	Moskova
+Mouche	Sinek
+Moustapha	Mustafa
+Moyen Âge	Orta Çağ
+Moyen-Orient	Orta Doğu
+Mozambique	Mozambik
+Moïse	Musa
+Mundilfari	Mundilfari
+Munich	Münih
+Murcie	Murcia
+Muse	Müz
+Myanmar	Myanmar
+Méandre	Menderes
+Méditerranée	Akdeniz
+Méduse	Medusa
+Mékong	Mekong
+Méphistophélès	Mephistopheles
+Mésoamérique	Mezoamerika
+Mésopotamie	Mezopotamya
+Mésopotamien	Mezopotamyalı
+Mésozoïque	Mezozoik
+Métis	Metis
+Namibie	Namibya
+Nankin	Nankin
+Naples	Napoli
+Napoléon	Napolyon
+Narcisse	Narkissos
+Narva	Narova
+Narvi	Narvi
+Nauru	Nauru
+Nauruan	Naurulu
+Navarre	Navarra
+Naïade	Naiad
+Neptune	Neptün
+New Delhi	Yeni Delhi
+New York	New York
+Nicaragua	Nikaragua
+Nicosie	Lefkoşa
+Niger	Nijer Nehri
+Nigeria	Nijerya
+Nigérian	Nijeryalı
+Nigérien	Nijerli
+Nil	Nil
+Nil Blanc	Beyaz Nil
+Nil Bleu	Mavi Nil
+Nioué	Niue
+Nix	Nix
+Normandie	Normandiya
+Norouz	nevruz
+Norvège	Norveç
+Norvégien	Norveçli
+Notre Père	Babamız
+Nouveau Testament	Yeni Ahit
+Nouveau-Brunswick	New Brunswick
+Nouveau-Mexique	New Mexico
+Nouvelle-Calédonie	Yeni Kaledonya
+Nouvelle-Espagne	Yeni İspanya
+Nouvelle-France	Yeni Fransa
+Nouvelle-Zemble	Novaya Zemlya
+Nouvelle-Zélande	Yeni Zelanda
+Noé	Nuh
+Noël	Noel
+Numidie	Numidya
+Nunavut	Nunavut
+Néogène	Neojen
+Népal	Nepal
+Népalais	Nepalli
+Néréide	Nereid
+Néso	Neso
+Nîmes	Nîmes
+OACI	USHÖ
+ONU	BM
+OTAN	NATO
+Obéron	Oberon
+Octant	Sekizlik
+Océanie	Okyanusya
+Odessa	Odessa
+Odin	Odin
+Oghouzes	Oğuz
+Oiseau de paradis	Cennetkuşu
+Olympus Mons	Olympus Mons
+Oman	Umman
+Omsk	Omsk
+Ophélie	Ophelia
+Ordovicien	Ordovisyen
+Organisation de l’aviation civile internationale	Uluslararası Sivil Havacılık Örgütü
+Organisation des Nations Unies	Birleşmiş Milletler
+Organisation du traité de l’Atlantique Nord	Kuzey Atlantik Antlaşması Örgütü'nün kısaltması
+Organisation mondiale de la santé	Dünya Sağlık Örgütü
+Orion	Orion
+Orléans	Orléans
+Osiris	Osiris
+Oslo	Oslo
+Ottawa	Ottawa
+Oudmourtie	Udmurtya
+Ouganda	Uganda
+Ougandais	Ugandalı
+Oulan-Bator	Ulan Batur
+Oural	Ural
+Ouranos	Uranüs
+Ouzbek	Özbek
+Ouzbékistan	Özbekistan
+PCI	PCI
+PSDC	AGSP
+Paaliaq	Paaliaq
+Padoue	Padova
+Pakistan	Pakistan
+Palaos	Palau
+Palerme	Palermo
+Palestine	Filistin
+Palestinien	Filistinli
+Pallène	Pallene
+Paléogène	Paleojen
+Pan	Pan
+Panama	Panama
+Panaméen	Panamalı
+Pandore	Pandora
+Paon	Tavus
+Papouasie-Nouvelle-Guinée	Papua Yeni Gine
+Paraguay	Paraguay
+Parallel ATA	ATA
+Paris	Paris
+Paris ne s’est pas fait en un jour	Sabreden dervis muradına ermis
+Pasiphaé	Pasiphae
+Pays de Galles	Galler
+Pays-Bas	Hollanda
+Peintre	Ressam
+Pennsylvanie	Pensilvanya
+Pentagone	Pentagon
+Perdita	Perdita
+Permien	Permiyen
+Persée	Perseus
+Petit Chaperon rouge	Kırmızı Başlıklı Kız
+Petit Cheval	Tay
+Petit Chien	Küçük Köpek
+Petit Lion	Küçük Aslan
+Petit Renard	Tilkicik
+Petite Ourse	Küçük Ayı
+Petites Antilles	Küçük Antiller
+Phanariote	fenerli
+Pharaon	firavun
+Philadelphie	Philadelphia
+Philippines	Filipinler
+Phnom Penh	Phnom Penh
+Phobos	Phobos
+Phocée	Foça
+Phénicie	Fenike
+Phénix	Anka
+Phœbé	Phoebe
+Piémont	Piyemont
+Platon	Eflatun
+Plovdiv	Filibe
+Pluton	Plüton
+Podgorica	Podgorica
+Poisson austral	Güneybalığı
+Poisson volant	Uçanbalık
+Poissons	Balıklar
+Pokémon	Pokémon
+Pollux	Polydeuces
+Pologne	Polonya
+Polynésie française	Fransız Polinezyası
+Poméranie	Pomeranya
+Porte	Bâb-ı Âli
+Portia	Portia
+Porto Rico	Porto Riko
+Portugais	Portekizli
+Portugal	Portekiz
+Pouilles	Puglia
+Poupe	Pupa
+Poutine	Putin
+Prague	Prag
+Première Guerre mondiale	I. Dünya Savaşı
+Proche-Orient	Yakın Doğu
+Prométhée	Prometheus
+Prospéro	Prospero
+Protée	Proteus
+Provence	Provence
+Prusse	Prusya
+Psamathée	Psamathe
+Puck	Puck
+Pyongyang	Pyongyang
+Pyrénées	Pireneler
+Pâques	paskalya
+Pégase	Kanatlıat
+Pékin	Pekin
+Péloponnèse	Mora
+Pérou	Peru
+Pérouse	Perugia
+Pétaouchnok	ebesinin amında
+Qatar	Katar
+Qatari	Katarlı
+Quito	Quito
+Québec	Quebec
+RDA	DAC
+RFA	AFC
+Rachel	Rahel
+Ragnarök	Ragnarök
+Ratisbonne	Regensburg
+Rennes	Rennes
+Reykjavik	Reykjavík
+Rhin	Ren
+Rhodes	Rodos
+Rhéa	Rhea
+Rhône	Rhône
+Riga	Riga
+Riyad	Riyad
+Roi-Soleil	Güneş Kral
+Rome	Roma
+Rome ne s’est pas faite en un jour	Sabreden dervis muradına ermis
+Rosalinde	Rosalind
+Roskilde	Roskilde
+Rotterdam	Rotterdam
+Roumain	Romanyalı
+Roumanie	Romanya
+Roumélie	Rumeli
+Royaume-Uni	Birleşik Krallık
+Royaume-Uni de Grande-Bretagne et d’Irlande du Nord	Büyük Britanya ve Kuzey İrlanda Birleşik Krallığı
+Russe	Rus
+Russie	Rusya
+Russien	Rusyali
+Rwanda	Ruanda
+Règle	Cetvel
+Région de Bruxelles-Capitale	Brüksel Başkent Bölgesi
+République Démocratique du Congo	Demokratik Kongo Cumhuriyeti
+République centrafricaine	Orta Afrika Cumhuriyeti
+République de Chine	Çin Cumhuriyeti
+République de Corée	Kore Cumhuriyeti
+République dominicaine	Dominik Cumhuriyeti
+République du Congo	Kongo Cumhuriyeti
+République d’Afrique du Sud	Güney Afrika Cumhuriyeti
+République d’Irlande	İrlanda Cumhuriyeti
+République française	Fransa Cumhuriyeti
+République fédérale d’Allemagne	Almanya Federal Cumhuriyeti
+République populaire de Chine	Çin Halk Cumhuriyeti
+République populaire de Donetsk	Donetsk Halk Cumhuriyeti
+République populaire de Lougansk	Lugansk Halk Cumhuriyeti
+République tchèque	Çek Cumhuriyeti
+Réticule	Ağcık
+Réunion	Reunion
+Révolution française	Fransız Devrimi
+Rê	Ra
+SPARQL	SPARQL
+SQL	SQL
+Sagittaire	Yay
+Sahara occidental	Batı Sahra
+Saint-Cloud	Saint-Cloud
+Saint-Empire romain germanique	Kutsal Roma Cermen İmparatorluğu
+Saint-Esprit	Kutsal Ruh
+Saint-Marin	San Marino
+Saint-Vincent-et-les Grenadines	Saint Vincent ve Grenadinler
+Sainte-Hélène	Saint Helena
+Sainte-Lucie	Saint Lucia
+Salvador	El Salvador
+Samarcande	Semerkand
+Samoa	Samoa
+Samoa américaines	Amerikan Samoası
+San Francisco	San Francisco
+Sao	Sao
+Sao Tomé-et-Principe	Sao Tome ve Principe
+Sardaigne	Sardinya
+Satan	Şeytan
+Saturne	Satürn
+Saxe	Saksonya
+Scandinave	İskandinav
+Scandinavie	İskandinavya
+Schtroumpf	Şirinler
+Schtroumpfette	Şirine
+Scorpion	Akrep
+Scrabble	kelime oyunu
+Sculpteur	Heykeltraş
+Seconde Guerre mondiale	II. Dünya Savaşı
+Seine	Sen Nehri
+Serbie	Sırbistan
+Serbie-et-Monténégro	Sırbistan-Karadağ
+Serial ATA	SATA
+Serpent	Yılan
+Serpentaire	Yılancı
+Sextant	Altılık
+Seychelles	Seyşel Adaları
+Shanghaï	Şanghay
+Shiva	Şiva
+Siarnaq	Siarnaq
+Sibérie	Sibirya
+Sicile	Sicilya
+Sicilien	Sicilyalı
+Sierra Leone	Sierra Leone
+Silistra	Silistre
+Silivri	Silivri
+Silurien	Silüryen
+Singapour	Singapur
+Skathi	Skathi
+Skoll	Skoll
+Skopje	Üsküp
+Slave	Slav
+Slovaque	Slovak
+Slovaquie	Slovakya
+Slovénie	Slovenya
+Small Computer System Interface	SCSI
+Smyrne	İzmir
+Société des Nations	Milletler Cemiyeti
+Socrate	Sokrates
+Sofia	Sofya
+Sogdiane	Soğdiana
+Soleil	Güneş
+Soliman	Süleyman
+Somalie	Somali
+Sophocle	Sophokles
+Sotchi	Soçi
+Soudan	Sudan
+Souleymane	Süleyman
+Spartacus	Spartaküs
+Sparte	Sparta
+Spider-Man	Örümcek Adam
+Sri Lanka	Sri Lanka
+Stockholm	Stokholm
+Strasbourg	Strazburg
+Stuttgart	Stuttgart
+Stéphane	İstefanos
+Stéphano	Stephano
+Sucre	Sucre
+Suisse	İsviçreli
+Suisse	İsviçre
+Sumatra	Sumatra
+Superman	Superman
+Suriname	Surinam
+Surtur	Surtur
+Suttungr	Suttungr
+Suède	İsveç
+Suédois	İsveçli
+Svalbard	Svalbard
+Swaziland	Swaziland
+Sycorax	Sycorax
+Sydney	Sidney
+Syrie	Suriye
+Sébastopol	Sivastopol
+Sénégal	Senegal
+Séoul	Seul
+Sétébos	Setebos
+Séville	Sevilla
+Table	Masa
+Tachkent	Taşkent
+Tadjikistan	Tacikistan
+Taipei	Taipei
+Tallinn	Tallinn
+Tamise	Thames
+Tanger	Tanca
+Tanzanie	Tanzanya
+Tanzanien	Tanzanyalı
+Tarse	Tarsus
+Tartous	Tartus
+Tarvos	Tarvos
+Tasmanie	Tazmanya
+Tatar	Tatar
+Taureau	Boğa
+Taïwan	Tayvan
+Taïwanais	Tayvanlı
+Tbilissi	Tiflis
+Tchad	Çad
+Tcheliabinsk	Çelyabinsk
+Tchernobyl	Çernobil
+Tchécoslovaque	Çekoslovak
+Tchécoslovaquie	Çekoslavakya
+Tchéquie	Çekya
+Tchétchénie	Çeçenistan
+Terre	Dünya
+Terrebonne	Terrebonne
+Territoire du Nord	Kuzey Toprakları
+Territoires du Nord-Ouest	Northwest Territories
+Texas	Teksas
+Thalassa	Thalassa
+Thanatos	Thanatos
+Thaïlande	Tayland
+Thessalie	Tesalya
+Thessalonique	Selanik
+Thor	Thor
+Thora	Tevrat
+Thrace	Trakya
+Thrymr	Thrymr
+Thuringe	Türingiya
+Thébé	Thebe
+Tibet	Tibet
+Tibre	Tiber
+Timisoara	Temeşvar
+Timor oriental	Doğu Timor
+Titan	Titan
+Titania	Titania
+Togo	Togo
+Tokelau	Tokelau
+Tokyo	Tokyo
+Tonga	Tonga
+Toronto	Toronto
+Toscane	Toskana
+Toucan	Tukan
+Trabzon	Trabzon
+Transdanubie	Transdanubia
+Transylvanie	Erdel
+Triangle	Üçgen
+Triangle austral	Güney Üçgeni
+Trias	Trias
+Trinculo	Trinculo
+Trinité-et-Tobago	Trinidad ve Tobago
+Triton	Triton
+Troie	Troya
+Tunis	Tunus
+Tunisie	Tunus
+Turc	Türk
+Turin	Torino
+Turkménistan	Türkmenistan
+Turquie	Türkiye
+Tuvalu	Tuvalu
+Tyrannosaurus rex	tyrannosaurus
+Télescope	Dürbün
+Télesto	Telesto
+Téthys	Tethys
+URSS	SSCB
+Udine	Udine
+Ukraine	Ukrayna
+Ulm	Ulm
+Ulysse	Odisseas
+Umbriel	Umbriel
+Unicode	Evrensel Kod
+Union des républiques socialistes soviétiques	Sovyet Sosyalist Cumhuriyetler Birliği
+Union européenne	Avrupa Birliği
+Union soviétique	Sovyetler Birliği
+Uranus	Uranüs
+Uruguay	Uruguay
+Valachie	Eflak
+Valles Marineris	Valles Marineris
+Vancouver	Vancouver
+Vanuatu	Vanuatu
+Varsovie	Varşova
+Vatican	Vatikan
+Venezuela	Venezuela
+Venise	Venedik
+Versailles	Versay
+Verseau	Kova
+Vienne	Viyana
+Viennois	Viyanalı
+Vierge	Başak
+Vietnam	Vietnam
+Vietnamien	Vietnamlı
+Vilnius	Vilnüs
+Vistule	Vistül
+Vladivostok	Vladivostok
+Voie lactée	Samanyolu
+Voiles	Yelken
+Volga	Volga
+Vénus	Venüs
+Vénétie	Veneto
+Vésuve	Vezüv
+Wall Street	Wall Street
+Wallis-et-Futuna	Wallis ve Futuna Adaları
+Wallon	Valonca
+Wallonie	Valonya
+Washington	Vaşington, D.C.
+Wikipédia	vikipedi
+Wiktionnaire	vikisözlük
+Wrocław	Wrocław
+XSLT	XSLT
+Yi Jing	Yi Çing
+Ymir	Ymir
+Yokohama	Yokohama
+Yorkshire-et-Humber	Yorkshire ve Humber
+Yougoslavie	Yugoslavya
+Yunnan	Yünnan
+Yémen	Yemen
+Yéménite	Yemenli
+Zacharie	Zekeriya
+Zagreb	Zagreb
+Zambie	Zambiya
+Zeus	Zeus
+Zimbabwe	Zimbabve
+Zimbabwéen	Zimbabveli
+Zurich	Zürih
+abaisser	azaltmak
+abandon	terketme
+abandonner	bırakmak
+abaque	abaküs
+abat-jour	abajur
+abattoir	mezbaha
+abattre	altetmek
+abbé	başrahip
+abc	alfabe
+abcès	apse
+abdiquer	tahttan el çekmek
+abdomen	karın
+abeille	arı
+aberrant	anormal
+aberration	aberasyon
+abiogenèse	abiyogenez
+abject	ahlaksız
+abjection	alçaklık
+abkhaze	Abhazca
+ablatif	-den hâli
+abolir	feshetmek
+abondance	bolluk
+abondant	bol
+abonnement	abone
+aborder	başlamak
+abortif	abes
+aboutir	çıkmak
+aboutissement	başarı
+aboyer	havlamak
+abreuver	su içmek
+abri	siper
+abricot	kayısı
+abricotier	kayısı
+abroger	feshetmek
+abscisse	apsis
+absence	yokluk
+absent	namevcut
+absolu	mutlak
+absolument	tamamen
+absolution	affı
+absorber	emmek
+abstraction	soyutlama
+abstrait	soyut
+absurde	saçma
+acacia	akasya
+académie	akademi
+acarien	akar
+accaparer	emmek
+accent	vurgu
+accent aigu	tiz vurgu
+accent grave	peslik vurgusu
+accenteur mouchet	dağbülbülü
+accepter	almak
+accepteur	alan
+accident	kaza
+accidentel	arızi
+accommodement	anlaşma
+accommoder	düzenlemek
+accord	anlaşma
+accordéon	akordiyon
+accoster	yanaşmak
+accouchement	doğum
+accoucher	doğum yapmak
+accouplement	çiftleşme
+accoutumer	alıştırmak
+accroissement	agrandisman
+accueillir	almak
+accumulation	birikme
+accusatif	belirtme durumu
+accusation	suçlama
+accuser	suçlamak
+accès	hücum
+accélérateur de particules	parçacık hızlandırıcı
+accélération	ivme
+achalasie	akalazya
+achat	alış
+acheter	satın almak
+acheteur	alıcı
+acheteuse	alan
+achever	bitirmek
+achoug	âşık
+acide	buruk
+acide	asit
+acide acrylique	akrilik asit
+acide acétique	asetik asit
+acide aminé	amino asit
+acide butyrique	bütanoik asit
+acide carbonique	karbonik asit
+acide chlorique	klorik asit
+acide désoxyribonucléique	dezoksiribonükleik asit
+acide formique	formik asit
+acide gras	yağ asidi
+acide hypochloreux	hipokloröz asit
+acide lactique	laktik asit
+acide myristique	miristik asit
+acide nitrique	nitrik asit
+acide palmitique	hexadekanoic asit
+acide picrique	2,4,6-trinitrofenol
+acide stéarique	stearik asit
+acide sulfureux	kükürtlü asit
+acide sulfurique	sülfürik asit
+acide urique	ürik asit
+acide α-linolénique	alfa-linolenik asit
+acide γ-aminobutyrique	GABA
+acide γ-linolénique	gamma linolenik asit
+acier	çelik
+acné	akne
+acore	eğir otu
+acouphène	kulak çınlaması
+acquéreur	alan
+acquérir	almak
+acrobate	akrobat
+acrophobie	akrofobi
+acteur	aktör
+actif	aktif
+actinium	aktinyum
+actinote	nefrit (mineral)
+action	aksiyon
+activité	aktivite
+actrice	aktris
+actualité	aktüalite
+acupuncture	akupunktur
+acétone	aseton
+acétylène	asetilen
+adaptable	uyumlu
+adaptation	adaptasyon
+adapter	uydurmak
+adieu, monde cruel	elveda zalim dünya
+adjectif	sıfat
+adjika	acuka
+adjoint	asistan
+admettre	almak
+administration	idare
+adobe	kerpiç
+adolescent	ergen
+adolescent	ergen
+adopter	seçmek
+adorer	tapmak
+adresse	adres
+adresse IP	IP adresi
+adresser	göndermek
+adrénaline	adrenalin
+adulte	yetişkin
+adultère	zina
+adverbe	zarf
+adversaire	aleyhtar
+adénine	adenin
+adéquat	münasip
+afar	Afarca
+afchar	afşar dili
+affamé	aç
+affect	duygudurum
+affiche	afiş
+affiler	bilemek
+affiliation	bir topluluğa dahil olma
+affilier	bir derneğe ya da gruba dahil olmak
+affilié	kuruma ya da topluluğa dahil olan
+affliction	acı
+affliger	kahretmek
+affriolant	alımlı
+afrikaans	Afrikanca
+agacer	alevlendirmek
+agate	akik
+agence	acente
+agenda	ajanda
+agent	acente
+aggiornamento	güncelleştirme
+aggloméré	sunta
+agglutinant	eklemeli
+agha	ağa
+agiter	çalkalamak
+agneau	kuzu
+agnosticisme	agnostisizm
+agonie	ızdırap
+agoraphobie	agorafobi
+agrafeuse	tel zımba
+agressif	agresif
+agression	saldırı
+agriculture	tarım
+agréable	hoş
+agréer	kabul etmek
+aide	yardım
+aider	yardım etmek
+aigle	kartal
+aigle	kartal
+aigle de Bonelli	tavşancıl
+aigle impérial	şah kartalı
+aigle pomarin	küçük orman kartalı
+aigle royal	kaya kartalı
+aigre	buruk
+aigrette garzette	küçük ak balıkçıl
+aigri	buruk
+aigue-marine	akuamarin
+aiguille	iğne
+aiguille à tricoter	şiş
+aiguiser	bilemek
+ail	sarimsak
+aile	kanat
+ailurophobie	ailurofobi
+aimant	mıknatıs
+aimer	sevmek
+aimer mieux	yeğlemek
+aine	kasık
+ainsi	böyle
+air	hava
+airain	tunç
+airelle	mavi
+aisselle	koltuk altı
+ajouter	eklemek
+aksakal	aksakallı
+akène	aken
+alarme	alarm
+albanais	Arnavut
+albanais	Arnavutça
+albatros	albatros
+albinisme	albinizm
+album	albüm
+albumen	albumin
+albédo	albedo
+alcaloïde	alkaloid
+alchimie	simya
+alcool	alkol
+alcoolique	alkollü
+alcoolisme	alkolizm
+alcoolisé	alkollü
+algie vasculaire de la face	küme baş ağrısı
+algorithme	algoritma
+algue	alg
+algèbre	cebir
+allemand	Alman
+allemand	Almanca
+aller	gitmek
+allergie	alerji
+alliage	alaşım
+alliance	ittifak
+alligator	aligator
+allumer	yakmak
+allumette	kibrit
+allèle	alel
+alléchant	alımlı
+allégorie	alegori
+allégresse	lezzet
+allô	alo
+almanach	almanak
+alouette	tarlakuşu
+alouette des champs	tarla kuşu
+alouette leucoptère	ak kanatlı toygar
+alouette lulu	ağaç tarla kuşu
+alouette pispolette	çorak toygarı
+aloyau	filetosu
+alphabet	alfabe
+alphabet cyrillique	Kiril abecesi
+alphabet phonétique international	Uluslararası Fonetik Alfabesi
+alphabétique	alfabetik
+alpinisme	dağcılık
+alpiniste	alpinist
+altitude	irtifa
+aluminium	alüminyum
+alvéole	petek
+alysson maritime	kraliyet halısı
+aléatoire	belirsiz
+alévi	Alevi
+alévie	Alevi
+alévisme	Alevilik
+amande	badem
+amarante réfléchie	horoz ibiği
+amazone aourou	Amazon papağanı
+amazone à front bleu	mavi kafalı papağan
+ambassade	sefarethane
+ambassadeur	elçi
+ambassadrice	büyükelçi
+ambitieux	hırslı
+ambition	ihtiras
+ambulance	ambulans
+amen	amin
+amen	amin
+amende	para cezası
+amener	getirmek
+amer	acı
+amharique	habeşistan dili
+ami	arkadaş
+amibe	amip
+amidon	nişasta
+amiral	amiral
+amitié	arkadaşlık
+ammoniac	amonyak
+amnistie	af
+amour	aşk
+amour platonique	platonik aşk
+amphigouri	saçma
+amphore	amfora
+ample	bol
+ampleur	büyüklük
+ampoule	ampul
+amputation	ampütasyon
+amputer	bir uzvu kesmek
+ampère	amper
+amulette	muska
+amuser	eğlendirmek
+amygdale	bademcik
+amélanchier à feuilles ovales	karlı kaya armudu
+américain	Amerikalı
+américium	amerikyum
+améthyste	ametist
+an	yıl
+anagramme	anagram
+analyser	analiz etmek
+ananas	ananas
+anarchie	anarşi
+anarchisme	anarşizm
+anarchiste	anarşist
+anathème	aforoz
+anatomie	anatomi
+anatomiste	anatomist
+anchois	ançüez
+ancien	eski
+ancre	demir
+ancêtre	ata
+andropause	andropoz
+androïde	android
+anesthésie générale	narkoz
+anesthésie locale	lokal anestezi
+aneth	dere otu
+ange	melek
+ange gardien	koruyucu melek
+angine	anjin
+angiosperme	kapalı tohumlu
+anglais	Ingiliz
+anglais	İngilizce
+angle	açı
+angora turc	Ankara kedisi
+anguille	yılan balığı
+angulaire	köşeli
+anhydrite	anhidrit
+aniline	anilin
+animal	hayvan
+animisme	canlıcılık
+animiste	canlıcı
+anion	anyon
+anis	anason
+anneau	halka
+anniversaire	doğum günü
+annonce	ilan
+annoncer	haber vermek
+annotation	dipnot
+annuaire	almanak
+annuel	yıllık
+annulaire	yüzük parmağı
+annuler	feshetmek
+année	sene
+année bissextile	artık yıl
+année-lumière	ışık yılı
+anode	anot
+anonyme	anonim
+anorak	anorak
+antagoniste	aleyhtar
+anthropocentrisme	antroposantrizm
+anthropologie	antropoloji
+anthyllide vulnéraire	cobangülü
+antibiotique	antibiyotik
+antichambre	bekleme salonu
+anticlinal	antiklinal
+anticorps	antikor
+anticyclone	yüksek basınç
+antilope	antilop
+antimatière	antimadde
+antimoine	antimon
+antinomie	çelişki
+antipathie	antipati
+antique	antika
+anus	anüs
+anxiété	anksiyete
+anémie	kansızlık
+aorte	aort
+août	ağustos
+apaiser	teskin etmek
+apartheid	apartheid
+apathique	apatik
+apathéisme	apateizm
+apatite	apatit
+aphorisme	özdeyiş
+aphrodisiaque	afrodizyak
+apiculteur	arıcı
+apitoyer	acındırmak
+apocalypse	kıyamet
+apocope	apokop
+aporie	aporia
+apostrophe	apostrof
+apothèse	tanrısama
+appareil	sistemi
+appareil photo	fotoğraf makinesi
+apparemment	görünüşe göre
+appartement	daire
+appel	çağrı
+appeler	aramak
+appendicite	apandisit
+applaudir	alkışlamak
+application	tatbik
+appliquer	kullanmak
+apporter	getirmek
+apprendre	öğrenmek
+apprenti	çırak
+approcher	yaklaşmak
+approuver	beğenmek
+apprécier	beğenmek
+appétit	iştah
+après	sonra
+après Jésus-Christ	Efendimizin yılında
+après moi le déluge	benden sonra tufan
+après-demain	öbür gün
+après-midi	öğleden sonra
+apsara	apsara
+aptamère	aptamer
+apôtre	havaryun
+aquarium	akvaryum
+aqueduc	su kemeri
+ara	ara
+ara bleu	mavi-sarı ara
+ara hyacinthe	sümbül ara
+ara rouge	kızıl ara
+arabe	Arap
+arabe	Arapça
+arabesque	arabesk
+arabiser	Araplaştırmak
+araignée	örümcek
+araméen	Aramice
+arbre	ağaç
+arbre de Noël	Noel ağacı
+arbre à pain	ekmek ağacı
+arc	yay
+arc-en-ciel	gökkuşağı
+archange	baş melek
+archaïque	antik
+archer	okçu
+archet	yay
+archevêque	başpiskopos
+archiduc	arşidük
+archipel	takımada
+architecte	mimar
+architecture	mimarlik
+archéologie	arkeoloji
+archéologue	arkeolog
+archéométrie	arkeometri
+archéozoologie	arkeozooloji
+ardoise	kayrak
+are	ar
+argent	gümüş
+argent	akçe
+argent de poche	cep harçlığı
+argile	kil
+argon	argon
+argot	argo
+aristocratie	aristokrasi
+aristotélisme	aristotalesçilik
+arithmétique	aritmetik
+arithmétique modulaire	modüler aritmetik
+arme	silah
+arme biologique	biyolojik silah
+arme nucléaire	nükleer silah
+arme à feu	ateşli silah
+armistice	ateşkes
+armoire	dolap
+armoiries	arma
+armure	zırh
+armée	ordu
+armée de l’air	hava kuvetleri
+arménien	Ermeni
+arménien	Ermenice
+aromatique	aromatik
+aronde	kırlangıç
+arracher	sökmek
+arranger	düzenlemek
+arrivage	varış
+arriver	varmak
+arrivée	varış
+arrêt de bus	otobüs durağı
+arrêter	durdurmak
+arsenic	arsenik
+art	sanat
+art funéraire	mezar sanatı
+art martial	savaş sanatları
+arthrite	artrit
+artichaut	enginar
+article	tanımlık
+article indéfini	belirsiz tanımlık
+articulation	telaffuz
+artificiel	yapay
+artificieux	akılı
+artisan	zanaatkâr
+artiste	sanatçı
+arts plastiques	plastik sanatlar
+artère	atardamar
+aryk	arık
+arène	arena
+arête	kılçık
+arôme	güzel koku
+as	as
+ascenseur	asansör
+asexualité	aseksüellik
+asiatique	asyalı
+aspartame	aspartam
+aspect	bakış
+asperge	kuşkonmaz
+asphalte	asfalt
+aspirateur	elektrik süpürgesi
+aspirer	arzulamak
+aspirine	aspirin
+aspre	akçe
+assaillir	saldırmak
+assassin	katil
+assaut	hücum
+assemblée	toplantı
+asseoir	oturmak
+assez	yeterince
+assidu	çalışkan
+assiette	tabak
+assistant numérique personnel	cep bilgisayarı
+associatif	birleşmeli
+astate	astatin
+asthme	astım
+asticot	kurt
+astrakan	astragan
+astrild ondulé	mumgaga
+astrild à joues orange	al yanaklı mumgaga
+astrologie	astroloji
+astrologue	astrolog
+astronaute	astronot
+astronome	astronom
+astronomie	astronomi
+astrophysique	astrofizik
+astucieux	akılı
+astéroïde	asteroit
+asymptote	asimptot
+atchoum	hapşu
+atelier	atölye
+athlète	atlet
+athlétisme	atletizm
+athée	ateist
+athéisme	ateizm
+athérine	gümüş balığı
+atlas	atlas
+atmosphère	atmosfer
+atmosphérique	atmosferik
+atome	atom
+atropine	atropin
+attachant	alımlı
+attacher	bağlamak
+attaque	hücum
+attaquer	saldırmak
+attendre	beklemek
+attendrissant	acıklı
+attentionné	düşünceli
+attirant	alımlı
+attractif	cazip
+attrayant	alımlı
+attribuer	atfetmek
+au détail	perakende
+au hasard	rastgele
+au nom du Père et du Fils et du Saint-Esprit	Baba, Oğul ve Kutsal Ruh adına
+au pied levé	hazırlıksız
+au revoir	güle güle
+aube	gün doğumu
+auberge	han
+auberge de jeunesse	hostel
+aubergine	patlıcan
+aubépine	alıç
+auge	yalak
+augmenter	yetişkin
+aujourd’hui	bugün
+aulos	aulos
+aumône	sadaka
+aussi	de
+autel	sunak
+auteur	yazar
+authentification	kimlik doğrulama
+autisme	otizm
+auto	otomobil
+autobus	otobüs
+autocar	otobüs
+autochenille	yarı paletli
+autocuiseur	düdüklü tencere
+automate	otomat
+automatique	otomatik
+automne	sonbahar
+automobile	otomobil
+autonome	kendi kendini kontrol eden
+autoritaire	otoriter
+autorité	otorite
+autoroute	otoyol
+autostéréogramme	otostereogram
+autour	atmaca
+autour australien	kahverengi çakır kuşu
+autour des Célèbes	Sulawesi çakır kuşu
+autour des Fidji	Fiji çakır kuşu
+autour des palombes	bayağı çakır kuşu
+autour gabar	gabar çakır kuşu
+autour huppé	tepeli çakır kuşu
+autour pie	alaca çakır kuşu
+autour sombre	ötücü çakır
+autour à ventre gris	boz karınlı çakır kuşu
+autoérotique	özdoyum
+autre	başka
+autrement dit	başka bir deyişle
+autruche	deve kuşu
+av. J.-C.	milattan önce
+avalanche	çığ
+avaler	yutmak
+avant-garde	öncü
+avantage	avantaj
+avantageux	avantajlı
+avar	Avarca
+avare	cimri
+avec	ile
+aventure	macera
+averse	sağanak
+avertisseur	boynuz
+aveu	itiraf
+aveugle	âmâ
+aviateur	uçman
+avion	uçak
+avion de ligne	yolcu uçağı
+avion à réaction	jet uçağı
+avis	nashihat
+avocat	avukat
+avoine	yulaf
+avoir	alacak
+avoir	sahip olmak
+avoir d’autres chats à fouetter	yapacak başka işi olmak
+avoir hâte	dört gözle beklemek
+avoir peur	korkmak
+avoir pitié	acımak
+avoir soif	susamak
+avortement	kürtaj
+avorter	çocuk aldırmak
+avril	nisan
+axe	eksen
+aye-aye	ay-ay
+ayran	ayran
+azamoglan	acemi oğlanı
+azote	azot
+aérobiologie	aerobiyoloji
+aérogel	aerojel
+aéroglisseur	hoverkraft
+aérographe	airbrush
+aéronef	hava taşıtı
+aéronef ultraléger motorisé	ultralight havacılık
+aéroport	havaalanı
+aïe	ay
+aïkido	aikido
+babillard	geveze
+babouin	şebek
+baby-foot	langırt
+baby-sitter	çocuk bakıcısı
+bac	araba vapuru
+bachlyk	başlık
+bacille	basil
+bactérie	bakteri
+bactériologie	bakteriyoloji
+badauder	esnemek
+badigeonner	badalanamak
+badinage	alay
+badminton	badminton
+bagage	bagaj
+bagarrer	kavga etmek
+baglama	bağlama
+bague	yüzük
+baht	baht
+baie	koy
+baigner	çimmek
+baignoire	küvet
+bailler	bahşetmek
+bain	banyo
+baise	sikişmek
+baiser	buse
+baiser	seks yapmak
+baisser	alçalmak
+baklava	baklava
+bakélite	bakalit
+bal	balo
+balai	süpürge
+balalaïka	balalayka
+balance	kantar
+balançoire	salıncak
+balayeur	tarayıcı
+balbuzard pêcheur	balık kartalı
+balcon	balkon
+baleine	balina
+baleine bleue	gök balina
+baleine boréale	Grönland balinası
+baleine franche de l’Atlantique Nord	buzul balinası
+baleine grise	gri balina
+baleine à bosse	kambur balina
+baliverne	boş laf
+ballade	ballad
+balle	mermi
+ballet	bale
+ballon	balon
+baltadji	baltacı
+balustrade	korkuluk
+bambara	Bambara
+bambin	yumurcak
+bambou	bambu
+banal	bayağı
+banane	muz
+banc	bank
+bande magnétique	manyetik bant
+bandeau	bant
+bandonéon	bandoneon
+bang	maslak
+banjo	banjo
+banque	banka
+banquier	banker
+baptême	vaftiz
+bar	büfe
+barbare	barbar
+barbe	sakal
+barbe à papa	pamuk şekeri
+barbecue	barbekü
+barbiche	keçi sakal
+barbier	berber
+barbiturique	barbitürat
+barbon	moruk
+barbu	sakallı
+barbue	çivisizkalkan balığı
+bardane	dulavratotu
+bardeau	çatı örtüsü
+barge à queue noire	çamur çulluğu
+barman	barmen
+baromètre	barometre
+baron	baron
+barque	sandal
+barreau	parmaklık
+barricade	barikat
+bartavelle	kaya kekliği
+baryon	baryon
+barytine	barit
+barytite	barit
+baryum	baryum
+bas	alçak
+bas	çorap
+bas allemand	Aşağı Almanca
+basalte	bazalt
+bascule	baskül
+base	baz
+base de données	veri tabanı
+baseball	beyzbol
+basilic	fesleğen
+basilique	bazilika
+basket	spor ayakkabısı
+basket	basketbol
+basket-ball	basketbol
+basketteur	basketbolcu
+basque	Baskça
+bassin	pelvis
+basson	fagot
+bataille	boğuşmak
+bateau	gemi
+bath	hoş
+batterie	batarya
+battre	dövmek
+bauxite	boksit
+bavardage	dedikodu
+bavarde	konuşkan
+baza	baza
+baza coucou	Afrika bazası
+baza de Jerdon	Jerdon bazası
+baza huppard	kara baza
+baza huppé	Pasifik bazası
+baza malgache	Madagaskar bazası
+baïonnette	süngü
+beau	güzel
+beau-fils	damat
+beau-frère	bacanak
+beau-père	kaynata
+beaucoup	bir sürü
+beaucoup	çok
+beaucoup de bruit pour rien	kuru gürültü
+beauté	afet
+beaux-arts	güzel sanatlar
+bec	gaga
+bec-de-corail	gri mumgaga
+becquerel	bekerel
+beige	bej
+bektachi	Bektaşi
+bektashisme	Bektaşilik
+bel et bien	adam akıllı
+belette	gelincik
+belle-fille	gelin
+belle-mère	kaynana
+belle-sœur	baldız
+belliciste	savaşsever
+belligérant	savaşanların
+bengali	bengalce
+bengali	bengalce
+berceau	beşik
+berceuse	ninni
+berger	çoban
+bergeronnette des ruisseaux	dağ kuyruksallayanı
+bergère	çoban
+berkélium	berkelyum
+bernache du Canada	Kanada kazı
+bernache à cou roux	Sibirya kazı
+besicles	kelebek gözlü
+besoin	gereksinim
+betterave	pancar
+betterave à sucre	şeker pancarı
+beurre	tereyağı
+bezestan	bedesten
+biberon	biberon
+bibitte	böcek
+bibliographie	bibliyografya
+bibliothèque	kütüphane
+bibliothécaire	kütüphaneci
+biche	maral
+bicyclette	bisiklet
+bidet	bide
+bien	iyi
+bien	iyi
+bien	iyi
+bien entendu	açık
+bien fait	aferin
+bien sûr	elbette
+bientôt	yakında
+bienvenue	hoşgeldiniz
+bifteck	biftek
+bigarade	turunç
+bilan	bilanço
+bile	safra
+bilingue	ikidilli
+billard	bilardo
+bille	bilye
+billet	bilet
+billet de banque	banknot
+bilocation	bilokasyon
+binette	çapa
+binturong	binturong
+biochimie	biyokimya
+biochimiste	biyokimyacı
+biodiversité	biyoçeşitlilik
+biogenèse	biyogenez
+biographie	biyografi
+biogéographie	biyocoğrafya
+biologie	biyoloji
+biologique	biyolojik
+biologiste	biyolog
+biome	biyom
+biopouvoir	biyoiktidar
+biotite	biyotit
+bioéthanol	etanol yakıtı
+biscuit	bisküvi
+bisexualité	biseksüellik
+bismillah	besmele
+bismuth	bizmut
+bisphénol	bisfenol
+bit de parité	eşlik biti
+bitume	asfalt
+bitumer	asfaltlamak
+bizarre	garip
+bière	bira
+blaireau	porsuk
+blanc	beyaz
+blanc	beyaz
+blanc cassé	kırık beyaz
+blanchiment d’argent	para aklama
+blatte	hamamböceği
+blennie basilic	horozbin balığı
+blennie paon	İbiklihorozbina balığı
+blessure	hasar
+bleu	mavi
+blizzard	tipi
+bloc	blok
+blocus	abluka
+blond	sarışın
+blu-ray	blu-ray
+blé	buğday
+bléomycine	bleomisin
+blêmir	solgunlaşmak
+bobine	makara
+bobine d’allumage	endüksiyon bobini
+bohrium	bohriyum
+boire	içmek
+bois	ağaç
+bois de Sainte-Lucie	mahlep
+bois de chauffage	odun
+bois-joli	mezeryon
+boisson	içilen şey
+boisson alcoolisée	içki
+boiteux	topal
+boiteux	aksak
+bol	çanak
+bolchévique	Bolşevik
+bombarder	bombalamak
+bombardier	bombardıman uçağı
+bombe	bomba
+bombe atomique	atom bombası
+bon	iyi
+bon appétit	afiyet olsun
+bon gré mal gré	ister istemez
+bon marché	ucuz
+bonbonnière	şekerlik
+bondrée apivore	bayağı arı şahini
+bonheur	mutluluk
+bonhomme de neige	kardanadam
+bonite	lüfer
+bonjour	günaydın
+bonne année	yeni yılın kutlu olsun
+bonne chance	iyi şanslar
+bonne nuit	iyi geceler
+bonnet	başlık
+bonobo	bonobo
+bonsoir	iyi akşamlar
+bonté	iyilik
+bora	poyraz
+bord	kenar
+bordel	genelev
+bore	bor
+borgne	tek gözlü
+bosnien	Boşnakça
+boson	bozon
+boson de Higgs	Higgs bozonu
+bosse	hörgüç
+bossu	kambur
+bostangi	bostancı
+botanique	botanik
+botte	çizme
+bouc émissaire	günah keçisi
+bouche	ağız
+bouche à oreille	Kulaktan kulaga
+boucher	kasap
+boucher	kapatmak
+bouchon	tapa
+boucle d’oreille	küpe
+bouclier	kalkan
+bouddhisme	Budizm
+bouder	somurtmak
+boudeur	somurtkan
+boue	çamur
+bougie	mum
+bougie d’allumage	buji
+bouilloire	çaydanlık
+bouillon	et suyu
+boulanger	fırıncı
+boulangerie	fırın
+boule	küre
+bouleau	huş ağaç
+boulet	kestanecik
+boulevard	bulvar
+boulot	iş
+bouquet	demet
+bouquetin	dağ keçisi
+bourdaine	barut ağacı
+bourdon	bombus
+bourg	kasaba
+bourgeoisie	burjuvazi
+bourgeon	filiz
+bourrache officinale	hodan
+bourreau	cellat
+bourse	burs
+bouseux	köylü hödük
+boussole	pusula
+bout	son
+bouteille	şişe
+boutique	dükkân
+boutisme	endian
+bouton	düğme
+bouton de fièvre	uçuk
+bouvreuil pivoine	bayağı şakrak kuşu
+bouzouki	bozuk
+bouée	şamandıra
+boxe	boks
+boxer	boksör motor
+boîte	kutu
+boîte aux lettres	posta kutusu
+boîte à lettres	posta kutusu
+bracelet	bilezik
+branche	dal
+branchie	solungaç
+branler	otuz bir çekmek
+bras	kol
+bras de fer	bilek güreşi
+bras dessus, bras dessous	kolkola
+brasserie	bira fabrikası
+brebis	koyun
+bretelle	kayış
+breton	Bretonca
+brevet	patent
+bride	dizgin
+bridge	briç
+brigand	eşkıya
+briller	parlamak
+brindille	ince dal
+brique	tuğla
+briquet	çakmak
+brise-lames	dalgakıran
+brochette	şiş
+brochure	broşür
+brocoli	brokoli
+brome	brom
+bronchite	bronşit
+brosse	fırça
+brosse à dents	diş fırçalama
+brouette	el arabası
+brouillon	müsvedde
+broyer du noir	kötümser olmak
+bru	gelin
+bruant fou	kaya kiraz kuşu
+bruant jaune	sarı kiraz kuşu
+bruant mélanocéphale	kara başlı kiraz kuşu
+bruant ortolan	bayağı kiraz kuşu
+brucellose	bruselloz
+brugnon	şeftali
+bruiner	çiselemek
+bruit	gürültü
+brun	kahverengi
+brusque	çabuk
+bruyant	gürültülü
+bruyère	süpürgeotu
+brûler	yanmak
+bubale	manda
+budget	bütçe
+buffle	manda
+buglosse d’Italie	Büyük sığırdili
+buis	şimşir
+buisson	çalı
+bulgare	Bulgar
+bulgare	Bulgarca
+bulldozer	buldozer
+bulle	sidik torbası
+bureau	büro
+bureau de change	döviz bürosu
+bureau de poste	postane
+bureaucratie	bürokrasi
+burkini	burkini
+burqa	burka
+bus	otobüs
+busard Saint-Martin	gökçe tuygun
+busard cendré	çayır tuygunu
+busard des roseaux	saz tuygunu
+busard pâle	bozkır tuygunu
+buse	şahin
+buse féroce	kızıl şahin
+buse pattue	paçalı şahin
+buse variable	bayağı şahin
+buste	büst
+but	gaye
+butane	bütan
+butanol	bütanol
+butor étoilé	Bayağı balaban
+bâillement	esneme
+bâiller	esnemek
+bâtard	piç
+bâtard	piç
+bâtarde	piç
+bâtiment	bina
+bâton	sopa
+bègue	kekeme
+bébé	bebek
+bécane	bisiklet
+bécasse	çulluk
+bécasseau cocorli	kızıl kumkuşu
+bécasseau de Temminck	sarıbacaklı kumkuşu
+bécasseau minuscule	cüce kumkuşu
+bécasseau tacheté	çizgili kum kuşu
+bécassine des marais	su çulluğu
+bécassine double	büyük su çulluğu
+bécassine sourde	küçük su çulluğu
+bécot	öpücük
+bégayer	kekelemek
+bégonia	begonya
+bélier	koç
+bélouga	beluga
+bérardie	gagalı balinası
+bérardie de Baird	Baird gagalı balinası
+bérardie d’Arnoux	Arnoux gagalı balinası
+béryl	beril
+béryllium	berilyum
+béton	beton
+bévue	gaf
+bêche	kürek
+bête	hayvan
+bôme	bumba
+bœuf	öküz
+cabane	kulübe
+cabaret	kabare
+cabine	kayuta
+cacao	kakao
+cacatoès de Leadbeater	pembe kakadu
+cachalot	ispermeçet balinası
+cache-cache	saklambaç
+cacher	gizlemek
+cachot	zindan
+cactus	kaktüs
+cadarien	Mutezile
+cadavre	ceset
+cadeau	hediye
+cadmium	kadmiyum
+cadran solaire	güneş saati
+caftan	kaftan
+café	kahve
+café	kahve
+cage	kafes
+cage de Faraday	Faraday kafesi
+cage thoracique	göğüş kafesi
+caguer	siçmak
+cahier	defter
+caille	bıldırcın
+caille des blés	bıldırcın
+cakilier maritime	deniz teresi
+calcaire	kireç taşı
+calcite	kalsit
+calcium	kalsiyum
+calcul	kalkülüs
+calendrier	takvim
+califat	halifelik
+calife	halife
+californium	kaliforniyum
+calligraphie	kaligrafi
+calmar	mürekkep balığı
+calme	sakin
+calomnie	iftira
+calopsitte	sultan papağanı
+calorie	kalori
+camarade	yoldaş
+cambrioleur	hırsız
+camion	kamyon
+camomille	papatya
+camouflage	kamuflaj
+campagne	kampanya
+campus	kampüs
+caméléon	bukalemun
+canal	kanal
+canard	ördek
+canard chipeau	boz ördek
+canard mandarin	mandarin ördeği
+canard pilet	kılkuyruk
+canard siffleur	fiyu
+canari	kanarya
+cancer	kanser
+cancéreux	kanserli
+candidat	aday
+canette	kutu
+cannabis	esrar
+canne	baston
+canne à sucre	şeker kamışı
+cannelle	tarçın
+canon	top
+canoë	kano
+canular	muziplik
+caouanne	adi deniz kaplumbağası
+caoutchouc	kauçuk
+cap	burun
+capacité	yetenek
+capioglan	kapı oğlanı
+capitaine	kaptan
+capitale	başkent
+capitalisme	kapitalizm
+capitaliste	kapitalist
+capituler	olmak
+caporal	çavuş
+capsaïcine	kapsaisin
+capsule	kapak
+captiver	emmek
+car	çünkü
+car	otobüs
+carabine	karabina
+caracal	karakulak
+caractère	karakter
+caravane	kervan
+carbone	karbon
+carburant	yakıt
+carcajou	kutup porsuğu
+cardamome	kakule
+cardinal	kardinal
+cardioïde	kardiyoit
+caricature	karikatür
+cariste	forklift operatörü
+carnaval	karnaval
+carotte	havuç
+caroubier	keçiboynuzu
+carpe	sazan
+carquois	okluk
+carreau	karo
+carrefour	kavşak
+carrière	kariyer
+carré	kare
+carré	kare
+carte	kart
+carte de crédit	kredi kartı
+carte routière	yol haritası
+carême	Büyük Perhiz
+caserne	kişla
+casque	kask
+cassenoix moucheté	göknar kargası
+casser	kırıtmak
+castagnette	kastanyet
+caste	kast
+castor	kunduz
+catalan	Katalanca
+catalan	Katalanca
+catalyseur	ivdirgen
+catamaran	katamaran
+cataracte	katarakt
+catastrophe	felaket
+catastrophisme	katastrofizm
+cathédrale	büyük kilise
+cathéter	sonda
+cation	katyon
+catégorie	kategori
+cauchemar	kabus
+cause	iş
+cavalerie	süvari
+cavalier	at
+cave	bodrum
+caviar	havyar
+cazaskier	kazasker
+caïmacan	kaymakam
+ceinture	kemer
+ceinture de sécurité	emniyet kemeri
+cela va sans dire	gayet tabii
+cellule	hücre
+cendre	kül
+cendrier	kül tablası
+cent	yüz
+centimètre	santimetre
+centralisme démocratique	demokratik merkeziyetçilik
+centre	merkez
+centre de données	veri merkezi
+centre-droit	merkez sağ
+centre-gauche	merkez sol
+cercle	daire
+cerf	geyik
+cerf axis	benekli geyik
+cerf calamian	Calamian domuz geyiği
+cerf cochon	domuz geyiği
+cerf de Kuhl	Bawean domuz geyiği
+cerf-volant	uçurtma
+cerise	kiraz rengi
+cerise	kiraz
+cerveau	beyin
+cervelle	beyin
+cesser	bitirmek
+chaabane	şaban
+chacal	çakal
+chah	şah
+chair	et
+chaise	sandalye
+chaise longue	şezlong
+chakchouka	şakşuka
+chaleur	ısı
+chaman	şaman
+chamanisme	Şamanizm
+chambre	oda
+chambre à coucher	yatak odası
+chameau	deve
+champ	alan
+champ de bataille	savaş alanı
+champ magnétique	manyetik alan
+champ électromagnétique	elektromanyetik alan
+champagne	şampanya
+champignon	mantar
+champion	şampiyon
+chance	şans
+chancelier	şansölye
+changer	değiştirmek
+changeur	sarraf
+chanson	şarkı
+chanter	ötmek
+chanteur	şantör
+chanteur	şarkıcı
+chanteuse	şantöz
+chanvre	kenevir
+chaos	karmakarışık hal
+chapeau	şapka
+chapelle	şapel
+chapiteau	sütun başı
+chapitre	bölüm
+chaque	her
+charabia	saçma
+charbon	kömür
+charbon de bois	odun kömürü
+chardon	devedikeni
+chardonneret	saka
+chardonneret élégant	saka kuşu
+charge élémentaire	temel yük
+charger	yüklemek
+charme	gürgen
+charnière	menteşe
+charogne	leş
+charrue	saban
+chas-oda-bachi	has odabaşı
+chasse	av
+chasse aux sorcières	cadı avı
+chasse-neige	kar temizleme makinası
+chasser	avlamak
+chasseur	avcı
+chassie	çapak
+chat	kedi
+chat viverrin	balıkçı kedi
+chat échaudé craint l’eau froide	sütten ağzı yanan yoğurdu üfleyerek yer
+chatoiement	parıltı
+chatte	kuku
+chaud	sıcak
+chauffeur	şoför
+chaumière	kulübe
+chaussette	çorap
+chaussure	ayakkabı
+chauve	kel
+chauve-souris	yarasa
+chaux	kireç
+chawwal	şevval
+chayotte	dikenli kabak
+chaîne	zincir
+chaîne parlée	bağlantılı konuşma
+cheeseburger	çizburger
+chef-d’œuvre	başyapıt
+cheik	şeyh
+chelou	acayip
+chemin	yol
+chemin de fer	demir yolu
+cheminée	baca
+chemise	gömlek
+chemise de nuit	gecelik
+chenille	tırtıl
+cher	değerli
+chercher	aramak
+chercher une aiguille dans une botte de foin	samanlıkta iğne aramak
+chercheur	araştırmacı
+cheval	kulplu beygir
+cheval-vapeur	beygir gücü
+chevalier	şövalye
+chevalier arlequin	kara kızılbacak
+chevalier gambette	kızılbacak
+chevalier guignette	dere düdükçünü
+chevalier stagnatile	bataklık düdükçünü
+chevaucher	binmek
+chevesne	akbalık
+cheveu	saç
+cheville	ayak bileği
+chevreau	oğlak
+chevreuil	karaca
+chevêche	kukumav
+chewing-gum	sakız
+chiant	can sıkıcı
+chic	şık
+chic	şık
+chien	köpek
+chien qui aboie ne mord pas	havlayan köpek ısırmaz
+chien viverrin	rakun köpeği
+chier	sıçmak
+chiffre	rakam
+chimie	kimya
+chimie organique	organik kimya
+chimiothérapie	kemoterapi
+chimique	kimyasal
+chimiste	kimyacı
+chimpanzé	şempanze
+chimpanzé commun	bayağı şempanze
+chinois	Çince
+chionis blanc	büyük kıngaga
+chiot	köpek yavrusu
+chiromancie	el falı
+chirurgie	cerrahi
+chlore	klor
+chlorure de potassium	potasyum klorür
+chocard à bec jaune	sarı gagalı dağ kargası
+chocolat	çikolata
+chocolat au lait	sütlü çikolata
+choir	düşmek
+choisir	seçmek
+cholestérol	kolesterol
+choléra	kolera
+chorégraphe	koreograf
+chorégraphie	koreografi
+chose	şey
+chou	lahana
+chou rouge	kirmizi lahana
+chou-fleur	karnabahar
+choucas	küçük karga
+choucas des tours	küçük karga
+chouette	baykuş
+chouette chevêche	kukumav
+chouette effraie	peçeli baykuş
+chouette hulotte	alaca baykuş
+christadelphe	kristadelfiyanlık
+christadelphe	Christadelphianlar
+christianisme	hıristiyanlık
+chrome	krom
+chromosome	kromozom
+chronologie	kronoloji
+chrysanthème	kasımpatı
+chrysope	yeşil zarkanat
+chrétien	Hristiyan
+chuchoter	fısıldamak
+châtaigne	kestane
+château	kale
+château-fort	kale
+chèque	çek
+chèvre	keçi
+chèvre angora	Ankara keçisi
+chéri	sevgili
+chêne	meşe
+chêne pubescent	tüylü meşe
+chômage	işsizlik
+chœur	koro
+cicatrice	yara izi
+ciel	gök
+cigare	puro
+cigarette	sigara
+cigarette électronique	e-puro
+cigogne	leylek
+cigogne noire	kara leylek
+cil	kirpik
+ciment	çimento
+cimeterre	yatağan
+cimetière	mezarlık
+cimétidine	simetidin
+cincle plongeur	derekuşu
+cinq	beş
+cinquante	elli
+cintre	elbise askısı
+cinéma	sinema
+circaète jean-le-blanc	yılan kartalı
+circoncision	sünnet
+circonstance	durum
+cire	balmumu
+cirque	sirk
+cirrhose	siroz
+ciseau	makas
+ciseaux	makas
+cisplatine	sisplatin
+ciste à feuilles de laurier	defne yapraklı laden
+cistude d’Europe	benekli kaplumbağa
+citation	alıntı
+citer	alıntılamak
+citoyenneté	vatandaşlık
+citrine	sitrin
+citron	limon
+citrouille	kabak
+cité	şehir
+cité-État	şehir devleti
+civil	sivil
+civilisation	medeniyet
+clair	aşikâr
+clair de lune	ay ışığı
+clan	aşiret
+clarinette	klarnet
+classe	sınıf
+claustrophobie	klostrofobi
+clavecin	klavsen
+clavier	klavye
+clepsydre	su saati
+clic	tık
+client	müşteri
+climat	iklim
+climatologie	iklimbilim
+clinique	klinik
+cliodynamique	kliodinamik
+clochard	serseri
+cloche	çan
+clopin-clopant	topallayarak
+clou	çivi
+clou de girofle	karanfil
+clown	palyaço
+club	kulüp
+clé	anahtar
+clémence	bağışlayıcılık
+clément	bağışlayıcı
+clôture	çit
+co-épouse	kuma
+coalition	koalisyon
+cobalt	kobalt
+cobra	kobra
+coca	koka
+cocaïne	kokain
+coccinelle	uğur böceği
+cocher	arabacı
+cochon	domuz
+cocktail	kokteyl
+cocktail Molotov	Molotov kokteyli
+cocon	koza
+cocorico	kuk-kurri-kuuu
+cocotier	Hindistan cevizi
+cocufier	aldatmak
+code civil	medenî kanun
+code pénal	ceza kanunu
+code source	kaynak kodu
+code-barres	barkod
+coenzyme	koenzim
+coffre	bavul
+coffret	kutu
+cogito ergo sum	düşünüyorum, öyleyse varım
+cognac	kanyak
+cohorte	kohort
+coiffeur	berber
+coin	açı
+coin-coin	vak vak
+coing	ayva
+col	yaka
+col de l’utérus	rahim ağzı
+colibri	sinek kuşu
+colin	balık
+colis	bagaj
+collection	koleksiyon
+collectionner	biriktirmek
+coller	yapışmak
+collier	kolye
+colline	tepe
+collègue	meslekdaş
+colombe	güvercin
+colonel	albay
+colonialisme	sömürgecilik
+colonie	koloni
+colonne	kolon
+colonne vertébrale	omurga
+coloré	renkli
+colvert	yeşilbaş
+coma	koma
+combat	muharebe
+combatif	mücadeleci
+combattant	dövüşçü
+combattant varié	dövüşken kuş
+combien	kaç
+comité	komite
+commande	sipariş
+commandement	komut
+comme	yüzünden
+comme	gibi
+comme ci comme ça	söyle-böyle
+comme pour	-mış gibi
+comme si	sanki
+comme ça	bu şekilde
+commencer	başlamak
+comment	nasıl
+commentaire	yorum
+commerce	ticaret
+commissaire politique	siyasi komiser
+commissariat	karakol
+commissariat de police	karakol
+commission	komisyon
+commode	uygun
+commode	şifonyer
+communauté	topluluk
+commune	belediye
+communication	haberleşme
+communiquer	bildirmek
+communisme	komünizm
+communiste	komünist
+commère	dedikoducu
+compagnon	arkadaş
+comparaison	karşılaştırma
+comparer	karşılaştırmak
+compatir	acımak
+complexe	karmaşık
+complexité	karmaşıklık
+compliment	iltifat
+complot	komplo
+complètement	tamamen
+compléter	bütünlemek
+comportement	davranış
+compositeur	besteci
+composé	bileşim
+comprendre	anlamak
+comptable	muhasebeci
+compter	saymak
+compteur	sayaç
+comte	kont
+comète	kuyruklu yıldız
+comédie	komedi
+comédien	komedyen
+con	aptal
+concentration	derişim
+concert	konser
+concierge	kapıcı
+concombre	hıyar
+concordance	ahenk
+concubine	eş
+condensat	yoğunlaşması
+condensat de Bose-Einstein	Bose-Einstein yoğunlaşması
+conducteur	sürücü
+conductivité	elektriksel iletkenlik
+conduire	yürütmek
+confiture	reçel
+conflit	mücadele
+conférence	konferans
+conférence de presse	basın konferansı
+congrès	kongre
+conjecture	konjektür
+conjonction	bağlaç
+conjugaison	konjugasyon
+connaissance	bilgi
+connexion	bağlantı
+connu	bilinen
+conscience	bilinç
+conscient	bilinçli
+conseil	nashihat
+conseiller	fikir vermek
+consensus	oybirliği
+considérable	ağır
+console de jeu	oyun konsolu
+consoler	avutmak
+consommation	içilen şey
+consommer	tüketmek
+constellation	takımyıldız
+constipation	kabızlık
+constitution	anayasa
+constitutionnel	anayasal
+construire	etmek
+consulat	konsolosluk
+conséquence	aksitesir
+conte	masal
+contemporain	zamane
+conteneur	konteyner
+content	memnun
+contigüité	bitişiklik
+continent	kıta
+continuer	devam etmek
+contondant	yassi
+contrat	kontrat
+contre	karşı
+contrebasse	kontrbas
+contribution	katkı
+controverse	ihtilaf
+contrée	belde
+conure veuve	keşiş papağanı
+conversation	konuşma
+converser	konuşmak
+convertir	değiştirmek
+convive	misafir
+coolie	köle
+coordinateur	koordinatör
+copernicium	kopernikyum
+copieux	bol
+coq	horoz
+coque	kabuk
+coquelicot	gelincik
+coqueluche	boğmaca
+coquerico	kuk-kurri-kuuu
+coquericot	kuk-kurri-kuuu
+coquille vide	işe yaramaz
+corail	mercan
+corbeau	kuzgun
+corbeau freux	ekin kargası
+corbeille	sepet
+corde	urgan
+corde vocale	ses teli
+cordiérite	iyolit
+cordonbleu à joues rouges	mavi mumgaga
+cordonnier	ayakkabıcı
+cormoran pygmée	küçük karabatak
+corne	boynuz
+corneille	karga
+corneille noire	leş kargası
+cornemuse	gayda
+cornouille	kızılcık
+corps	beden
+corps céleste	gökcismi
+correct	sahih
+correspondance	aktarma
+corridor	koridor
+coréen	Korece
+cosinus	kosinüs
+cosmonaute	kozmonot
+cosplay	cosplay
+costume	kostüm
+cosécante	kosekant
+cot cot codet	gut gut gdak
+cotangente	kotanjant
+coton	pamuk
+cou	boyun
+couche	tabaka
+couche d’ozone	ozonosfer
+coucher	yatmak
+couci-couça	şöyle böyle
+coucou	guguk
+coude	dirsek
+coudre	kumaş dikmek
+couler	akmak
+couleur	renk
+couloir	koridor
+coulomb	coulomb
+couman	Kuman Türkçesi
+coup de mou	yorgunluk
+coup de pied	tekme
+coup de soleil	güneş yanığı
+coup d’État	askerî darbe
+coupable	suçlu
+couper	kesmek
+cour	avlu
+courageux	yılmaz
+courant	akım
+courbe	eğri
+courir	koşmak
+couronne	çelenk
+courriel	e-posta
+courroie	kayış
+cours	hareket
+course	yarış
+court	kısa
+courtier	simsar
+couscous	kuskus
+cousin	yeğen
+cousine	kuzin
+coussin	yastık
+couteau	bıçak
+coutume	âdet
+couvercle	kapak
+couverture	battaniye
+couvre-feu	sokağa çıkma yasağı
+covariance	kovaryans
+coïncidence	tesadüf
+crabe	yengeç
+cracher	tükürmek
+craindre	korkmak
+crainte	korku
+crapaud accoucheur	ebe kurbağa
+crapaud épineux	kara kurbağası
+cravache	kırbaç
+cravate	boyunbağı
+crave à bec rouge	kırmızı gagalı dağ kargası
+crayon	kurşun kalem
+creuser	kazmak
+crever	ölmek
+crevette	karides
+cri	feryat
+cric	kriko
+crier	bağırmak
+crime de guerre	savaş suçu
+criminel	cinaî
+criminologie	kriminoloji
+crinière	yele
+criquet	çekirge
+crise	kriz
+cristal	billur
+cristallisoir	kristalizör
+cristallographie	kristalografi
+critique	eleştiri
+critère	kriter
+croate	Hırvatça
+croate	Hırvatça
+croche	sekizlik nota
+crochet	ayraç
+crocodile	timsah
+crocodile américain	Amerika timsahı
+crocodile de Cuba	Küba timsahı
+crocodile de Johnston	tatlısu timsahı
+crocodile de l’Orénoque	Orinoco timsahı
+crocodile des Philippines	filipin timsahı
+crocodile du Nil	Nil timsahı
+crocodile du Siam	Siyam timsahı
+crocodile marin	tuzlu su timsahı
+crocodile nain	cüce timsah
+croire	inanmak
+croisade	haclilar
+croissance	büyüme
+croissant	hilal
+croix	haç
+croque-mitaine	umacı
+crotale	çıngıraklı yılan
+crotale cascabelle	tropikal çıngıraklı yılan
+crotale diamantin	doğu elmas sırtlı çıngıraklı yılanı
+crotale du Texas	batı elmas sırtlı çıngıraklı yılanı
+croyant	inanan
+cryptographie	kriptografi
+cryptographie asymétrique	açık anahtarlı şifreleme
+crâne	kafatası
+crème	kaymak
+crève-cœur	acı
+créationnisme	yaratılışçılık
+créature	yaratık
+crédo	amentü
+créer	oluşturmak
+crématorium	krematoryum
+crépuscule	tan
+crêpe	krep
+cube	küp
+cuillère	kaşık
+cuir	deri
+cuire	pişirmek
+cuisine	mutfak
+cuisinier	aşçı
+cuisinière	aşçı
+cuisse	kalça
+cuivre	bakır
+cul	göt
+culotte	külot
+culte	kült
+culture	kültür
+curcuma	zerdeçal
+curium	küriyum
+curling	körling
+cyan	cam göbeği
+cyanure	siyanür
+cycle	devir
+cyclomoteur	mobilet
+cyclopropane	siklopropan
+cygne	kuğu
+cygne noir	kara kuğu
+cylindre	silindir
+cyprès	selvi
+câble	kablo
+câprier commun	gebre otu
+cèdre	sedir
+cécité	körlük
+céder	teslim etmek
+cédille	sedil
+céleri	kereviz
+célesta	çelesta
+célèbre	meşhur
+célébrer	anmak
+céramique	seramik
+cérium	seryum
+cérusite	üstübeç
+céréale	tahıl
+cérébral	beyinsel
+cérémonie	tören
+césarienne	sezaryen
+césium	sezyum
+cétose	ketoz
+cône	koni
+côte	kıyı
+cœur	kalp
+c’est-à-dire	yani
+daim	alageyik
+daltonisme	renk körlüğü
+damas	damasko
+dame	hanımefendi
+dame-jeanne	damacana
+danger	tehlike
+dangereux	tehlikeli
+danois	Danca
+danois	Danca
+dans	içinde
+danse	dans
+danse du ventre	göbek dansı
+danser	dans etmek
+darija	Mağrip Arapçası
+darmstadtium	darmstadtiyum
+date	tarih
+datte	hurma
+dauphin	yunus
+de bon cœur	memnuniyetle
+de même	aynı şekilde
+de pied en cap	baştan aşağı
+de plein gré	razı olmak
+de plus	ayrıca
+de plus en plus	gittikçe
+de proche en proche	azar azar
+degré	derece
+degré Celsius	ölçek Celsius
+delta	delta
+demain	yarın
+demander	dilemek
+demi-soupir	sekizlik es
+dendrochronologie	dendrokronoloji
+densité	yoğunluk
+densité de courant	akım yoğunluğu
+densité de population	nüfus yoğunluğu
+dent	diş
+dentelle	dantel
+dentifrice	diş macunu
+dentiste	diş tabibi
+depuis	beri
+derrière	arkasından
+derviche	derviş
+descendre	alçamak
+dessein	amaç
+dessert	tatlı
+dessin	çizim
+dessous	altı
+destin	kader
+destinataire	alan
+destinée	alınyazısı
+dette	borç
+deuil	ağıt
+deux	iki
+deux	iki
+deuxième	ikinci
+devenir	olmak
+devin	kâhin
+devise	slogan
+devoir	ev ödevi
+diable	şeytan
+diable de Tasmanie	Tasmanya canavarı
+diabète	diyabet
+diacre	diyakoz
+diagnostic	tanı
+dialecte	ağız
+dialogue	diyalog
+diamant	elmas
+diamètre	çap
+diarrhée	İshal
+dichlorodiphényltrichloroéthane	DDT
+diclofénac	diklofenak
+dictateur	diktatör
+dictature	diktatörlük
+dictionnaire	sözlük
+dictionnaire des données	veri sözlüğü
+dictionnaire des synonymes	eşanlamlılar sözlüğü
+dictionnaire en ligne	çevrimiçi sözlük
+dieu	tanrı
+difficile	zor
+difficulté	zorluk
+différence	fark
+différent	başka
+différer	ayırmak
+dignité	haysiyet
+diligence	arabası
+dimanche	pazar
+dimanche	pazar
+dimension	boyut
+diminuteur	çıkan
+dimorphisme sexuel	seksüel dimorfizm
+diméthylhydrazine asymétrique	1,1-dimetilhidrazin
+dingo	dingo
+dinitrate	dinitrat
+dinosaure	dinozor
+diode	diyot
+dioxyde de carbone	karbondioksit
+diplomatie	diplomat
+diploïde	diploit
+diplôme	diploma
+dire	söylemek
+direction	yön
+discours	konuşma
+discret	ketum
+discuter	sohbet etmek
+disponible	mevcut
+disposer	düzenlemek
+disque	disk
+disque ZIP	iomega zip sürücüsü
+disque dur	sabit disk
+dissociation	bağların kopması
+distance	mesafe
+distant	uzak
+distillation	damıtma
+divaguer	başıboş gezmek
+divertir	yönlendirmek
+diviser	bölmek
+diviseur	bölen
+division	bölme
+divorce	boşanma
+divorcer	boşanmak
+dix	on
+dix-huit	on sekiz
+dix-neuf	on dokuz
+dix-sept	on yedi
+dixième	onuncu
+diète	perhiz
+diégétique	öyküsel
+djezva	cezve
+djiguite	atlı
+djihad	cihat
+djoumada-l-oula	cemaziyelevvel
+djoumada-t-tania	cemaziyelahir
+djérid	cirit
+docteur	hekim
+doctrine	doktrin
+document	belge
+documentaire	belgesel
+documentaire	belgesel
+doigt	parmak
+doliman	dolaman
+doline	obruk
+dollar	dolar
+dollarisation	dolarizasyon
+dolmen	dolmen
+domino	domino
+don	kabiliyet
+donation	bağişlama
+donc	o halde
+donner	vermek
+dopage	doping
+dormir	uyumak
+dos	sırt
+dossier	dosya
+dou-l-hidjja	zilhicce
+dou-l-qa’da	zilkade
+douane	gümrük
+doublage	seslendirme
+doucement	yavaş yavaş
+douceur	tatlılık
+douche	duş
+douleur	ağrı
+doute	şüphe
+douter	şüphelenmek
+doux	aheste
+douzaine	düzine
+douze	on iki
+doyen	dekan
+dragon	ejderha
+drap	çarşaf
+drapeau	bayrak
+droit	sağ
+droit	doğru
+droit	hak
+droite	sağ
+droits de l’homme	insan hakları
+dromadaire	tek hörgüçlü deve
+druide	druid
+drôle	acayip
+du moment que	madem ki
+dubnium	dubniyum
+duc	dük
+dune	kum tepesi
+duodénum	duodenum
+duplex	dubleks
+dur	sert
+dynamique	dinamik
+dynamite	dinamit
+dyne	dyn
+dysenterie	dizanteri
+dysfonctionnel	disfonksiyonel
+dyslexie	disleksi
+dysprosium	disprosyum
+dé à coudre	yüksük
+débat	münazara
+débiter	bölmek
+début	başlangıç
+débuter	başlamak
+décathlon	dekatlon
+décembre	aralık
+décennie	onyıl
+décider	karar vermek
+décision	hüküm
+décorateur	dekoratör
+décéder	ölmek
+déesse	tanrıça
+défaite	yenilgi
+défendre	savunmak
+défense	savunma
+défenseur	avukat
+déficit	bütçe açığı
+définir	tanımlamak
+défunt	merhum
+dégueulasse	tiksinç
+dégât	arıza
+déifier	tanrılaştırmak
+déisme	deizm
+déjeuner	kahvaltı
+déjeuner	yemek
+déjà	daha şimdiden
+déjà-vu	deja-vü
+délire	sanri
+déluge	tufan
+délétion	delesyon
+démocratie	demokrasi
+démolir	bozmak
+démuni	muhtaç durumda olan
+déménager	taşınmak
+dénominateur	payda
+dépendance	bağımlılık
+dépense	harcama
+dépouiller	araklamak
+dépression	depresyon
+député	milletvekili
+dépôt	depo
+déraisonnable	abes
+déranger	Rahatsız etmek
+dérober	araklamak
+désaffiliation	kurum veya toplulukla ilişkilerin kesilmesi ya da üyeliğin sona ermesi
+désagréable	aynasız
+désastre	afet
+désert	çöl
+désespoir	umutsuzluk
+désespéré	umutsuz
+déshabiller	soymak
+désigner	seçmek
+désinformation	dezenformasyon
+désinvolture	küstahlık
+désir	arzu
+désolation	acı
+détente	eğlence
+détonateur	patlayıcı madde
+détonation	inflâk etme
+détroit	boğaz
+détroit de Bass	Bass boğazı
+détroit de Cook	Cook boğazı
+détruire	yıkmak
+développer	anlatmak
+dévouement	bağlılık
+dôme	kubbe
+d’abord	önce
+d’accord	tamam
+d’aucuns	birileri
+d’autant plus que	-diği için
+d’autre part	diğer taraftan
+d’égal à égal	eşit koşullar içinde
+eau	su
+eau bénite	kutsal su
+eau de Cologne	kolonya
+eau de mer	deniz suyu
+eau tonique	tonik
+eau-de-vie	rakı
+effet	efekt
+effet Auger	Auger etkisi
+effet papillon	kelebek etkisi
+effort	atılım
+effraie	baykuş
+effriter	dağılmak
+einsteinium	aynştaynyum
+elfique	Elf dili
+elle	o
+ellipse	elips
+eléane	iğde
+embellir	güzelleştirmek
+embouchure	ağız
+embouteillage	trafik sıkışıklığı
+embrasser	öpmek
+embryon	cenin
+emoji	emoji
+empathie	empati
+empereur	imperator
+empire	imparatorluk
+empiéter	bir yeri ya da bir kişinin hakkını gasp etmek
+emploi	istihdam
+employer	kullanmak
+employé	memur
+empreinte	damga
+empreinte digitale	parmak izi
+emrakhor	imrahor
+en bref	kısacası
+en dessous	alt
+en dépit de	rağmen
+en d’autres termes	diğer bir deyişle
+en face	karşısında
+en fait	aslında
+en fin de compte	nihayet
+en finir	başından atmak
+en tout cas	ne olursa olsun
+en tout et pour tout	topu topu
+en vain	boşuna
+encablure	gomina
+enceinte	hamile
+enclume	örs
+encore	hala
+encre	mürekkep
+enculer	sikmek
+encyclopédie	ansiklopedi
+encéphalite	ensefalit
+endurer	azap çekmek
+endémique	endemik
+enfance	çocukluk
+enfant	çocuk
+enfer	cehennem
+engelure	soğuk şişkinliği
+engourdi	uyuşuk
+engrais	gübre
+engrenage	dişli çark
+ennemi	düşman
+ennemi	düşman
+ennui	can sıkıntısı
+ennuyeux	sıkıcı
+ennéagone	dokuzgen
+enregistrer	kaydetmek
+enseignant	öğretmen
+enseignement primaire	ilk okula
+ensemble	küme
+ensoleillé	güneşli
+ensuite	sonra
+entendre	duymak
+entente	anlaşma
+enthousiasme	şevk
+entier	bütün
+entier naturel	doğal sayılar
+entier relatif	tamsayı
+entité	kendilik
+entièrement	adamakıllı
+entomologie	entomoloji
+entonnoir	huni
+entraîneur	antrenör
+entre	arasında
+entrepôt	antrepo
+entrer	girmek
+entrée	giriş
+enveloppe	zarf
+environnement	çevre
+envoi	gönderme
+envoyer	göndermek
+erbium	erbiyum
+erg	erg
+errance	serserilik
+erreur	hata
+ers lentille	burçak
+escalader	tırmanmak
+escalier	merdiven
+escargot	salyangoz
+esclave	köle
+escrime	eskrim
+espace	aralık
+espace Schengen	Schengen Bölgesi
+espace de noms	ad uzayı
+espace-temps	uzayzaman
+espadon	kılıç balığı
+espagnol	İspanyol
+espagnol	İspanyolca
+espion	ajan
+espionnage	casusluk
+espiègle	fesat
+esplanade	alan
+espoir	umut
+esprit	ruh
+espérance	umut
+espéranto	Esperanto
+espérer	ummak
+essai	deney
+essayer	denemek
+essence	benzin
+essentialisme	esasçılık
+essentiel	asil
+est	doğu
+est-nord-est	doğu-kuzey-doğu
+est-quart-nord-est	gündoğusu kerte poyraz
+est-quart-sud-est	gündoğusu kerte keşişleme
+est-sud-est	doğu-güney-doğu
+ester	ester
+estimer	beğenmek
+estomac	mide
+estonien	Estonca
+estropier	deforme etmek
+estuaire	haliç
+et	ve
+etc.	benzeri
+ethnologie	budunbilim
+euglène	öglena
+eugénisme	öjenik
+eunuque	haremağası
+euphémisme	örtmece
+euro	avro
+europium	europyum
+européen	Avrupalı
+euthanasie	ötanazi
+exact	kesin
+exactement	tam
+exagérer	abartmak
+examen	sınav
+examiner	araştırmak
+excuser	affetmek
+exemple	örnek
+exercice	egzersiz
+exhibitionnisme	teşhircilik
+exil	sürgün
+existentialisme	varoluşçuluk
+exister	varoluş
+exon	ekson
+expatrier	yurdundan uzaklaştırmak
+expert	uzman
+expirer	ölmek
+explicite	açık, sarih
+expliquer	açıklamak
+exploration de données	veri madenciliği
+explorer	araştırmak
+explosif	patlayıcı
+explosion	patlama
+exposition	sergi
+expression	ifade
+expérience	deneyim
+expérience de mort imminente	ÖYD
+exquis	seçkin
+extraordinaire	olağanüstü
+extrême	aşırı
+extrême droite	aşırı sağ
+fabriquer	etmek
+facile	kolay
+facteur	postacı
+factieux	fesatçı
+factorielle	faktöriyel
+facture	fatura
+faculté	fakülte
+faible	aciz
+faim	açlık
+faire	yapmak
+faire d’une pierre deux coups	bir taşla iki kuş vurmak
+faire la vaisselle	bulaşık yıkmak
+faire l’amour	sevişmek
+faire mal	acımak
+fais ce que je dis, pas ce que je fais	Hocanın dediğini yap, yaptığını yapma
+faisabilité	fizibilite
+faisan	sülün
+falaque	falaka
+falsifier	bozmak
+famille	aile
+famine	kıtlık
+fan	düşkün
+fanatique	bağnaz
+fantasia	fantazya
+fantôme	hayalet
+farad	farad
+farce	muziplik
+fard	allık
+fardeau	yük
+farine	un
+fascisme	faşizm
+fasciste	faşist
+fatigue	yorgunluk
+fatigué	yorgun
+faucille	orak
+faucille et marteau	orak ve çekiç
+faucon	doğan
+faucon crécerelle	bayağı kerkenez
+faucon d’Éléonore	ada doğanı
+faucon gerfaut	ak sungur
+faucon hobereau	delice doğan
+faucon lanier	bıyıklı doğan
+faucon pèlerin	bayağı doğan
+faucon sacre	ulu doğan
+faucon émerillon	boz doğan
+fauteuil	koltuk
+fauvette de Rüppell	karaboğazlı ötleğen
+fauvette grisette	akgerdanlı ötleğen
+fauvette mélanocéphale	maskeli ötleğen
+fauvette passerinette	bıyıklı ötleğen
+fauvette pitchou	funda ötleğeni
+fauvette à lunettes	bozkır ötleğeni
+fauvette épervière	çizgili ötleğen
+faux	yanlış
+faux	tırpan
+faux bourdon	insansız uçak
+faux-gavial d’Afrique	ince burunlu timsah
+façade	cephe
+feldspath	feldspat
+femelle	dişi
+femme	eş
+femme de ménage	hizmetçi
+fenouil	rezene
+fente	yarık
+fenêtre	pencere
+fer	demir
+fer à cheval	nal
+fer à repasser	ütü
+ferme	çiftlik
+fermentation	fermantasyon
+fermer	kapamak
+fermion	fermiyon
+fermium	fermiyum
+ferveur	büyük istek
+fesse	kalça
+fessée	şaplak
+feu	ateş
+feu d’artifice	havai fişek
+feu tricolore	trafik ışığı
+feuille	yaprak
+fez	fes
+fiable	güvenilir
+fiacre	araba
+fiançailles	nişan
+fibre	lif
+fibre de verre	cam elyafı
+fibre optique	fiberoptik
+fibrinogène	fibrinojen
+fibroblaste	fibroblast
+fichier	dosya
+fictif	hayalî
+figue	incir
+figurant	figüran
+figure de proue	lider
+fil	iplik
+filet	fileto
+filigrane	filigran
+fille	kız
+film	film
+fils	oğul
+fils de pute	orospu çocugu
+filtre	filtre
+filtre à air	hava filtresi
+filtrer	süzmek
+final	final
+finance	finans
+finir	bitirmek
+finlandais	Fin
+finnois	Fince
+finnois	Fince
+firman	ferman
+fission nucléaire	fisyon
+fixer	saptamak
+fièvre	ateş
+fjord	fiyord
+flamand occidental	Batı Flamanca
+flamant	flamingo
+flamant rose	büyük flamingo
+flamme	alev
+flancher	direnmeyi bırakmak
+flaque	gölet
+fleur	çiçek
+fleuriste	çiçekçi
+fleuve	nehir
+flexibilité	esneklik
+flexographie	fleksografi
+fluor	flor
+fluorite	fluorit
+flux lumineux	işık akısı
+flux magnétique	manyetik akı
+flèche	ok
+flérovium	flerovyum
+flûte	flüt
+foi	inanç
+foie	karaciğer
+foie gras	foie gras
+foin	saman
+foire	fuar
+foire aux questions	SSS
+fois	defa
+folklore	folklor
+folkloriste	folklorcu
+fonction	fonksiyon
+fonctionnaire	devlet memuru
+fond	dip
+fondation	kuruluş
+fonder	kurmak
+fondre	erimek
+fontaine	fıskiye
+football	ayaktopu
+force	kuvvet
+force magnétomotrice	manyetomotor kuvvet
+force électromotrice	elektromotor kuvvet
+forgeron	demirci
+formation	formasyon
+forme	biçim
+forme normale	normal form
+formel	açık
+formulaire	form
+formule	formül
+formule chimique	kimyasal formül
+fort	güçlü
+fort comme un Turc	Türk gibi kuvvetli
+fortune	alınyazısı
+forum	forum
+forêt	orman
+forêt primaire	bakir orman
+fosse	çukur
+fossile	fosil
+fou	deli
+fou	fil
+foudre	yıldırım
+fouet	kamçi
+fouiller	araştırmak
+foulque macroule	sakarmeke
+four	fırın
+fourchette	çatal
+fourmi	karınca
+fourmilier	karıncayiyen
+fourmilier marsupial	keseli karıncayiyen
+fourniture	tedarik etme
+foutre	amana koydum
+foutre	amana koydum
+foyer	odak
+fracture	kırık
+frais	taze
+fraise	çilek
+fraisier	çilek
+framboise	ahududu
+framboisier	ağaç çileği
+franc	frank
+francité	Fransızlık
+francium	fransiyum
+francophile	Fransız hayranı
+francophone	fransızca konuşan
+français	Fransız
+français	Fransızca
+frapper	vurmak
+freelance	Açık İş
+frein	fren
+frelon	eşekarısı
+fresque	fresk
+freudisme	Freudçuluk
+frimer	hava atmak
+froid	soğuk
+froid	soğuk
+froid	soğukluk
+fromage	peynir
+froment	buğday
+front	alın
+frontière	hudut
+frotter	sürtünmek
+fruit	meyve
+fruitier	bereketli
+frustration	bıkkınlık
+frère	birader
+frégate	fırkateyn
+fréquence	frekans
+frêne	dişbudak
+frêne à feuilles étroites	sivri meyveli dişbudak
+fuligule milouin	elmabaş patka
+fuligule milouinan	karabaş patka
+fulmar boréal	kuzey fulmarı
+fumier	gübre
+fumée	duman
+funérailles	cenaze
+furane	furan
+furet	yaban
+furieux	azgın
+fusil	tüfek
+fusée	roket
+futur	gelecek
+futurologie	fütüristik
+fève	fasulye
+fécond	bitek
+fédération	federasyon
+fée	peri
+féliciter	tebrik etmek
+félin	kediye benzeyen
+féministe	feminist
+féroce	vahşi
+février	şubat
+fête	bayram
+fêter	anmak
+gadolinium	gadolinyum
+gagner	almak
+gain	kazanç
+galactique	galaktik
+galaxie	galaksi
+gale	uyuz
+galerie	galeri
+gallium	galyum
+gallois	Galce
+galère	kadırga
+gamme	gam
+gamète	gamet
+gangrène	kangren
+gant	eldiven
+gant de boxe	boks eldiveni
+garage	garaj
+garance	kızılkök
+garance des teinturiers	kökboya bitkisi
+garantie	garanti
+garde	bekçi
+garde-bœuf	sığır balıkçılı
+gardien	bekçi
+gardien de but	kaleci
+gare	gar
+gargouille	gargoyle
+garçon	oğlan
+gauche	sol
+gauche	sol
+gaucher	solak
+gaufrette	gofret
+gavial	gavyali
+gaz	gaz
+gaz noble	asil gaz
+gazelle	ceylan
+gazette	gazete
+gaélique écossais	İskoçça
+geai	alakarga
+gecko	geko
+geisha	geyşa
+gel	ayaz
+gelée	ayaz
+gencive	dişeti
+gendarme	jandarma
+gendarmerie	jandarma
+gendre	damat
+genou	diz
+genre	cins
+gentil	hoş
+genévrier	ardıç
+gerfaut	ak sungur
+germandrée	kısamahmut
+germanium	germanyum
+gesse	mürdümük
+geste	el kol hareketi
+giaour	gâvur
+gibet	darağacı
+gibier	av
+gifle	tokat
+gigoter	debelenmek
+gilet	yelek
+gin	cin
+gingembre	zencefil
+girafe	zürafa
+giroflée	şebboy
+gitan	çingene
+glabre	köse
+glace	dondurma
+glacier	buzul
+glaciologie	buzul bilimi
+glaciologue	buzul bilimci
+glaucome	glokom
+glaïeul	glayöl
+globe	küre
+gloire	şan
+glorieux	şanlı
+glouton	kutup porsuğu
+glucose	glukoz
+glycéraldéhyde	gliseraldehit
+gnou	gnu
+gobemouche gris	benekli sinekkapan
+gobemouche nain	küçük sinekkapan
+gobemouche à collier	halkalı sinekkapan
+godemichet	zıbık
+golem	golem
+golf	golf
+golfe	körfez
+golfe du Mexique	Meksika Körfezi
+gorge	boğaz
+gorgebleue à miroir	gökgerdan
+gorille	goril
+gosse	oğlan
+goubernia	guberniya
+goudron	katran
+gouffre	uçurum
+goulash	gulaş
+goutte	damla
+gouvernail	dümen
+gouvernement	hükümet
+gouverneur	vali
+goyave	guava
+goéland argenté	kuzey gümüş martı
+goéland brun	kara sırtlı martı
+goélette	uskuna
+goût	tat
+goûter	ikindi kahvaltısı
+grabataire	yatalak
+graisse	yağ
+grammaire	gramer
+gramme	gram
+grand	büyük
+grand esturgeon	mersin morinası
+grand labbe	büyük korsan martı
+grand monarque	kral kelebeği
+grand-mère	büyükanne
+grand-père	dede
+grande aigrette	büyük ak balıkçıl
+grandir	büyümek
+grappe	salkım
+gratte-ciel	gökdelen
+gratter	kaşımak
+gratuit	bedava
+grave	ağır
+gravier	moloz
+gravir	tırmanmak
+graviton	graviton
+grec	Yunanlı
+grec	Yunanca
+grec	döner kebap
+grelotter	soğuktan titremek
+grenade	nar
+grenadier commun	nar
+grenouille	kurbağa
+griffe	pençe
+griffer	pençelemek
+griffon	griffon
+grimper	tırmanmak
+grimpereau des bois	orman tırmaşık kuşu
+grimpereau des jardins	bahçe tırmaşık kuşu
+griotte	vişne
+grippe	grip
+grippe aviaire	kuş gribi
+gris	gri
+grive dorée	altın ardıç
+grive draine	ökse ardıç kuşu
+grive litorne	tarla ardıç kuşu
+grive mauvis	kızıl ardıç kuşu
+grive musicienne	öter ardıç kuşu
+grive obscure	ak-kaşlı ardıç
+grive à dos olive	bülbül ardıcı
+grogner	homurdanmak
+gronder	azarlamak
+gros	şişman
+gros-bec casse-noyaux	bayağı kocabaş
+groseille	frenküzümü
+groseille à maquereau	bektaşi üzümü
+grossier	kaba
+grosso-modo	aşağı yukarı
+grotte	mağara
+groupe	grup
+groupe du tableau périodique	periyodik cetvelin grupları
+grue	vinç
+grue demoiselle	telli turna
+grèbe castagneux	küçük batağan
+grèbe esclavon	kulaklı batağan
+grèbe jougris	kızıl boyunlu batağan
+grèbe à cou noir	kara boyunlu batağan
+grève	grev
+gré	arzu
+grêle	dolu
+guacamole	guacamole
+guerre	savaş
+guerre civile	iç savaş
+guerre de Cent Ans	Yüz Yıl Savaşı
+guerre de Sécession	Amerikan İç Savaşı
+guerre froide	Soğuk Savaş
+guerre mondiale	dünya savaşı
+gueule-de-loup	aslanağzı
+gueux	dilenci
+gui	ökseotu
+guide	rehber
+guillemet	tırnak
+guillemot à miroir	kara dalıcımartı
+guillotine	giyotin
+guirch	kuruş
+guitare	gitar
+gujarati	Gucaratça
+guépard	çita
+guêpe	yaban arısı
+gynécologue	jinekolog
+gypaète barbu	kara kuş
+gypse	alçı
+gyroscope	jiroskop
+gâcher	azdırmak
+gâteau	kek
+gène	gen
+géant	dev
+génie civil	inşaat mühendisliği
+génisse	düve
+génitif	tamlayan
+génocide	soykırım
+génome	genom
+généalogie	soyağacı
+général	general
+général de brigade	tuğgeneral
+général de corps d’armée	korgeneral
+général de division	tümgeneral
+général d’armée	orgeneral
+génération	nesil
+généreux	alicenap
+générique	jenerik
+génétique	genetik
+géochronologie	jeokronoloji
+géodésie	jeodezi
+géographe	coğrafyacı
+géographie	coğrafya
+géologie	jeoloji
+géomorphologie	yüzey bilimi
+géométrie	geometri
+géorgien	Gürcüce
+géorgien	Gürcüce
+gêner	aksatmak
+habiller	giymek
+habitant	sakin
+habiter	oturmak
+habitude	âdet
+habituel	alelade
+habituer	alıştırmak
+hache	balta
+hackeur	hacker
+hadith	hadis
+hadji	hacı
+hafnium	hafniyum
+hahnium	haniyum
+haillon	paçavra
+haine	nefret
+haleine	nefes
+hall	salon
+hallucination	varsani
+halo	hale
+halva	helva
+hamac	hamak
+hamburger	hamburger
+hammam	hamam
+hamster	hamster
+hamza	hemze
+hanche	kalça
+handball	hentbol
+hangar	hangar
+hanneton	mayıs böceği
+hardi	atılgan
+harem	harem
+hareng	ringa balığı
+harfang des neiges	kar baykuşu
+hargneux	buruk
+haricot	fasulye
+harle bièvre	büyük tarakdiş
+harle huppé	tarakdiş
+harmonie vocalique	ünlü uyumu
+harmonieux	ahenkli
+harpe	arp
+harpon	zıpkın
+hasard	tesadüf
+hassium	hassiyum
+haut	yüksek
+haut la main	kolaylıkla
+haut les mains	eller yukarı
+hautbois	obua
+hauteur	irtifa
+hebdomadaire	haftalik
+hectare	hektar
+hennir	kişnemek
+herbe	ot
+herboriste	aktar
+hermine	kakım
+hernie	fıtık
+hernie discale	bel fıtığı
+herpétologie	herpetoloji
+hertz	hertz
+hertzien	hertz
+heure	saat
+heureux	bahtiyar
+hexagone	altıgen
+hibernation	kış uykusu
+hibou	baykuş
+hibou grand-duc	bayağı puhu
+hibou moyen-duc	kulaklı orman baykuşu
+hibou petit-duc	ishak kuşu
+hier	dün
+hindi	Hintçe
+hindouisme	Hinduizm
+hippocampe	denizatı
+hippopotame	su aygırı
+hirondelle	kırlangıç
+hirondelle de fenêtre	ev kırlangıcı
+hirondelle de rochers	kaya kırlangıcı
+hirondelle rustique	kır kırlangıcı
+histoire	tarih
+histologie	doku bilimi
+historien	tarihçi
+historique	tarihî
+hiver	kış
+hiérarchie	hiyerarşi
+hiéroglyphe	hiyeroglif
+hockey sur glace	buz hokeyi
+holmium	holmiyum
+homard	istakoz
+homme	adam
+homologue	homolog
+homologue	mevkidaş
+homonyme	homonim
+homophobie	homofobi
+homosexualité	eşcinsellik
+homosexuel	homoseksüel
+homosexuel	homoseksüel
+hongrois	Macarca
+hongrois	Macarca
+honneur	namus
+honnête	dürüst
+honorer	hürmet göstermek
+hoquet	hıçkırık
+horde	ordu
+horizon	ufuk
+horloge	saat
+horloge atomique	atom saati
+horodatage	zaman damgası
+hors-jeu	ofsayt
+hortensia	ortanca
+hostile	düşman
+hot-dog	sosisli sandviç
+houe	çapa
+houmous	humus
+houri	huri
+houx	çobanpüskülü
+hovercraft	hoverkraft
+huile	yağ
+huile de foie de morue	balık yağı
+huile de morue	balık yağı
+huile de palme	palm yağı
+huile de tournesol	ayçiçeği yağı
+huile d’olive	zeytinyağı
+huit	sekiz
+huit-cents	sekiz yüz
+huitre	istiridye
+hulla	hülle
+humain	insan
+humanisme	hümanizm
+humanité	insan
+humanoïde	insansı
+humble	gösterişsiz
+humeur	huy
+humide	nemli
+humour	mizah
+huppe	ibibik
+huppe fasciée	ibibik
+hurlement	bağırış
+hutte	kulübe
+huître	istiridye
+huîtrier pie	bayağı poyraz kuşu
+hybride	melez
+hydrie	hydria
+hydrocarbure	hidrokarbon
+hydrogène	hidrojen
+hygiène	sağlık bilgisi
+hymen	kızlık zarı
+hymne	ilahi
+hymne national	ulusal marş
+hyménoptère	zar kanatlılar
+hyper-spectral	hiperspektral
+hyperlien	hyperlink
+hypermétropie	hipermetropi
+hyperspectral	hiperspektral
+hypertexte	hipermetin
+hyperthermie	hipertermi
+hypocauste	hipokaust
+hypochlorite de sodium	sodyum hipoklorit
+hypolaïs des oliviers	büyük mukallit
+hypolaïs ictérine	sarı mukallit
+hypolaïs polyglotte	kısa kanatlı sarı mukallit
+hypolaïs pâle	ak mukallit
+hyponyme	alt kavram
+hypothèque	tutu
+hypothèse	varsayım
+hypothétique	var sayım
+hypoténuse	hipotenüs
+hyène	sırtlan
+hâte	acele
+hébreu	İbranice
+hébéter	sersemleştirmek
+hédonisme	hazcılık
+hélicoptère	helikopter
+hélium	helyum
+hématite	hematit
+hémidactyle verruqueux	akdeniz sakanguru
+hémoglobine	hemoglobin
+hémogramme	hemogram
+hémorroïde	basur
+hénothéisme	henoteizmin
+hépatite	hepatit
+héraldique	heraldik
+hérisson	kirpi
+héritage	miras
+héritier	mirasçı
+héron	balıkçıl
+héron bihoreau	gece balıkçılı
+héron cendré	gri balıkçıl
+héron crabier	alaca balıkçıl
+héron pourpré	erguvani balıkçıl
+héros	kahraman
+héroïne	kahraman
+hésiter	tereddüt etmek
+hêtre	kayın
+hôpital	hastahâne
+hôte	misafir
+hôtel	otel
+hôtel des monnaies	para oteli
+hüzün	hüzün
+ichtyologie	ihtiyoloji
+ici	burada
+ictère	sarılık
+icône	ikon
+idem	öge
+identité	hüviyet
+identité culturelle	kültürel kimlik
+idiot	ahmak
+idiot	allahlık
+idoine	uygun
+idolâtrer	taparcasına sevmek
+idée	fikir
+idéogramme	ideogram
+idéologie	ideoloji
+iel	o
+if	porsuk
+ignare	cahil
+ignorer	bilmemek
+iguane	iguana
+ikebana	ikebana
+il	o
+il faut battre le fer pendant qu’il est chaud	demiri tavında dövmeli
+il ne faut pas remettre au lendemain ce qu’on peut faire le jour même	bugünün işini yarına bırakma
+il ne manquait plus que ça	bir bu eksikti
+il n’y a pas de fumée sans feu	ateş olmayan yerden duman çıkmaz
+il n’y a que le premier pas qui coûte	her şey başlangıçta zordur
+il va sans dire	gayet tabii
+il était une fois	bir varmış bir yokmuş
+illico	aniden
+illustration	resim
+ils	onlar
+image	resim
+imagination	hayal gücü
+imam	imam
+imaret	imaret
+imbécile	embesil
+immeuble	bina
+immigrant	göçmen
+immigration	göçmenlik
+immoralité	ahlaksızlık
+immortalité	ölümsüzlük
+immortel	ölümsüz
+immédiatement	aniden
+impact	çarpma
+impavide	yılmaz
+impitoyable	amansız
+implorer	istirham etmek
+imploser	yıkılmak
+impoli	arsız
+impolitesse	terbiyesizlik
+importance	önem
+important	önemli
+impossible	imkânsız
+imprimante	yazıcı
+imprimer	yazdırmak
+imprimerie	basımevi
+imprimeur	matbaacı
+impulsion	dürtü
+impédance	empedans
+impératrice	imparatoriçe
+impérialisme	emperyalizm
+impôt	vergi
+impôt sur le revenu	gelir vergisi
+in situ	in situ
+inadéquat	elverişsiz
+inaugurer	merasimle kullanıma açmak
+incapacité	yeteneksizlik
+incarner	cisimleştirmek
+incertain	belirsiz
+incertitude	kesinsizlik
+inceste	ensest
+incolore	renksiz
+index	işaret parmağı
+indicateur	gösterge
+indifférent	umursamaz
+indigent	yoksul
+indiquer	göstemek
+indium	indiyum
+individu	birey
+indonésien	Endonezce
+inductance	endüktans
+industrie	endüstri
+industrie minière	madencilik
+indépendance	istiklal
+indépendant	bağımsız
+infanterie	piyade
+infinitif	mastar
+infirmière	hemşire
+inflation	enflasyon
+information	bilgi
+informatique	bilişim
+informer	bildirmek
+infrarouge	kızılötesi
+infrarouge	kızılötesi
+ingrat	nankör
+ingénieur	mühendis
+initiateur	yol gösterici
+injectable	enjektabl
+innovation	inovasyon
+inode	düğüm
+inoubliable	unutulmaz
+inquiet	afacan
+insalubre	sağlıksız
+insecte	böcek
+insensé	akıl dışı
+insister	ısrar etmek
+insolation	güneş çarpması
+insomnie	uykusuzluk
+instinct	insiyak
+institut	enstitü
+instrument	araç
+insuffisance	açık
+inséparable masqué	kara başlı cennet papağanı
+inséparable rosegorge	gül başlı cennet papağanı
+insérer	eklemek
+intellectuel	akli
+intellectuel	entelektüel
+intelligence	akıl
+intelligent	zeki
+intelligible	anlaşılır
+intensité	yoğunluk
+intensité lumineuse	işık şiddeti
+intention	amaç
+interface	arayüz
+interjection	ünlem
+international	uluslararası
+interprète	tercüman
+interrupteur	anahtar
+intervalle	aralık
+interview	mülakat
+intestin	bağırsak
+introduire	haber vermek
+intron	intron
+intrépide	yılmaz
+intuition	sezgi
+intéressant	enteresan
+intérêt	alaka
+inule fausse criste	sahil andız otu
+inutile	abes
+invention	buluş
+invertébré	omurgasız
+investigation	deli
+investissement	yatırım
+invisible	görünmez
+inviter	davet etmek
+invité	misafir
+iode	iyot
+ion	iyon
+irade	irade
+iranien	İranlı
+iridium	iridyum
+iris	iris
+ironie	alay
+irrationnel	irrasyonel
+irresponsabilité	sorumsuzluk
+irriter	alevlendirmek
+irréligion	dinsizlik
+islam	İslam
+islamophobie	İslamofobi
+islandais	İzlandaca
+islandais	İzlandaca
+isolat	izole dil
+israélien	israilli
+italien	Italyan
+italien	İtalyanca
+ivoire	fildişi
+ivre	sarhoş
+jacinthe	sümbül
+jade	yeşim
+jaguar	jaguar
+jaloux	kıskanç
+jamais	asla
+jambe	bacak
+jambon	jambon
+janissaire	yeniçeri
+janvier	ocak
+japonais	Japonca
+japonais	Japonca
+jardin	bahçe
+jardin zoologique	hayvanat bahçesi
+jardinier	bahçıvan
+jargon	jargon
+jaseur boréal	ipekkuyruk
+jasmin	yasemin
+jaune	sarı
+jaune	sarı
+jaune d’œuf	yumurta sarısı
+javelot	cirit
+jazz	caz
+jaïnisme	jainizm
+je	ben
+je ne sais qu’une chose c’est que je ne sais rien	Bildiğim tek şey hiçbir şey bilmediğimdir
+je t’aime	seni seviyorum
+je-sais-tout	çokbilmiş
+jeter	atmak
+jeter un sort	büyülemek
+jeu	oyun
+jeu de cartes	iskambil
+jeu d’instructions	komut kümesi
+jeu d’échecs	satranç
+jeu vidéo	video oyunları
+jeudi	perşembe
+jeune	genç
+jeune	genç
+jeunesse	gençlik
+jeûne	oruç
+job	iş
+jockey	cokey
+joie	lezzet
+joli	hoş
+jongleur	jonglör
+joue	yanak
+jouer	oynamak
+jouet	oyuncak
+joueur	oyuncu
+joug	boyunduruk
+joule	jül
+jour	gün
+journal	günlük
+journal intime	günlük
+journalier	günlük
+journalisme	gazetecilik
+journaliste	gazeteci
+joyeux	neşeli
+joyeux Noël	noeliniz kutlu olsun
+joyeux Noël et bonne année	Noeliniz Ve Yeni Yiliniz Kutlu Olsun
+joyeux anniversaire	doğum günün kutlu olsun
+judaïsme	Musevilik
+judéo-espagnol	Yahudi İspanyolcası
+juge	hakim
+juif	Yahudi
+juillet	temmuz
+juin	haziran
+jumeau	ikiz
+jumeau	ikiz
+jument	kısrak
+jungle	cengel
+jupe	etek
+jurer	ant içmek
+jus de pomme	elma suyu
+juste	doğru
+justice	adalet
+jute	jüt
+kabuki	kabuki
+kafkaïen	kavkafari
+kakuro	kakuro
+kangourou	kanguru
+kaolin	kaolin
+karagouz	karagöz
+karaté	karate
+katakana	katakana
+kazakh	Kazakça
+kaïmac	kaymak
+kelvin	kelvin
+ketchup	ketçap
+ketmen	ketmen
+ketmân	takiye
+khagan	hakan
+khaganat	kağanlık
+khalat	hil’at
+khan	kağan
+kharadj	haraç
+khazinedar	hazinedar
+khmer	Kmer dili
+khédive	hidiv
+kikiriki	kuk-kurri-kuuu
+kilerdgi	kilerci
+kilogramme	kilo
+kilogramme-force	kilogram-kuvvet
+kilomètre	kilometre
+kilomètre carré	kilometre kare
+kilomètre par heure	kilometre bölü saat
+kiosque	köşk
+kippa	kippa
+kiptchak mamelouk	Arap harfli Kıpçak Türkçesi
+kiwi	kivi
+klingon	Klingonca
+koala	koala
+kokoriko	kuk-kurri-kuuu
+kolkhoze	kolhoz
+konak	konak
+kopeck	kopek
+kotava	kotava
+koumis	kımız
+krill	kril
+krypton	kripton
+kurde	Kürtçe
+kurde	kürtçe
+kyudo	kyudo
+kébab	kebap
+kératine	keratin
+la critique est aisée mais l’art est difficile	söylemesi kolay
+la ferme	sus
+la fin justifie les moyens	amaca giden her yol mübahtır
+la goutte d’eau qui fait déborder le vase	bardağı taşıran damla
+la parole est d’argent et le silence est d’or	söz gümüşse sükut altındır
+la parole est d’argent, le silence est d’or	söz gümüşse sükut altındır
+la plume est plus forte que l’épée	kalem kılıçtan keskindir
+la véritable amitié se voit dans le malheur	iyi dost kara günde belli olur
+labarum	labarum
+labeur	iş
+labialisation	dudaksıllaşma
+laboratoire	laboratuvar
+laborieux	çalışkan
+labyrinthe	labirent
+lac	göl
+lac Léman	Cenevre Gölü
+lac de Constance	Konstanz Gölü
+lacer	bağlamak
+lactose	laktoz
+ladino	Ladino
+lahute	gusla
+laid	çirkin
+laine	yün
+laisser	bırakmak
+laisser de côté	bir yana bırakmak
+laisser pour compte	terk etmek
+lait	süt
+laiton	pirinç
+laitue	marul
+lama	lama
+lame	ağız
+lampadaire	sokak lambası
+lampe	lamba
+lampe à diode électroluminescente	LED lamba
+lampe à huile	kandil
+lamproie	bofa balığı
+lance	mızrak
+lancer du javelot	cirit atma
+langage	dil
+langage de programmation	programlama dilleri
+langoureux	süzgün
+langue	dil
+langue des signes	işaret dili
+langue maternelle	ana dili
+langue morte	ölü dil
+langue romane	Roman dili
+langue étrangère	yabancı dil
+langueur	bitkinlik
+lanterne	fener
+lanthane	lantan
+lapider	recmetmek
+lapin	tavşan
+lapin de Pâques	paskalya tavşanı
+lard	domuz pastarması
+large	geniş
+largeur	bolluk
+larme	gözyaşı
+larve	kurtçuk
+larynx	gırtlak
+latin	Latince
+latitude	enlem
+laurier	defne
+laurier sauce	akdeniz defne
+lavabo	lavabo
+laver	yıkamak
+lawrencium	lorentiyum
+laze	Lazca
+le	onu
+le chien aboie, la caravane passe	it ürür, kervan yürür
+le long de	boyunca
+le remède est pire que le mal	tedavisi hastalıktan beter
+le sort en est jeté	ok yaydan çıktı
+le temps, c’est de l’argent	vakit nakittir
+lecteur	okuyucu
+lectrice	okuyucu
+lent	yavaş
+lentement	yavaş
+lenteur	ağırlık
+lentille	mercimek
+les doigts dans le nez	gözü kapalı
+les grands esprits se rencontrent	aklın yolu birdir
+les loups ne se mangent pas entre eux	it iti ısırmaz
+les murs ont des oreilles	yerin kulağı vardır
+lesbienne	lezbiyen
+letton	Letonca
+lettre	mektup
+leucémie	lösemi
+levanti	levend
+lever	kalkmak
+levier	kaldıraç
+levure	maya
+lezguinka	lezginka
+leçon	ders
+libellule	kızböcek
+liberté	özgürlük
+liberté de culte	din özgürlüğü
+libido	libido
+librairie	kitapçı dükkanı
+libration	librasyon
+libre	özgür
+libérer	serbest bırakmak
+licence	lisans
+lichen	liken
+licorne	tekboynuz
+lien	bag
+lier	bağlamak
+lierre	sarmaşık
+lieutenant	teğmen
+lieutenant-colonel	yarbay
+ligase	ligaz
+ligne	doğru
+ligue	bağ
+lilas	eflatun
+lilas	leylak
+lime	eğe
+limiter	sınırlamak
+limousine	limuzin
+limpide	aşikâr
+lin	keten
+lin cultivé	keten
+linge	kumaş
+linguistique	dilbilim
+linguistique	dil bilimi
+linotte mélodieuse	keten kuşu
+linotte à bec jaune	sarı gagalı keten kuşu
+lion	aslan
+lion de Némée	Nemea Aslanı
+lionne	dişi aslan
+liqueur	likör
+liquide	sıvı
+lire	okumak
+lis de mer	kum zambağı
+lisse	pürüzsüz
+liste	liste
+lit	yatak
+lit de mort	ölüm döşeği
+lithium	lityum
+lithographie	taş baskı
+litre	litre
+littéralement	harfi harfine
+littérature	edebiyat
+lituanien	Litvanca
+liturgie	litürji
+livermorium	livermoryum
+livre	libre
+livre	kitap
+lièvre	tavşan
+locomotive	lokomotif
+locution nominale	ad tamlaması
+logarithme	logaritma
+logement	konut
+logiciel	yazılım
+logiciel malveillant	zararlı yazılım
+logique	mantık
+logique	mantık
+logistique	lojistik
+loi	kanun
+loin	uzak
+loin des yeux, loin du cœur	gözden ırak olan gönülden de ırak olur
+lointain	uzak
+lol	loli
+long	uzun
+longtemps	uzun
+longue-vue	teleskop
+longueur	boy
+loquat	muşmula
+loriquet de Johnstone	Mindanao lorisi
+loriquet eutèle	zeytin göğüslü lor
+loriquet jaune et vert	sarı-yeşil lori
+loriquet orné	süslü lori
+loriquet versicolore	alaca lori
+loriquet vert	pul göğüslü lori
+losange	eşkenar dörtgen
+loterie	piyango
+lotier corniculé	gazelboynuzu
+lotion	losyon
+louange	övme
+loufoque	kaçık
+loukoum	lokum
+loup	kurt
+loup de Sibérie	tundra kurdu
+loup-garou	kurt adam
+loupe	büyüteç
+lourd	agir
+loutre	lutr
+lui	ona
+lumen	lumen
+luminescence	işıldama
+lumière	ışık
+lundi	pazartesi
+lundi	pazartesi
+lune	ay
+lune de miel	balayı
+lunettes	gözlük
+lunettes de soleil	güneş gözlüğü
+lupin bleu	mavi acı bakla
+lusciniole à moustaches	bıyıklı kamışçın
+lustre	avize
+lustre	beş yıllık süre
+luth	ud
+luthier	luthier
+lutin	küçük şeytan
+lutte	mücadele
+lutte des classes	sınıf mücadelesi
+lutécium	lütesyum
+luxe	lüks
+luxembourgeois	Lüksemburgca
+luxmètre	işıkölçer
+lynx	vaşak
+lynx roux	doru vaşak
+là	şurada
+lâche	alçak
+lèvre	dudak
+lécher	yalamak
+lécher le cul	yağlamak
+légal	yasal
+légende	efsane
+légende urbaine	şehir efsanesi
+léger	hafif
+légume	sebze
+léninisme	Leninizm
+léopard	pars
+lésion	lezyon
+lévrier	tazı
+lézard	kertenkele
+l’amour est aveugle	aşkın gözü kördür
+l’argent parle	para konuşur
+l’emporter	üstün gelmek
+l’enfer est pavé de bonnes intentions	cehenneme giden yol iyi niyet taşlarıyla döşelidir
+l’erreur est humaine	hata insana mahsustur
+ma	benim
+macareux moine	bayağı deniz papağanı
+machine	makine
+machine à café	kahve makinesi
+machine à coudre	dikiş makinesi
+machine à laver	çamaşır makinesi
+machine à écrire	daktilo makinesi
+macreuse brune	kadife ördek
+macrophotographie	makro fotoğrafçılık
+madame	hanım
+mademoiselle	bayan
+magasin	dükkân
+magie	büyü
+magma	magma
+magnésite	magnezit
+magnésium	magnezyum
+magnétisme	mıknatıslık
+magnétite	manyetit
+magnétomètre	manyetometre
+mah-jong	mah-jongg
+mai	mayıs
+maillot de bain	mayo
+main	el
+main dans la main	el ele
+maint	birçok
+maintenant	şimdi
+maire	belediye başkanı
+mairesse	bayan belediye başkanı
+mais	ama
+maison	ev
+majeur	ağır
+majorité	çoğunluk
+majuscule	büyük harf
+mal	fena
+mal	dert
+mal de tête	baş ağrısı
+malade	hasta
+maladie	hastalık
+maladie du cri du chat	cri du chat sendromu
+maladie d’Alzheimer	Alzheimer hastalığı
+maladroit	beceriksiz
+malaisant	rahatsız
+malaise vagal	vazovagal senkop
+malaria	sıtma
+malentendu	anlaşmak
+malgré	karsin
+malheur	mutsuzluk
+malheureusement	maalesef
+malheureux	bedbaht
+malsain	ahlaksız
+malt	malt
+maltais	Maltaca
+mamaliga	mamaliga
+maman	anne
+mamelon	meme başı
+mammifère	memeli
+manche	kol
+manche	sap
+manchot	beceriksiz
+manchot	penguen
+manchot royal	kral penguen
+mandarine	mandalina
+mandoline	mandolin
+mandragore	adam otu
+mandrill	mandril
+mangaka	mangaka
+manganèse	mangan
+manger	yemek
+manger comme un cochon	domuz gibi yemek
+mangouste	kuyruksüren
+mangouste jaune	Sarı kuyruksüren
+mangue	mango
+manguier	mango
+manière	tarz
+manque	açık
+mansarde	çatı katı
+mante religieuse	peygamber devesi
+maquereau	uskumru
+maquillage	makyaj
+maquiller	makyaj yapmak
+maraca	maraka
+marathon	maraton
+marbre	mermer
+marchand	tüccar
+marche	marş
+marcher	yürümek
+marché	çarşı
+marché noir	karaborsa
+mardi	salı
+mardi	salı
+marelle	seksek
+margarine	margarin
+mari	koca
+mariage	düğün
+marier	evlenmek
+marijuana	esrar
+marin	kalyoncu
+marine	bahriye
+marionnette	kukla
+marié	evli
+marié	damat
+marjolaine	mercanköşk
+marmotte	dağ sıçanı
+marron	kahverengi
+marron	kahve rengi
+mars	mart
+marsouin	mutur
+marsouin aptère	sırt yüzgeçsiz liman yunusu
+marsouin commun	bayağı musur
+marsouin de Burmeister	kara liman yunusu
+marsouin de Dall	beyaz yanlı musur
+marsouin du golfe de Californie	körfez muturu
+marsouin à lunettes	gözlüklü liman yunusu
+marteau	çekiç
+martenitsa	martenitsa
+martinet noir	ebabil
+martyr	şehit
+marxisme	Marksizm
+marécage	bataklık
+marée	gelgit
+masculin	eril
+masochisme	mazoşizm
+masque	maske
+massage	masaj
+masse	balyoz
+masse atomique	bağıl atom kütlesi
+masse volumique	yoğunluk
+massif	sıradağ
+match	maç
+matelas	döşek
+mathématiques	matematik
+matin	sabah
+matinée	sabah
+matière	madde
+matérialisme	maddecilik
+matériel	bilgisayar donanımı
+maudire	beddua
+mausolée	mezar
+maussade	aynasız
+mauvais	kötü
+mauvais œil	kem göz
+maximal	azami
+maximum	azami
+mayonnaise	mayonez
+maître	hoca
+maïs	mısır
+meitnérium	meitneriyum
+melon	kavun
+melon	kavun
+membrane	zar
+membre	üye
+menace	tehdit
+menacer	tehdit etmek
+mendiant	dilenci
+mendier	dilenmek
+mendélévium	mendelevyum
+mener	götürmek
+mener par le bout du nez	parmağında oynatmak
+mensonge	yalan
+menstruation	âdet
+mensuel	aylık
+mental	akli
+menteur	yalancı
+menthe	nane
+mentionner	bahsetmek
+mentir	yalan söylemek
+menton	çene
+mer	deniz
+mer Adriatique	Adriyatik Denizi
+mer Baltique	Baltık Denizi
+mer Caspienne	Hazar Denizi
+mer Ionienne	İyon Denizi
+mer Morte	Lut Gölü
+mer Noire	Karadeniz
+mer Rouge	Kızıldeniz
+mer Tyrrhénienne	Tiren Denizi
+mer de Chine méridionale	Güney Çin Denizi
+mer de Chine orientale	Doğu Çin Denizi
+mer de Marmara	Marmara Denizi
+mer de Wandel	Wandel denizi
+mer du Japon	Japon denizi
+mer du Nord	Kuzey Denizi
+mer d’Azov	Azak Denizi
+mer Égée	Ege Denizi
+merci	teşekkür ederim
+mercredi	çarşamba
+mercure	cıva
+merde	bok
+merlan	mezgit
+merle	karatavuk
+merle bleu	gök ardıç kuşu
+merle de roche	taşkızılı
+merle d’Amérique	Amerika nar bülbülü
+merle noir	karatavuk
+merle à plastron	boğmaklı ardıç
+merveilleux	harika
+mesousa	mezuza
+message	mesaj
+mettre	koymak
+meuble	eşya
+meunier	değirmenci
+meurtre	cinayet
+meurtrier	katil
+miaou	miyav
+miauler	miyavlamak
+micocoulier	çitlenbik
+micocoulier de Provence	adi çitlembik
+micro-onde	mikrodalga
+microbe	mikrop
+microbiologie	mikrobiyoloji
+microfilm	mikrofilm
+microphone	mikrofon
+microscope	mikroskop
+microscopique	mikroskobik
+midi	öğle
+midibus	midibüs
+miel	bal
+miette	kırıntı
+mieux vaut tard que jamais	geç olsun güç olmasın
+mignon	hoş
+migraine	migren
+milan	çaylak
+milan noir	kara çaylak
+milan royal	kızıl çaylak
+mile	mil
+militaire	askerî
+militarisme	militarizm
+milk-shake	milkshake
+mille	bin
+mille marin	deniz mili
+millet	darı
+milliard	milyar
+millimètre	milimetre
+million	milyon
+millionnaire	milyoner
+millième	bininci
+millénaire	milenyum
+minaret	minare
+mince	ince
+mingrélien	megrelce
+miniature	minyatür
+minimalisme	minimalizm
+ministre	bakan
+ministère	bakanlar kurulu
+minuit	gece yarısı
+minuscule	küçücük
+minute	dakika
+minéral	mineral
+miracle	mucize
+miroir	ayna
+missile	füze
+missionnaire	misyoner
+miséricorde	merhamet
+mithridatisation	mithridatism
+mitochondrie	mitokondri
+mitose	karyokinez
+mitrailleuse	makineli tüfek
+moaï	moai
+mode	moda
+mode avion	uçuş modu
+modem	modem
+moderne	modern
+modernité	modernlik
+modeste	alçak gönüllü
+module	modül
+moelle	ilik
+moelle osseuse	kemik iliği
+moelle épinière	omurilik
+mohel	mohel
+moine	keşiş
+moineau	serçe
+moineau domestique	bayağı serçe
+moineau espagnol	söğüt serçesi
+moineau friquet	ağaç serçesi
+moineau soulcie	kaya serçesi
+moins	eksi
+moins	daha az
+moins	eksi
+mois	ay
+moissonneuse	biçerdöver
+moissonneuse-batteuse	biçerdöver
+moitié	buçuk
+mojito	mojito
+moldu	muggle
+mole	mol
+mollasson	mıymıntı
+mollet	baldır
+molybdène	molibden
+moléculaire	zerre
+molécule	molekül
+moment	an
+momie	mumya
+mon	benim
+monarchie	monarşi
+monarchie constitutionnelle	meşrutî monarşi
+monarque	hükümdar
+monastère	manastır
+monde	dünya
+mondialisation	küreselleşme
+mongol	Moğolca
+monisme	monizm
+monnaie	para
+monoamine oxydase	monoamin oksidaz
+monocycle	tekteker
+monogamie	monogami
+monographie	monografi
+monosaccharide	monosakkarit
+monothéisme	monoteizm
+monotone	biteviye
+monoxyde de carbone	karbonmonoksit
+monoxyde d’azote	azot monoksit
+monoïde	birlik
+monsieur	beyefendi
+monstre	canavar
+montage	montaj
+montagne	dağ
+montant	miktar
+monter	binmek
+montre	saat
+montrer	göstermek
+monument	abide
+moraine	buzultaş
+mordre	ısırmak
+morelle noire	köpek üzümü
+morphine	morfin
+morphème	biçimbirim
+morse	mors
+mort	ölü
+mort	ölüm
+mort	ölü
+mortier	harç
+morue	morina
+mosaïque	mozaik
+mosquée	cami
+mot	kelime
+mot composé	birleşik kelime
+mot de passe	parola
+mot à mot	harfi harfine
+mot-valise	birleşik sözcük
+moteur	motor
+moteur à explosion	yanmalı motor
+motif	motif
+motivation	motivasyon
+moto	motosiklet
+motocyclette	motosiklet
+mots croisés	kare bulmaca
+mou	yumuşak
+mouavin	muavin
+moucharder	ihbar etmek
+mouche	sinek
+moucheron	sivrisinek
+mouchoir	mendil
+mouette	martı
+mouette pygmée	küçük martı
+mouette rieuse	karabaş martı
+mouette tridactyle	kara bacaklı martı
+mouffette	kokarca
+mouillé	ıslak
+moule	midye
+moule	kalıp
+moulin	değirmen
+mourir	ölmek
+mouron bleu	mavi farekulağı
+mousse	yassi
+mousse	köpük
+mousselin	müsellim
+mousseline	muslin
+moustache	bıyık
+moustachu	bıyıklı
+moustique	sivrisinek
+moutarde	hardal
+mouton	koyun
+mouvement	hareket
+moyen français	orta fransızca
+moyen haut-allemand	Orta Yüksek Almanca
+mucus	sümük
+mufti	müftü
+muguet	kandidiyaz
+mulet	katır
+multiplication	çoğaltma
+multiplier	çoğaltmak
+mur	duvar
+musc	misk
+muscardin	fındık faresi
+muscle	adale
+muscovite	muskovit
+muselière	burunsalık
+musicien	müzisyen
+musicologie	müzikoloji
+musique	müzik
+musulman	Müslüman
+musée	müze
+mutation	mutasyon
+mutiler	bozmak
+myope	miyop
+myopie	miyopi
+myosotis	unutmabeni
+myrrhe	mür
+myrtille	yaban mersine
+mysticisme	mistisizm
+mystère	gizem
+mythologie	mitoloji
+mâcher	çiğnemek
+mâchoire	çene
+mâle	adam
+mât	direk
+mèche	fitil
+mère	anne
+mètre	metre
+mètre carré	metrekare
+mètre par seconde	metre bölü saniye
+mètre ruban	mezura
+mètre-ruban	mezura
+mécanique	mekanik
+mécanisme	mekanizma
+mécatronique	mekatronik
+médaille	madalya
+médecin	hekim
+médecine	tıp
+médicament	ilaç
+médisance	gıybet
+méditation	meditasyon
+méduse	denizanası
+mégadonnées	büyük veri
+mégalomanie	megalomani
+méiose	mayoz
+mélancolie	hüzün
+mélange	karışım
+mélilot d’Italie	İtalya taş yoncası
+mélodie	arya
+mélèze	melez
+mémoire	bellek
+mémoire virtuelle	sanal bellek
+méningite	menenjit
+mésange azurée	gök mavisi baştankara
+mésange charbonnière	ala
+mésange à longue queue	uzunkuyruk
+méson	mezon
+métabolisme	metabolizma
+métal	metal
+métallurgie	metalurji
+métamorphique	başkalaşım
+métamorphose	başkalaşım
+métaphore	mecaz
+métaphysique	metafizik
+métaplasie	metaplazi
+métastase	metastaz
+méthane	metan
+méthylation	metilasyon
+méthylphénidate	metilfenidat
+métier	iş
+métier à broder	nakış kasnağı
+métro	metro
+métronome	metronom
+métropole	metropol
+météo	meteoroloji
+météore	meteor
+météorologie	meteoroloji
+même si	se bile
+mûre	dut
+mûrir	olgunlaşmak
+m’as-tu-vu	kendini beğenmiş
+nacre	sedef
+nageoire	yüzgeç
+nager	yüzmek
+nageur	yüzücü
+nain	cüce
+naine blanche	beyaz cüce
+naissance	doğum
+nakib	nakib
+namaz	namaz
+nana	civciv
+napalm	napalm
+narcisse	nergis
+narguilé	nargile
+narine	burun deliği
+narval	narval
+naswar	nasvar
+natation	yüzme
+nation	millet
+national	millî
+nationalisme	milliyetçilik
+nature	doğa
+nature morte	natürmort
+naturel	doğasal
+naturellement	açık
+nautile	notilus
+navet	şalgam
+navire	gemi
+nazisme	nasyonal sosyalizm
+naître	doğmak
+naïf	bön
+nectarine	nektarin
+neige	kar
+neiger	kar yağmak
+neigeux	karlı
+nekuia	nekuia
+neptunium	neptünyum
+nerf	asap
+nestorianisme	nasturilik
+nette rousse	macar ördeği
+nettoyage de printemps	bahar temizliğli
+nettoyage ethnique	etnik temizlik
+nettoyer	temizlemek
+neuf	dokuz
+neuf	yeni
+neuf	dokuz
+neuro-anatomie	nöroanatomi
+neurologie	nöroloji
+neurone	nöron
+neuropathie	nöropati
+neuropeptide	nöropeptit
+neutralité	tarafsızlık
+neutrino	nötrino
+neutron	nötron
+neveu	yeğen
+newton	newton
+nez	burun
+ni	ne
+ni plus ni moins	ne fazla ne eksik
+nichan	nişan
+nickel	nikel
+nicotine	nikotin
+nid	yuva
+nigelle de Damas	Şam çörek otu
+nihilisme	nihilizm
+niobium	niyobyum
+nitrate	nitrat
+nitrate de potassium	potasyum nitrat
+niverolle alpine	kar serçesi
+nièce	yeğen
+nobélium	nobelyum
+noethérien	Noetherian
+nogaï	Nogayca
+noir	siyah
+noircir	karartmak
+noire	dörtlük nota
+noisette	fındık
+noix	ceviz
+noix de coco	Hindistan cevizi
+nom	isim
+nom de baptême	vaftiz adı
+nom de famille	soyadı
+nom propre	özel ad
+nombre	sayı
+nombre complexe	karmaşık sayı
+nombre composé	bileşik sayı
+nombre d’or	altın oran
+nombre premier	asal sayı
+nombre rationnel	rasyonel sayı
+nombre réel	reel sayılar
+nombreux	birçok
+nombril	göbek
+nominatif	yalın durum
+non	değil mi
+nord	kuzey
+nord-est	kuzeydoğu
+nord-est-quart-est	poyraz kerte gündoğusu
+nord-est-quart-nord	poyraz kerte yıldız
+nord-nord-est	kuzey-kuzey-doğu
+nord-nord-ouest	kuzey-kuzey-batı
+nord-ouest	karayel
+nord-ouest-quart-nord	karayel kerte yıldız
+nord-ouest-quart-ouest	karayel keret günbatısı
+nord-quart-nord-est	yıldız kerte poyraz
+nord-quart-nord-ouest	yıldız kerte karayel
+normal	normal
+norvégien	Norveçli
+norvégien	Norveççe
+nostalgie	hasret
+nouer	bağlamak
+nouille	şehriye
+nounou	dadı
+nourrir	beslemek
+nourriture	besin
+nous	biz
+nouveau	yeni
+nouvelle	haber
+novembre	kasım
+novice	acemi
+novice	papaz çömezi
+noyau	çekirdek
+noyau atomique	atom çekirdeği
+nu	çiplak
+nuage	bulut
+nuageux	bulutlu
+nudité	çıplaklık
+nuit	gece
+nul et non avenu	hiç olmamış gibi
+numbat	keseli karıncayiyen
+numérique	sayısal
+numéro	sayı
+numéro atomique	atom numarası
+nuque	ense
+nèfle	muşmula
+nègre	zenci
+néanmoins	bununla birlikte
+nécessaire	gerekli
+nécrose	nekroz
+néerlandais	Hollandalı
+néerlandais	Hollandaca
+négatif	olumsuz
+nénufar	nilüfer
+néodyme	neodim
+néologisme	yenici deyim
+néon	neon
+néoplasme	neoplazma
+néphrologie	nefroloji
+névrose	nevroz
+nœud	boğum
+nœud de chaise	izbarço bağı
+nœud de huit	kropi bağı
+nœud de plein poing	dirsekte adi düğüm
+nœud d’écoute	sancak bağı
+nœud papillon	papyon
+nœud plat	camadan düğümü
+n’avoir cure	hiç umursamamak
+n’avoir de cesse	yorulmaksizin usanmadan
+n’avoir ni queue ni tête	hiçbir anlamı olmamak
+n’en plus pouvoir	dayanamamak
+oasis	vaha
+objet	nesne
+obnubilation	zihin bulanikligi
+observation	gözlem
+observatoire	gözlemevi
+obstiner	inat etmek
+obstétrique	doğum
+obtenir	elde etmek
+obtus	yassi
+obéir	itaat etmek
+obélisque	dikilitaş
+obésité	obezite
+occasion	vesile
+occident	batı
+occitan	Oksitanca
+occupé	meşgul
+octant	oktant
+octet	bayt
+octobre	ekim
+octogone	sekizgen
+ocytocine	oksitosin
+océan	okyanus
+océan Arctique	Arktik Okyanusu
+océan Austral	Antarktika Okyanusu
+océan Indien	Hint Okyanusu
+océan Pacifique	Büyük Okyanus
+océanide	okeanidler
+océanographie	okyanus bilimi
+oda bachi	odabaşı
+odalisque	odalık
+odeur	koku
+offenser	acıtmak
+officier	memur
+offre	teklif
+offrir	bağışlamak
+oh	ah
+ohm	ohm
+ohmmètre	direnç ölçer
+oie	kaz
+oie cendrée	boz kaz
+oie des moissons	tarla kazı
+oie des neiges	kar kazı
+oie rieuse	sakarca kazı
+oie à bec court	küçük tarla kazı
+oignon	soğan
+oiseau	kuş
+oiseau de mer	deniz kuşu
+oisiveté	işsizlik
+okapi	okapi
+olive	zeytin
+olivette	zeytinlik
+olivier	zeytin ağacı
+ombre	gölge
+omelette	omlet
+omoplate	kürek kemiği
+oméprazole	omeprazol
+on ne fait pas d’omelette sans casser des œufs	yumurta kırmadan omlet yapılmaz
+once	ons
+oncle	dayı
+oncologie	onkoloji
+onde	dalga
+onde sismique	sismik dalga
+ongle	tırnak
+ontologie	ontoloji
+onze	onbir
+opale	opal
+opinion	düşünce
+opium	afyon
+oponce	kaynanadili
+opossum commun	bayağı opossum
+opossum de Virginie	kuzey keseli sıçanı
+opossum à grosse queue	kalın kuyruklu opossum
+opportuniste	firsatci
+opposition	muhalefet
+oppression	basınç
+opter	seçmek
+optimisation	eniyileme
+opéra	opera
+opération	operasyon
+opérer	etmek
+oque	okka
+or	yaldızlı
+or	altın
+orage	fırtına
+oral	sözlü
+orang-outan	orangutan
+orange	turuncu
+orange	portakal
+orange	turuncu
+oranger	portakal
+orchestre	orkestra
+orchidée	orkide
+ordinaire	sıradan
+ordinateur	bilgisayar
+ordonner	emretmek
+ordre	düzen
+ordure	çöp
+oreille	kulak
+oreille externe	dış kulak
+oreille interne	iç kulak
+oreille moyenne	orta kulak
+oreiller	yastık
+oreillons	kabakulak
+organe	organ
+organisation	organizasyon
+organisation non gouvernementale	sivil toplum kuruluşu
+organisme	canlı
+orgasme	orgazm
+orge	arpa
+orgelet	arpacık
+orgue	org
+oriel	cumba
+orientation sexuelle	cinsel yönelim
+origine	asıl
+orignal	sığın
+orisha	orisa
+orme	karaağaç
+ornithologie	ornitoloji
+ornithophile	kuş sever
+ornithorynque	gagalı memeli
+orphelin	yetim
+orphelinat	yetimhane
+orpin âcre	acı damkoruğu
+orteil	ayak parmağı
+orthographe	yazım
+orvet des Balkans	oluklu kertenkele
+os	kemik
+oscilloscope	osiloskop
+osmium	osmiyum
+otage	rehine
+ottoman	Osmanlı
+ou	veya
+ouatier	kapok
+oublier	unutmak
+oublieux	unutkan
+ouest	batı
+ouest-nord-ouest	batı-kuzey-batı
+ouest-quart-nord-ouest	günbatısı kerte karayel
+ouest-quart-sud-ouest	günbatısı kerte lodos
+ouest-sud-ouest	batı-güney-batı
+oui	evet
+ouragan	kasırga
+ourdou	Urduca
+ours	ayı
+ourébi	oribi
+ouste	uşt
+outarde barbue	toy
+outil	alet
+outre	çaprazvari
+ouvert	açık
+ouvertement	açıkça
+ouvrage	iş
+ouvrier	amele
+ouvrir	açmak
+ouïe	duyma
+ovulation	ovülasyon
+oxydation	oksitlenme
+oxygène	oksijen
+ozone	ozon
+où	nerede
+p-adique	p-sel
+pacha	paşa
+pachalik	paşalık
+pacte	anlaşma
+paganisme	paganizm
+page	sayfa
+pagode	pagoda
+paille	hasırdan yapılmış
+pain	ekmek
+paire	çift
+paisible	asude
+paix	barış
+palais	saray
+paletot	palto
+palikare	palikarya
+palindrome	palindrom
+palladium	palladyum
+palmier	palmiye
+palourde	hayvan
+palynologie	palinoloji
+paléographie	paleografi
+paléontologie	paleontoloji
+pamplemousse	greyfurt
+pancréas	pankreas
+pancytopénie	pansitopeni
+panda	panda
+pandéisme	pandeizm
+panier	sepet
+panique	panik
+panneau de signalisation	trafik işaretleri
+panoplie	tam teçzihat
+pantalon	pantolon
+panthère	panter
+panthéisme	panteizm
+pantopode	deniz örümcekleri
+pantoprazole	pantoprazol
+pantoufle	terlik
+panure à moustaches	bıyıklı baştankara
+paon	tavus
+papa	baba
+papaye	papaya
+pape	papa
+papier	kâğıt
+papier d’aluminium	alüminyum folyo
+papier peint	duvar kâğıdı
+papillon	kelebek
+paquet	paket
+par exemple	örneğin
+par hasard	kazara
+parabole	parabol
+parachute	paraşüt
+paradigme	paradigma
+paradis	cennet
+paradis fiscal	vergi cenneti
+paradoxe	paradoks
+parallélépipède	dikdörtgen prizma
+paramètre	parametre
+paranormal	paranormal
+paraphilie	parafili
+parapluie	şemsiye
+parapsychologie	parapsikoloji
+parc	park
+parce que	çünkü
+parchemin	parşömen
+pardonner	affetmek
+pareil	benzer
+parent	akraba
+parenthèse	parantez
+paresse	tembellik
+paresseux	tembel
+paresseux	tembel hayvan
+parfait	mutlak
+parfum	parfüm
+parking	park yeri
+parlement	parlamento
+parler	konuşmak
+parodie	parodi
+paroi	duvar
+parole	söz
+parrain	mafya babası
+partager	bölmek
+partenariat	ortaklık
+parti politique	siyasî parti
+participant	katılan
+participe	ortaç
+particule	parçacık
+particulièrement	ayrı
+partie par million	ppm
+partir	bırakmak
+partout	her yerde
+pas	değil
+pas	adım
+passager	yolcu
+passeport	pasaport
+passerelle	köprü
+passion	aşk
+passé	geçmiş
+passé	geçmiş
+pasterma	pastırma
+pastiche	pastiş
+pastèque	karpuz
+patate douce	tatlı patates
+patelle bleue	çin şapkası
+pathologie	patoloji
+pathologiste	patoloji uzmanı
+patience	sabır
+patient	sabırlı
+patienter	sabretmek
+patin à roulettes	paten
+patriarche	patrik
+patte	ayak
+paturon	bukağılık
+paume	avuç
+paupière	göz kapağı
+pause	ara
+pauvre	fakir
+pauvreté	fakirlik
+pavot	gelincik
+pavé tactile	dokunut
+payer	ödemek
+pays	belde
+pays développé	gelişmiş ülke
+paysage	manzara
+paysan	köylü
+païen	pagan
+peau	cilt
+peigne	tarak
+peigner	taramak
+peindre	boyamak
+peine	acı
+peintre	ressam
+peinture	boya
+pelle	kürek
+pellicule	kepek
+pelote	top
+penalty	ceza
+pencher	abanmak
+pendre	asılmak
+pendule	saat
+pendule	sarkaç
+penny	peni
+penser	düsünmek
+pensée	düşünce
+pentagone	beşgen
+pentagramme	pentagram
+penthotal	pentotal
+perce-neige	kardelen
+perceptibilité	duyulurluk
+percevoir	algılamak
+perche	levrek
+perdicule	çalı bıldırcını
+perdre	kaybetmek
+perdrix	keklik
+perdrix choukar	kınalı keklik
+perfide	kalleş
+perforatrice	delgeç
+perle	boncuk
+permettre	izin vermek
+permission	izin
+perroquet	papağan
+perroquet de Rüppell	Rüppel papağanı
+perroquet jaco	jako
+perruche alexandre	İskender papağanı
+perruche ondulée	muhabbetkuşu
+perruche à collier	yeşil papağan
+perruque	peruk
+persan	Farsça
+perse	Farsça
+persil	maydanoz
+personnage	kişi
+personne	kişi
+personnel	kişisel
+personnel	personel
+perte	kayıp
+pesanteur	ağırlık
+pessimisme	kötümserlik
+pessimiste	karamsar
+pessimiste	kötümser
+peste	veba
+pet	osuruk
+petit	küçük
+petit	yavru
+petit chevalier à pattes jaunes	küçük sarıbacak
+petit déjeuner	kahvaltı
+petit gravelot	halkalı küçük cılıbıt
+petit pois	bezelye
+petit puffin	küçük yelkovan
+petit rorqual	bayağı minke balinası
+petit rorqual de l’Antarctique	antarktika minke balinası
+petit à petit, l’oiseau fait son nid	damlaya damlaya göl olur
+petit-fils	erkek torun
+petite amie	sevgili
+petite annonce	seri ilan
+peu	biraz
+peu	az
+peu s’en faut	ramak kaldı
+peu à peu	azar azar
+peuple	halk
+peuplier	kavak
+peuplier blanc	ak kavak
+peur	korku
+peureux	korkak
+peut-être	belki
+phalarope à bec étroit	deniz düdükçünü
+pharaon	firavun
+phare	far
+pharmacie	eczane
+pharmacologie	farmakoloji
+pharmacologique	farmakolojik
+pharynx	yutak
+philologie	filoloji
+philosophe	filozof
+philosophie	felsefe
+philosophique	filozofik
+phobie	fobi
+phonographe	gramofon
+phoque	fok
+phoque annelé	halkalı fok
+phoque barbu	sakallı fok
+phosphore	fosfor
+phosphore blanc	beyaz fosfor
+photographe	fotoğrafçı
+photographie	fotoğraf
+photographier	fotoğraf çekmek
+photomontage	fotomontaj
+photon	foton
+phrase	cümle
+phycologie	algoloji
+phyllanthe de Galinier	habeş kedi kuşu
+physicien	fizikçi
+physiologie	fizyoloji
+physique	fizik
+phytoplancton	fitoplankton
+phénomène	fenomen
+pi	pi
+piano	piyano
+pic	ağaçkakan
+pic cendré	küçük yeşil ağaçkakan
+pic noir	kara ağaçkakan
+pic syriaque	alaca ağaçkakan
+pic épeiche	göknar ağaçkakanı
+pic épeichette	küçük ağaçkakan
+pickpocket	yankesici
+pictogramme	piktogram
+pie	saksağan
+pie bavarde	saksağan
+pie-grièche à poitrine rose	kara alınlı örümcek kuşu
+pie-grièche écorcheur	kızıl sırtlı örümcek kuşu
+pied	ayak
+pierre	taş
+pierre qui roule n’amasse pas mousse	yuvarlanan taş yosun tutmaz
+pierre à aiguiser	bileyici
+pieux	dindar
+pigeon	güvercin
+pigeon biset	kaya güvercini
+pigeon ramier	tahtalı
+pignon	çam fıstığı
+pilaf	pilav
+pile	pil
+pile ou face	yazı tura
+pilier	direk
+pilote	pilot
+pilule	hap
+pin	çam
+pince à linge	mandal
+pince-nez	kelebek gözlü
+pingre	cimri
+pinson	ispinoz
+pinson des arbres	bayağı ispinoz
+pinson du Nord	dağ ispinozu
+pion	piyon
+pipe	pipo
+pipit des arbres	ağaç incir kuşu
+pipit spioncelle	dağ incir kuşu
+pique-nique	piknik
+piranha	pirana
+pirate	korsan
+piscine	yüzme havuzu
+pissenlit	kara hindiba
+pisser	işemek
+pistache	fıstık
+pistolet	tabanca
+pistolet-mitrailleur	hafif makineli silah
+pitaya	ejder meyvesi
+piteux	acınası
+pitié	acıma
+pivoine	ayıgülü
+pizza	pizza
+pièce	oda
+pièce de monnaie	demir para
+pièce de théâtre	oyun
+piège	tuzak
+piéton	yaya
+placard	afiş
+place	yer
+place Rouge	Kızıl Meydan
+plafond	tavan
+plage	kumsal
+plaie	yara
+plaindre	acımak
+plaine	ova
+plainte	şikâyet
+plan	plan
+planche	tahta
+plancher	yer
+planeur	planör
+planning familial	aile planlaması
+plante	taban
+planter	ekmek
+plantureux	bol
+planète	gezegen
+planète naine	cüce gezegen
+plasma	plazma
+plat	düz
+plate-bande	tarh
+plateau	yayla
+platine	platin
+plectre	mızrap
+plectrophane des neiges	kar kiraz kuşu
+plectrophane lapon	lapon çintesi
+plein	dolu
+plein	dolu
+pleine lune	dolunay
+pleurer	ağlamak
+pleuronecte	yassı balıklar
+pleuvoir	yağmak
+plexus cœliaque	solar plexus
+plexus solaire	solar plexus
+plie	pisi balığı
+plier	katlamak
+plomb	kurşun
+plongeon arctique	kara gerdanlı dalgıç
+plongeon catmarin	kızıl gerdanlı dalgıç
+plonger	dalmak
+pluie	yağmur
+plume	kalem
+pluriel	çoğul
+plus	artı
+plus	daha
+plus	artı
+plus petit commun multiple	ortak katların en küçüğü
+plutonium	plütonyum
+plutôt	daha doğrusu
+pluvier argenté	gri yağmur kuşu
+pluvier doré	altın yağmurcun
+pluvier fauve	küçük altın yağmurcun
+pluvier guignard	dağ cılıbıtı
+plâtre	alçı
+plénipotentiaire	tam yetkili
+pneu	lastik
+pneumoconiose	pnömokonyoz
+poche	cep
+pogrom	pogrom
+poids	ağırlık
+poignard	hançer
+poignet	bilek
+poil	tüy
+poing	yumruk
+point	nokta
+point G	G-noktası
+point barre	noktası çubuk
+point de base	baz puan
+point de chute	Sığınma yeri
+point de fusion	erime noktası
+point d’ébullition	kaynama noktası
+point final	Son nokta
+point triple	üçlü nokta
+pointillisme	noktacılık
+poire	armut
+poireau	pırasa
+pois	bezelye
+pois chiche	nohut
+poison	zehir
+poisson	balık
+poissonnier	balıkçı
+poitrine	göğüs
+poivre	biber
+poivron	biber
+poivrot	bekri
+poker	poker
+polabe	polapça
+poli	perdahlı
+police	polis
+politesse	incelik
+politicien	siyasetçi
+politique	politika
+politique	siyaset
+pollen	çiçek tozu
+polo	çevgen
+polonais	Lehçe
+polonais	Lehçe
+polonium	polonyum
+polygamie	poligami
+polygonate	mührüsüleyman
+polygone	çokgen
+polymorphisme	çok biçimlilik
+polythéisme	politeizm
+polémique	polemik
+pommade	merhem
+pomme	elma
+pomme de terre	patates
+pommier	elma
+pompe	pompa
+pompier	ıtfaiye
+ponctuation	noktalama
+ponctuel	doğru
+pont	köprü
+pont suspendu	asma köprü
+population	nüfus
+porc	domuz
+porcelaine	porselen
+pornographie	pornografi
+pornographique	açık saçık
+porphyrion	sazhorozu
+port	liman
+port parallèle	paralel port
+portable	cep telefonu
+portail	kapı
+portance	taşıma kuvveti
+porte	kapı
+porte-avions	uçak gemisi
+porte-clés	anahtarlık
+porte-drapeau	bayraktar
+porte-queue	kırlangıçkuyruk
+portefeuille	cüzdan
+portrait	portre
+portugais	Portekizli
+portugais	Portekizce
+poser	etmek
+positif	olumlu
+position du missionnaire	misyoner pozisyonu
+positron	pozitron
+possesseur	sahip
+possibilité	ihtimal
+possible	mümkün
+posséder	sahip olmak
+poste	mektup
+pot-de-vin	rüşvet
+potage	çorba
+potassium	potasyum
+pou	bit
+pouce	başparmak
+poudre	barut
+poudre à canon	barut
+pouillot véloce	bayağı çıvgın
+poulain	tay
+poule	tavuk
+poulet	piliç
+poulie	palanga
+poulpe	ahtapot
+pouls	nabız
+poumon	akciğer
+poupée	bebek
+poupée russe	matruşka
+pour	için
+pour ce qui est de	ilişkin
+pour cent	yüzde
+pour que	-mesi için
+pour toujours	ebediyen
+pourboire	bahşiş
+pourga	tipi
+pourpier	semizotu
+pourpre	mor
+pourquoi	neden
+pourri	çürük
+pourriture	çürüme
+pousser	itmek
+poussin	civciv
+poussière	toz
+pouvoir	güç
+poème	şiir
+poète	şair
+poésie	şiir
+poêle	tava
+poêle	soba
+prairie	kır
+praséodyme	praseodim
+premier	birinci
+premier ministre	başbakan
+première	prömiyer
+prendre	tutmak
+prendre au collet	yakasına yapışmak
+prendre de haut	aldatmak
+prendre froid	soğuk almak
+prendre note	not almak
+presque	neredeyse
+pression	basınç
+pression atmosphérique	hava basıncı
+preuve	ispat
+prime time	prime time
+primitivisme	primitivizm
+prince	prens
+prince charmant	yakışıklı prens
+princesse	prenses
+printemps	ilkbahar
+prion	priyon
+prion bleu	ak kuyruklu priyon
+prion colombe	güvercin priyonu
+prion de Belcher	ince gagalı priyon
+prion de Forster	büyük priyon
+prion de la Désolation	antarktik priyonu
+prion à bec épais	kalın gagalı priyon
+prison	hapis
+privation	açık
+privatisation	özelleştirme
+privilège	ayrıcalık
+privé	özel
+prix	fiyat
+prix Nobel	Nobel Ödülü
+prière	dua
+probablement	muhtemelen
+problème	problem
+proche	yakın
+prochile	tembel ayı
+procès	dava
+prodiguer	israf etmek
+producteur	üretici
+produire	ürün vermek
+produit	alet
+professeur	profesör
+profession	iş
+professionnalisant	ckatfüldam
+profond	derin
+profondeur	derinlik
+profus	bol
+profusion	bolluk
+progestérone	progesteron
+programme	program
+programmer	programlamak
+projet	proje
+projeter	atmak
+prolactine	prolaktin
+prolongation	uzatma
+promesse	söz
+promettre	söz vermek
+promotion	terfi
+pronom	zamir
+prononciation	telaffuz
+propagande	propaganda
+propane	propan
+prophète	peygamber
+prophétie autoréalisatrice	beklenti etkisi
+propofol	propofol
+propos	amaç
+proposition	öneri
+propre	arı
+propriétaire	sahip
+propriété	mülk
+prose	nesir
+prospérité	refah
+prostitution	fahişelik
+protactinium	protaktinyum
+protestation	protesto
+protester	protesto etmek
+prothèse	protez
+proto-germanique	proto-Cermence
+protocole	protokol
+proton	proton
+prototype	prototip
+protéger	korumak
+protéine	protein
+proue	pruva
+proverbe	atasözü
+province	vilayet
+proximité	yakınlık
+prune	erik
+pré	çayır
+précaire	istikrarsız
+précairement	istikrarsız bir şekilde
+précariat	işsiz ve istikrarsız işçilerin sosyal sınıfı
+précarisation	istikrarsızlaştırma
+précarité	istikrarsızlık
+précieux	değerli
+précis	tam
+préface	ön söz
+préfixe	ön ek
+préférence	tercih
+préjudice	arıza
+prénom	ad
+préparation	hazırlık
+préparer	hazırlamak
+préposition	ilgeç
+prépuce	sünnet derisi
+présence	bulunma
+présentable	prezantabl
+présenter	takdim etmek
+préservatif	prezervatif
+président	başkan
+prétexte	bahane
+prévision	basiret
+prêt	alesta
+prêter	ödünç vermek
+prêter serment	ant içmek
+prêtre	papaz
+psaume	ilahi
+psilocybine	psilocybin
+psilure	eğri kuyrukotu
+psittacidé	papağangiller
+psittacule d’Edwards	Edwards incir papağanı
+psychiatre	akıl doktoru
+psychiatrique	psikiyatrik
+psychologie	psikoloji
+psychologie sociale	sosyal psikoloji
+psychologue	psikolog
+psychopolitique	psikopolitika
+psychose	psikoz
+psychostasie	Psikostazi
+psychothérapeute	psikoterapist
+psychothérapie	psikoterapi
+ptine australien	Avustralya örümcek böceği
+ptéridophore	mavi tuğlu cennetkuşu
+ptérosaure	teruzor
+puanteur	koku
+public	kamusal
+public	kamu
+publicité	reklam
+publier	açıklamak
+puce	pire
+pucrasie	koklas sülünü
+puffin	yelkovankuşu
+puffin cul-noir	Kaliforniya yelkovan
+puffin de Boyd	yeşilburun küçük yelkovan
+puffin de Heinroth	Heinroth yelkovan
+puffin de Hutton	Hutton yelkovan
+puffin de Macaronésie	küçük yelkovan
+puffin de Newell	Newell yelkovan
+puffin de Parkinson	kara yelkovan
+puffin de Scopoli	boz yelkovan
+puffin de Townsend	Townsend yelkovan
+puffin de la Nativité	Christmas yelkovan
+puffin des Anglais	atlantik yelkovan
+puffin des Baléares	Balear yelkovan
+puffin des Galapagos	Galapagoz yelkovan
+puffin du Cap-Vert	Kap Verd yelkovan
+puffin du Westland	büyük kara yelkovan
+puffin d’Audubon	tropikal yelkovan
+puffin fouquet	kama kuyruklu yelkovan
+puffin fuligineux	kül rengi yelkovan
+puffin gris	kahverengi yelkovan
+puffin leucomèle	ak yüzlü yelkovan
+puffin majeur	büyük yelkovan
+puffin persique	basra yelkovan
+puffin volage	dalgıç yelkovan
+puffin yelkouan	yelkovan
+puffin à bec grêle	ince gagalı yelkovan
+puffin à lunettes	gözlüklü yelkovan
+puffin à menton blanc	beyaz gıdılı yelkovan
+puffin à pieds pâles	pembe ayaklı yelkovan
+puissance	güç
+puissant	güçlü
+puits	kuyu
+pulsion	itki
+punaise	tahta kurusu
+punition	ceza
+pur	temiz
+purgatoire	araf
+purifier	ayıklamak
+putain	orospu
+pute	orospu
+putschiste	darbeci
+puzzle	bilmece
+pygargue à queue blanche	ak kuyruklu kartal
+pyjama	pijama
+pyracantha	ateş dikeni
+pyramide	piramit
+pyrazolone	pirazolon
+pyrite	pirit
+pyroxène	piroksen
+python	piton
+pyxide arachnoïde	örümcek kaplumbağası
+pâlir	ağarmak
+pâquerette	papatya
+pâturage	mera
+père	baba
+père Noël	Noel Baba
+pécheur	günahkâr
+pécheur	günahkâr
+péché	günah
+pédagogie	pedagoji
+pédiatrie	pediyatri
+pédérastie	oğlancılık
+pélican	pelikan
+pélican blanc	ak pelikan
+pénible	acıklı
+pénicilline	penisilin
+péninsule	yarımada
+péninsule Arabique	Arap Yarımadası
+péninsule Ibérique	İber Yarımadası
+pénis	sik
+pépinière	fidanlık
+pépite	külçe
+péricarde	perikard
+péridot	peridot
+périlleux	tehlikeli
+périnée	apış arası
+péristaphylin	peristafilin
+péronisme	Peronizm
+pétale	taç yaprak
+péter	osurmak
+péter les plombs	sigortası atmak
+pétition de principe	petitio principii
+pétrole	petrol
+pétrologie	petroloji
+pêche	şeftali
+pêcher	balık tutuyormak
+pêcheur	balıkçı
+pôle	kutup
+pôle Nord	Kuzey Kutbu
+quai	peron
+qualifier	nitelendirmek
+qualité	kalite
+quand	ne zaman
+quand bien même	olsa bile
+quantité	miktar
+quantité de lumière	işık enerjisi
+quarante	kırk
+quarante-six	kırk altı
+quark	kuark
+quart	çeyrek
+quartier	mahalle
+quartz	kuvars
+quartz fumé	dumanlı kuvars
+quasar	kuasar
+quatorze	on dört
+quatre	dört
+quatre cent quatre	dörtyüzdört
+quatre-vingt-dix	doksan
+quatre-vingt-dix-neuf	doksan dokuz
+quatre-vingt-quinze	doksan beş
+quatre-vingts	seksen
+que	ki
+quelque chose	bir şey
+quelquefois	bazan
+question	soru
+queue	kuyruk
+qui	kim
+qui aime bien, châtie bien	insan sevdiğine takılırmış
+qui m’aime me suive	beni seven arkamdan gelsin
+qui ne dit mot consent	süküt ikrardan gelir (sayılır)
+qui se ressemble s’assemble	Hacı hacıyı Mekkede, hoca hocayı tekkede, it iti dakkada bulurmuş
+qui sème le vent, récolte la tempête	rüzgar eken fırtına biçer
+qui vit par l’épée périra par l’épée	kılıçla yaşayan kılıçla ölür
+quille	salma
+quinze	on beş
+quitter	bırakmak
+quoi de neuf	ne var ne yok
+quoi qu’il en soit	ne olursa olsun
+qu’à cela ne tienne	önemi yok
+rabais	iskonto
+rabbin	haham
+rabi’-oul-aououal	rebiülevvel
+rabi’-out-tani	rebiülahir
+rabot	rende
+rabéprazole	rabeprazol
+racine	kök
+racisme	ırkçılık
+raciste	ırkçı
+raconter	anlatmak
+radar	radar
+radian	radyan
+radiateur	radyatör
+radiation	radyasyon
+radio	radyo
+radioactif	radyoaktif
+radioastronomie	radyo astronomi
+radiotélescope	radyo teleskop
+radis	turp
+radium	radyum
+radjab	recep
+radon	radon
+raffinerie	rafineri
+rage	kuduz
+railler	aramak
+raisin	üzüm
+raisin sec	kuru üzüm
+raison	akıl
+raisonnable	akıllı
+rajeunir	gençleştirmek
+rakia	rakı
+ralentir	ağırlaşmak
+ramasser	toplamak
+rangée	sıra
+rap	tıklatma
+rapanui	Rapanui dili
+rapide	hızlı
+rapidement	hızlı
+rapport	ilişki
+rapport sexuel	cinsel ilişki
+rare	nadir
+rarement	az
+rasoir	ustura
+rassasier	doyurmak
+rassembler	toplamak
+rassis	bayat
+rat	fare
+rat de bibliothèque	kitap kurdu
+rate	dalak
+ratifier	tasdik etmek
+raton laveur	rakun
+rauque	boğuk
+ravager	bozmak
+ravin	kanyon
+rayon	ışın
+rayonnement de Hawking	Hawking radyasyonu
+raïa	reaya
+rebelle	asi
+recette	yemek tarifi
+recevoir	almak
+recherche	araştırma
+rechercher	araştırmak
+reconnaissant	minnettar
+reconnaître	tanımak
+record	rekor
+rectifier	öldürmek
+recueillir	toplamak
+reculer	teslim etmek
+redoutable	azılı
+redouter	ödü patlamak
+refléter	aksetmek
+regarder	bakmak
+regretter	acımak
+rein	böbrek
+reine	kraliçe
+reine des animaux	hayvanlar kraliçe
+rejeter	reddetmek
+relation	bağıntı
+relier	bağlamak
+religion	din
+relégable	mevkii düşmesi riski altında olan
+relégation	statü yitimi durumu
+reléguer	mevkii düşürmek
+remarquable	dikkate değer
+remercier	teşekkür etmek
+remorqueur	römorkör
+remède	tedbir
+remémorer	hatırlatmak
+renard	tilki
+renard du Cap	Gümüş tilki
+rencontre	tesadüf
+rencontrer	karşılaşmak
+rendement	randıman
+rendre	iade etmek
+rendre hommage	şükretmek
+rendre le dernier soupir	son nefesini vermek
+renne	ren geyiği
+renommée	debdebe
+renoncer	vazgeçmek
+renseignement	bilgi
+renseigner	bildirmek
+renvoyer	aksetmek
+repas	yemek
+reportage	röportaj
+reporter	muhabir
+repose en paix	huzur içinde yat
+reposer	dinlenmek
+reprendre	azarlamak
+reprocher	azarlamak
+reptile	sürüngen
+requiabtar	rikabdar
+requin	köpek balığı
+requête	atılım
+respect	saygı
+respectueux	saygılı
+respirer	nefes almak
+resplendir	pırıldamak
+resplendissant	pırıldayan
+responsabilité	mesuliyet
+ressembler	benzemek
+ressort	yay
+restaurant	lokanta
+restauroute	dinlenme tesisi
+reste	artık
+rester	kalmak
+restituer	geri vermek
+restitution	eski hâline getirme
+retomber	asılmak
+revenu	gelir
+revolver	revolver
+revêche	buruk
+revêtir	almak
+rhinocéros	gergedan
+rhizome	köksap
+rhodium	rodyum
+rhubarbe	ravent
+rhume	nezle
+rhyolite	riyolit
+rhythm and blues	rhythm and Blues
+rhénium	renyum
+ribosome	ribozom
+riche	zengin
+richesse	zenginlik
+rideau	perde
+rien	hiç
+rifampicine	rifampisin
+rigolade	alay
+rira bien qui rira le dernier	son gülen iyi güler
+rire	gülmek
+rire	gülmek
+rivet	perçin
+rivière	nehir
+riz	pirinç
+robe	elbise
+robe de mariée	gelinlik
+robinet	musluk
+robot	robot
+rococo	rokoko
+roentgenium	röntgenyum
+roi	kral
+roi des animaux	hayvanlar kralı
+roitelet à triple bandeau	sürmeli çalı kuşu
+rollier d’Europe	gökkuzgun
+roman	roman
+romantisme	romantizm
+romarin	biberiye
+ronchonner	homurdanmak
+rond	yuvarlak
+rond-point	alan
+ronger	dişlerle ısırmak
+rongeur	kemirgen
+ronronner	mırlamak
+rorqual commun	oluklu balina
+rosaire	tespih
+rosbeef	rozbif
+rosbif	rozbif
+rose	pembe
+rose	gül
+rose	gül
+rose trémière	gülhatmi
+roselin cramoisi	bayağı çütre
+rosette	rozet
+rossignol	bülbül
+rossignol philomèle	bülbül
+rossignol progné	ardıç bülbülü
+rosée	çiy
+roter	geğirmek
+rouar	ravr
+roue	tekerlek
+rouge	kırmızı
+rouge à lèvres	ruj
+rouge-gorge	kızılgerdan
+rougeole	kızamık
+rougequeue noir	kara kızılkuyruk
+rougequeue à front blanc	bayağı kızılkuyruk
+rouleau compresseur	silindir
+roulette russe	Rus ruleti
+roumain	Rumen
+roumain	Rumence
+roumi	Rum
+route	yol
+rouvre	sapsız meşe
+royal	kraliyet
+royaume	krallık
+ruban de Möbius	Möbius şeridi
+rubidium	rubidyum
+rubis	yakut
+ruche	arı kovanı
+rue	sokak
+rue d’Alep	büyük sedef otu
+ruer	çifte atmak
+rugby	ragbi
+rugueux	pürtüklü
+ruisseau	dere
+rune	rün
+rural	kırsal
+russe	Rusça
+russe	Rusça
+rusé	açıkgöz
+rusé comme un renard	tilki gibi kurnaz
+rutherfordium	rutherfordiyum
+ruthénium	rutenyum
+rutile	rutil
+rythme	ritm
+râteau	tırmık
+règle	cetvel
+règne	alem
+réacteur nucléaire	nükleer reaktör
+réactif	reaktif
+réaction	aksitesir
+réagir	reaksiyon göstermek
+réalisateur	yönetmen
+réalité	gerçeklik
+réalité virtuelle	sanal gerçeklik
+récompense	mükâfat
+récompenser	ödüllendirmek
+récréation	eğlence
+réfléchir	aksetmek
+réfrigérateur	buzdolabı
+réfugié	mülteci
+référendum	referandum
+régime	rejim
+régiment	alay
+région	bölge
+régler	ayarlamak
+réglisse	meyan
+régulier	doğru
+réincarnation	reenkarnasyon
+réjouir	sevinmek
+réparer	onarmak
+répercussion	aksitesir
+répondre	cevap vermek
+réponse	aksitesir
+réprimander	azarlamak
+république	cumhuriyet
+république bananière	muz cumhuriyeti
+réputation	şan
+répéter	tekrarlamak
+répétition	prova
+réseau	ağ
+réserve	ihtiyat
+réserver	yer ayırma
+résigner	çökmek
+résine	reçine
+résistance	Direnç
+résister	direnmek
+résistivité	özdirenç
+résolution	teklif
+résoudre	çözmek
+résultat	sonuç
+réunion	toplantı
+réveille-matin	çalar saat
+réveiller	uyandırmak
+révolte	ayaklanma
+révolution	devrim
+révélateur	keşfettirici
+rêvasser	hayallere dalmak
+rêve	rüya
+rêver	düş görmek
+rôle	rol
+sable	kum
+sablier	kum saati
+sabot	toynak
+sabotage	sabotaj
+saboter	baltalamak
+sabre laser	ışın kılıcı
+sac	çanta
+sac de couchage	uyku tulumu
+sac à bière	bira göbeği
+sac à dos	sırt çantası
+sacré	kutsal
+sadisme	sadistlik
+sadiste	sadist
+safar	safer
+safran	safran
+sage	akıllı
+sagesse	hikmet
+sain	sıhhatlı
+saint	kutsal
+saint	azîz
+saint-pierre	dulger
+saisir	algılamak
+saison	mevsim
+sakieh	sakiye
+salade	salata
+salaire	maaş
+salamandre	semender
+salamandre terrestre	lekeli semender
+sale	kirli
+salep	salep
+salir	kirletmek
+salive	tükürük
+salière	tuzluk
+salle	oda
+salle de bains	banyo
+salle de classe	sınıf
+salon de beauté	güzellik salonu
+salut	merhaba
+salé	tuzlu
+samarium	samaryum
+samba	samba
+samedi	cumartesi
+samedi	cumartesi
+samizdat	samizdat
+samouraï	samuray
+samovar	semaver
+sanatorium	sanatoryum
+sandale	sandal
+sandjak	sancak
+sandwich	sandviç
+sang	kan
+sanglier	yabandomuzu
+sangria	sangria
+sanhédrin	sanhedrin
+sans alcool	alkolsüz
+sans coup férir	hiç zorlanmaksızın
+sans crier gare	uyarmadan
+sans déconner	deme
+sans vergogne	utanmadan
+santé	sağlık
+saphir	safir
+sapin	köknar
+saponaire officinale	sabun otu
+sarcastique	alaycı
+sarcelle	çakırkanat
+sarcelle d’hiver	çamurcun
+sarcelle d’été	çıkrıkçın
+sarcelle marbrée	yaz ördeği
+sardine	ateşbalığı
+sardinelle ronde	yuvarlak sardalya
+sarouel	şalvar
+satellite	uydu
+sauce	sos
+sauce de soja	soya sosu
+saucisse	sucuk
+sauclet	çamuka
+sauf que	mesinden başka
+sauge	ada çayı
+saule	söğüt
+saule pleureur	salkım söğüt
+saumon	somon
+saumure	salamura
+sauna	sauna
+saut à ski	kayakla atlama
+saute-mouton	dirdirbir
+sauter	sıçramak
+sauterelle	çekirge
+sauvage	vahşi
+sauver	kurtarmak
+saveur	çeşni
+savoir	bilmek
+savon	sabun
+saxophone	saksafon
+saxophone basse	bas saksofon
+scandium	skandiyum
+scanneur	tarayıcı
+scarabée	böcek
+scarlatine	kızıl
+sceptre	hükümdar asası
+schizophrénie	şizofreni
+schofar	şofar
+scie	testere
+science	bilim
+science-fiction	bilim kurgu
+scientifique	bilim adamı
+scintillateur	sintilatör
+scoliose	skolyoz
+scooter	scooter
+scorbut	iskorbüt
+scorpion	akrep
+scrotum	skrotum
+sculpteur	heykeltıraş
+sculpture	heykel
+scène	sahne
+scénario	senaryo
+se confesser	günah çıkarmak
+se coucher avec les poules	tavuk gibi erkenden yatmak
+se démoder	modası geçmek
+se faire turc	müslüman olmak
+se masturber	otuz bir çekmek
+se plaindre	yakınmak
+se reposer	dinlenmek
+se souvenir	hatırlamak
+se terminer	bitmek
+se tromper	aldanmak
+se vendre comme des petits pains	kapış kapış gitmek
+seaborgium	seaborgiyum
+seau	kova
+sec	kuru
+seconde	saniye
+secret	nihan
+secret	sır
+secrétaire	sekreter
+seigle	çavdar
+sein	meme
+seize	on altı
+sel	tuz
+selfie	özçekim
+selle	eyer
+selon	göre
+semaine	hafta
+semblable	benzer
+semer	ekmek
+semi-conducteur	yarı iletken
+semoule	irmik
+sens	anlam
+sensation	his
+sensé	akıllı
+sentier	yol
+sentiment	his
+sentir	koklamak
+sept	yedi
+sept	yedi
+sept péchés capitaux	yedi ölümcül günah
+septembre	eylül
+serbe	Sırpça
+serbe	Sırpça
+serein	açık
+sergent	çavuş
+seringue	şırınga
+serment	yemin
+sermonner	azarlamak
+serpent	yılan
+serre	sera
+serrure	kilit
+serrurier	anahtarcı
+serveur	sunucusu
+serveur mandataire	vekil sunucu
+service	hizmet
+serviette	peçete havlu
+seuil	eşik
+seul	yalnız
+seulement	yalnızca
+sexe	cinsiyet
+sexologie	cinsellik bilimi
+sextant	sekstant
+seyah	seyyah
+seymen	seğmen
+shabbat	sebt
+shampoing	şampuan
+shekel	şekel
+shell	kabuk
+shogun	şogun
+shérif	şerif
+si	eğer
+si	evet
+si possible	mümkünse
+siemens	siemens
+signal	sinyal
+signature	imza
+signe	işaret
+signe de ponctuation	noktalama işareti
+signe du zodiaque	burç
+signer	imzalamak
+signification	anlam
+signifier	kastetmek
+silence	sessizlik
+silencieux	sessiz
+silicate	silikat
+silicium	silisyum
+sillon	iz
+simple	sade
+simplification	basitleştirme
+simulacre	alay
+sincère	samimi
+singe	maymun
+singulier	acayip
+singulier	tekil
+sinus	sinüs
+sirop	şurup
+sirop d’érable	akçaağaç şurubu
+sirène	canavar
+sister-ship	kardeş gemi
+sitar	sitar
+sittelle des rochers	büyük kaya sıvacı kuşu
+sittelle torchepot	bayağı sıvacı kuşu
+situation	durum
+six	altı
+sixième	altıncı
+siècle	asır
+siège	sandalye
+ski	kayak
+ski nautique	su kayağı
+skier	kaymak
+skieur	kayakçı
+slave	Slav
+slip de bain	mayo
+slovaque	Slovakça
+slovène	Slovence
+slovène	Slovence
+sobre	ayık
+social	sosyal
+socialisme	sosyalizm
+sociologie	sosyoloji
+sociologue	sosyolog
+société	toplum
+sodium	sodyum
+softball	softbol
+soi-disant	sözde
+soie	ipek
+soif	susuzluk
+soin	bakım
+soir	akşam
+soirée	akşam
+soirée pyjama	pijama partisi
+soixante	altmış
+soixante-huit	altmış sekiz
+soixante-quinze	yetmiş beş
+soixante-six	altmış altı
+soldat	asker
+soleil	güneş
+solidarité	dayanışma
+solide	katı
+solitude	yalnızlık
+solution	çözelti
+somme	toplam
+sommeil	uyku
+sommet	zirve
+son	ses
+sonner	çalmak
+sonnet	sone
+sorabe	Sorbca
+sorbose	sorboz
+sorcier	sihirbaz
+sorcière	cadı
+sortie	çıkış
+sortir	çıkarmak
+souci	kaygı
+soudain	ani
+soudain	ansızın
+soudainement	aniden
+souffle	nefes
+soufflet	körük
+souffleur	suflör
+souffrir	almak
+soufi	mutasavvıf
+soufisme	tasavvuf
+soufre	kükürt
+souhait	arzu
+souhaiter	arzulamak
+soulever	kaldirmak
+soulier	ayakkabı
+souligner	altını çizmek
+soumis	itaatli
+soupe	çorba
+soupir	ah
+soupirer	arzulamak
+sourate	sure
+source	çıkak
+sourcil	kaş
+sourd	sağır
+sourire	gülümseme
+sourire	gülümsemek
+souris	fare
+sous	alt
+sous prétexte de	bahanesiyle
+sous-lieutenant	asteğmen
+sous-marin	denizaltı
+sous-merde	kıçı kırık
+sous-titre	altyazı
+soutenir	desteklemek
+soutien	destek
+soutien-gorge	sütyen
+souvenir	hediyelik eşya
+souvent	sık
+souverain	egemen
+souveraineté	egemenlik
+spatule blanche	bayağı kaşıkçı
+spectateur	seyirci
+spectre	tayf
+spectre électromagnétique	elektromanyetik tayf
+spectroscope	spektroskop
+sperme	sperm
+sphère	küre
+sphère céleste	gökküre
+spirale	spiral
+sport	spor
+sportif	sporcu
+spécial	özel
+squelette	iskelet
+stabilisation	stabilizasyon
+stade	stadyum
+stalinisme	Stalinizm
+station-service	benzin istasyonu
+statue	heykel
+statue de la Liberté	Özgürlük Heykeli
+steppe	bozkır
+stercoraire pomarin	küt kuyruklu korsan martı
+sterne caspienne	hazar sumrusu
+sterne hansel	gülen sumru
+stipuler	şart koşmak
+stochocratie	demarşi
+strip-tease	striptiz
+strontium	stronsiyum
+structuralisme	yapısalcılık
+structure	bünye
+stupide	ahmak
+style	stil
+stylo	kalem
+stylo-plume	dolma kalem
+stéganographie	steganografi
+sténographie	stenografi
+stéthoscope	stetoskop
+subit	ani
+subitement	birden
+subjectif	öznel
+subjectivité	öznellik
+subordonner	tahakküm altına sokmak
+substance	madde
+subvention	devlet desteği
+succès	başarı
+sucette	lolipop
+sucre	şeker
+sucré	tatlı
+sud	güney
+sud-est	güneydoğu
+sud-est-quart-est	keşişleme kerte gündoğusu
+sud-est-quart-sud	keşişleme kerte kıble
+sud-ouest	güneybatı
+sud-ouest-quart-ouest	lodos kerte günbatısı
+sud-ouest-quart-sud	lodos kerte kıble
+sud-quart-sud-est	kıble kerte keşişleme
+sud-quart-sud-ouest	kıble kerte lodos
+sud-sud-est	güney-güney-doğu
+sud-sud-ouest	güney-güney-batı
+sudoku	sudoku
+suer	terlemek
+suer sang et eau	kan ter içinde kalmak
+sueur	ter
+suffixe	sonek
+suggestion	öneri
+suggérer	aklına getirmek
+suicide	intihar
+suinter	sızmak
+suisse	Isviçreli
+suivant	ardısıra
+suivre	izlemek
+sujet	özne
+sulfure d’hydrogène	hidrojen sülfit
+sultan	sultan
+sultanin	sultani
+sumac vénéneux	zehirli sarmaşık
+sumérogramme	sümerogram
+superfétatoire	fuzuli
+supermarché	süpermarket
+supernova	süpernova
+superstition	hurafe
+supprimer	ayrılmak
+sur	üstünde
+surface	yüzey
+surfer	sörf yapmak
+surgir	yeryüzüne çıkması
+surgissement	aniden göz önüne çıkma
+surmonter	altetmek
+surnuméraire	aşırı
+surprise	sürpriz
+surréalisme	gerçeküstücülük
+surveillance	gözetim
+surveiller	aldırmak
+susceptible	kolay gücenen kişi
+suscription	adres
+suède	süet
+suédois	Isveçli
+suédois	İsveççe
+svastika	svastika
+syllabe	hece
+syllabe fermée	kapalı hece
+sylviculture	silvikültür
+symbole	sembol
+sympathie	sempati
+symphonie	senfoni
+symphorophilie	simparafili
+symptôme	semptom
+synagogue	sinagog
+syndrome	sendrom
+syndrome de Stockholm	Stockholm sendromu
+syndrome d’Angelman	AS
+synonyme	eş anlamlı
+syntaxe	cümle bilgisi
+synthétique	sentetik
+syphilis	frengi
+systole	sistol
+système	sistem
+système solaire	Güneş Sistemi
+sécante	sekant
+sécher	kurutmak
+sécurité	güvenlik
+sédimentologie	sedimantoloji
+séisme	deprem
+sélénium	selenyum
+sémantique	anlamsal
+sémantique	anlam bilimi
+sénat	senato
+séparer	ayırmak
+sérasquier	serasker
+sérieux	ağırbaşlı
+sésame	susam
+sûr	emin
+sœur	abla
+s’assagir	uslanmak
+s’en aller	gitmek
+s’entendre	anlamak
+s’il vous plaît	lütfen
+s’occuper à	uğraşmak
+ta	senin
+tabac	tütün
+table	masa
+table des matières	içindekiler
+tableau	karatahta
+tableau noir	kara tahta
+tablier	önlük
+tache	leke
+tache bleue	moğol beneği
+tache bleue mongolique	moğol beneği
+tache bleue mongoloïde	moğol beneği
+tache de rousseur	çil
+tache de vin	ben
+tache mongole	moğol beneği
+tache mongolique	moğol beneği
+tache mongoloïde	moğol beneği
+tachistoscope	tahistoskop
+tachocline	tachocline
+tachyon	takyon
+taekwondo	tekvando
+taille	boyut
+taille-crayon	kalemtraş
+tailler	kesmek
+tailleur	terzi
+talc	talk
+talisman	tılsım
+talon	topuk
+tambour	davul
+tamga	damga
+tamis	elek
+tamoxifène	tamoksifen
+tandoor	tandır
+tangente	tanjant
+tant va la cruche à l’eau qu’à la fin elle se casse	su testisi su yolunda kırılır
+tantale	tantal
+tante	hala
+taon	atsineği
+taphonomie	taponomi
+tapir	tapir
+tapis	halı
+tapis roulant	yürüyen bant
+taqiya	takiye
+taqlid	taklid
+tard	geç
+tardif	geç
+tarif	tarife
+tarin des aulnes	iskete
+tarte	turta
+tartrazine	tartrazin
+tasse	fincan
+tasse à vin	şarap kadehi
+tassergal	lüfer
+tatar de Crimée	Kırım Tatarcası
+tatouage	dövme
+tatouer	dövme yapmak
+tatoueur	dövme sanatçısı
+taupe	köstebek
+taureau	boğa
+taxe	vergi
+taxi	taksi
+taxinomie	taksonomi
+taïga	tayga
+tchohagar	çuhadar
+tchèque	Çekçe
+tchèque	çekçe
+technicien	tekniker
+technique	teknik
+technologie	teknoloji
+technétium	teknetyum
+teint	beniz
+teinte	renk
+tekké	tekke
+tellement	böyle
+tellure	tellür
+tempe	şakak
+temple	tapınak
+temps	hava
+température	sıcaklık
+tempête	fırtına
+tempête de neige	tipi
+tendance	akım
+tendon d’Achille	Aşil tendonu
+tendresse	şefkat
+tenir	tutmak
+tennis	tenis
+tenseur	tensör
+tente	çadır
+terbium	terbiyum
+terminer	bitmek
+terne	yassi
+terraformation	terraforming
+terrasse	teras
+terre	toprak
+terre brûlée	yakıp yıkma
+terrorisme	terörizm
+terroriste	terörist
+tertre	tümsek
+tesla	tesla
+test	test
+testament	vasiyet
+testicule	badak
+texte	metin
+thallium	talyum
+thaï	Tayca
+thermodynamique	termodinamik
+thermomètre	termometre
+thermosphère	termosfer
+thon	orkinos
+thorax	toraks
+thorium	toryum
+thulium	tulyum
+thylacine	Tasmanya kaplanı
+thym	kekik
+thymus	timus
+thé	çay
+thé vert	yeşil çay
+théisme	teizm
+théocratie	teokrasi
+théologie	ilahiyat
+théorie	kuram
+théorie de l’esprit	zihin kuramı
+théorie des graphes	graf teorisi
+théorique	teorik
+thérapeutique	terapatik
+thérapie	tedavi
+théâtre	tiyatro
+tichodrome échelette	duvar tırmaşık kuşu
+ticket	bilet
+tige	sap
+tigre	kaplan
+tilleul	ıhlamur
+timar	tımar
+timbale	timpani
+timbre	pul
+timbre-poste	pul
+tipule	sivrisinek
+tir à l’arc	okçuluk
+tirailler	rahatsız etmek
+tiramisu	tiramisu
+tire-bouchon	burgu
+tirelire	kumbara
+tirer	ateş etmek
+tiret bas	alt çizgi
+tireur d’élite	keskin nişancı
+tiro
