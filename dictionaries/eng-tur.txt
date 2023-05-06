@@ -1371,7 +1371,7 @@ applicator	aplikator.
 applied	tatbiki
 applique	aplike
 apply	yaklaştırmak
-appoggiatura	(it)
+appoggiatura	adi notanın yanına ilâve edilen ufak nota
 appoint	atamak
 appointee	atanan kimse
 appointive	tayine bağlı
