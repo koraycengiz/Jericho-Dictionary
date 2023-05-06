@@ -1,6 +1,7 @@
 
-import java.io.File;
+import java.io.*;
 import java.util.ArrayList;
+import java.util.HashMap;
 
 
 public class Dictionary {
@@ -80,6 +81,8 @@ public class Dictionary {
         fileManager.updateFile(oldText,newText,filePath);
         fileManager.updateFile(oldText2,newText,filePath);
     }
+
+
 
 
 

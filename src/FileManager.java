@@ -1,8 +1,8 @@
 import java.io.*;
 
 
-public class FileManager {
 
+public class FileManager {
 
 
     public String searchWord(String word,String sourceLanTag, String targetLanTag) {
@@ -69,6 +69,8 @@ public class FileManager {
             ex.printStackTrace();
         }
     }
+
+
 
 
 
