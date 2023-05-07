@@ -44,7 +44,9 @@ public class GUI extends Application {
 
         HBox imageBox = new HBox();
 
-        Image backgroundImage = new Image("C:\\Users\\Koray\\Desktop\\Jericho-design-china-name.png");
+        File newFile = new File("Jericho-design.png");
+
+        Image backgroundImage = new Image(new FileInputStream(newFile.getAbsolutePath()));
 
         ImageView backgroundImageView = new ImageView(backgroundImage);
         imageBox.getChildren().addAll(backgroundImageView);
