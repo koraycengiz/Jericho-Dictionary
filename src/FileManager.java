@@ -30,9 +30,9 @@ public class FileManager {
     }
 
 
-    public void updateHeadword(String oldWord,String newWord,String filePath){
+    public void updateHeadword(String oldWord,String newWord,String sourceLan, String targetLan){
         try {
-            File inputFile = new File(filePath);
+            File inputFile = new File(sourceLan+"-"+targetLan+".txt");
             File tempFile = new File("temp.txt");
 
             FileReader fileReader = new FileReader(inputFile);
@@ -59,9 +59,9 @@ public class FileManager {
         }
     }
 
-    public void updateTranslation(String oldWord,String newWord,String filePath){
+    public void updateTranslation(String oldWord,String newWord,String sourceLan,String targetLan){
         try {
-            File inputFile = new File(filePath);
+            File inputFile = new File(sourceLan+"-"+targetLan+".txt");
             File tempFile = new File("temp.txt");
 
             FileReader fileReader = new FileReader(inputFile);

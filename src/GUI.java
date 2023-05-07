@@ -48,12 +48,8 @@ public class GUI extends Application {
 
         HBox imageBox = new HBox();
 
-        File newFile = new File("Jericho-design.png");
 
-        Image backgroundImage = new Image(new FileInputStream(newFile.getAbsolutePath()));
 
-        ImageView backgroundImageView = new ImageView(backgroundImage);
-        imageBox.getChildren().addAll(backgroundImageView);
 
 
         imageBox.setAlignment(Pos.CENTER);
@@ -69,8 +65,8 @@ public class GUI extends Application {
             public void handle(ActionEvent t) {
 
                 HBox imageBox2 = new HBox();
-                ImageView backgroundImageView2 = new ImageView(backgroundImage);
-                imageBox2.getChildren().addAll(backgroundImageView2);
+
+
 
                 imageBox2.setAlignment(Pos.CENTER);
                 HBox.setHgrow(imageBox2, Priority.ALWAYS);
@@ -169,8 +165,8 @@ public class GUI extends Application {
             public void handle(ActionEvent t) {
 
                 HBox imageBox3 = new HBox();
-                ImageView backgroundImageView2 = new ImageView(backgroundImage);
-                imageBox3.getChildren().addAll(backgroundImageView2);
+
+
 
                 imageBox3.setAlignment(Pos.CENTER);
                 HBox.setHgrow(imageBox3, Priority.ALWAYS);
@@ -247,8 +243,8 @@ public class GUI extends Application {
                 GridPane gp = new GridPane();
 
                 HBox imageBox4 = new HBox();
-                ImageView backgroundImageView3 = new ImageView(backgroundImage);
-                imageBox4.getChildren().addAll(backgroundImageView3);
+
+
 
                 imageBox4.setAlignment(Pos.CENTER);
                 HBox.setHgrow(imageBox4, Priority.ALWAYS);
@@ -354,8 +350,7 @@ public class GUI extends Application {
 
                 HBox imageBox5 = new HBox();
                 //Image backgroundImage3 = new Image("C:\\Users\\Koray\\Desktop\\Jericho-design-china-name.png");
-                ImageView backgroundImageView3 = new ImageView(backgroundImage);
-                imageBox5.getChildren().addAll(backgroundImageView3);
+
 
                 imageBox5.setAlignment(Pos.CENTER);
                 HBox.setHgrow(imageBox5, Priority.ALWAYS);
