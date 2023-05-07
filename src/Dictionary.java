@@ -1,6 +1,11 @@
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 
 public class Dictionary {
@@ -64,6 +69,25 @@ public class Dictionary {
         }
         return "";
     }
+
+    public ArrayList<String> findSynonyms(String word,String sourceLanTag){
+        FileManager fileManager = new FileManager();
+        ArrayList<String> synonyms = new ArrayList<>();
+
+        Set<String> set = new HashSet<>();
+
+        for (String language:languageList){
+            if (new File("dictionaries\\"+sourceLanTag + "-"+ language+".txt").exists()) {
+                String translation = fileManager.readFile(word, sourceLanTag, language);
+                 synonyms.addAll(fileManager.findTranslation(translation, sourceLanTag, language));
+            }
+        }
+
+        synonyms.removeIf(str -> !set.add(str)||word.equalsIgnoreCase(str));
+        return synonyms;
+    }
+
+
 
 
 

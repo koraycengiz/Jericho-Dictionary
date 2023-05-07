@@ -1,4 +1,5 @@
 import java.io.*;
+import java.util.ArrayList;
 
 
 public class FileManager {
@@ -8,7 +9,7 @@ public class FileManager {
         try {
             BufferedReader reader = new BufferedReader(new FileReader("dictionaries\\" + sourceLanTag + "-" + targetLanTag + ".txt"));
 
-            String headword = "";
+
             String line;
             while ((line = reader.readLine()) != null) {
 
@@ -116,9 +117,37 @@ public class FileManager {
         }catch (IOException e){
 
         }
-        // Display a success message
+
         System.out.println("Word added to the dictionary!");
     }
+
+    public ArrayList<String> findTranslation(String word, String sourceLanTag,String targetLanTag){
+        ArrayList<String> translations = new ArrayList<>();
+        try {
+            BufferedReader reader = new BufferedReader(new FileReader("dictionaries\\" + sourceLanTag + "-" + targetLanTag + ".txt"));
+
+
+            String line;
+            while ((line = reader.readLine()) != null) {
+
+                String[] words = line.split("\t");
+                if (words.length>=2) {
+                    if (words[1].equalsIgnoreCase(word)) {
+                        translations.add(words[0]);
+                    }
+                }
+
+            }
+
+            reader.close();
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return translations;
+    }
+
+
 
 
 

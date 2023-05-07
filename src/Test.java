@@ -2,13 +2,19 @@ import java.util.ArrayList;
 
 public class Test {
     public static void main(String[] args) {
-        FileManager dict = new FileManager();
-        dict.updateTranslation("alkışlamak","***","dictionaries\\eng-tur.txt");
-
+        Dictionary dictionary = new Dictionary();
+        ArrayList<String> list = dictionary.findSynonyms("ablaze", "eng");
+        if (list!=null) {
+            for (String word : list) {
+                System.out.println(word);
+            }
+        }
 
 
 
 
 
     }
+
+
 }
