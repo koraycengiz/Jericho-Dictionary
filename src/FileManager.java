@@ -88,20 +88,20 @@ public class FileManager {
         }
     }
 
-    public void addFile(String word, String translation, String language1, String language2) {
+    public boolean addFile(String word, String translation, String language1, String language2) {
         FileManager fileManager = new FileManager();
 
         String path = "dictionaries\\"+language1 + "-" + language2 + ".txt";
         File file = new File(path);
         if (!file.exists()) {
             System.out.println("Dictionary file doesn't exist for the selected languages!");
-            return;
+            return false;
         }
 
         // Check if the word already exists in the dictionary
         if (!fileManager.readFile(word, language1, language2).equals("")){
             System.out.println("The word already exists in the dictionary!");
-            return;
+            return false;
         }
 
 
@@ -115,10 +115,11 @@ public class FileManager {
 
 
         }catch (IOException e){
-
+        return false;
         }
 
         System.out.println("Word added to the dictionary!");
+        return true;
     }
 
     public ArrayList<String> findTranslation(String word, String sourceLanTag,String targetLanTag){
