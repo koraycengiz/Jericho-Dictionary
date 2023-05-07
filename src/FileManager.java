@@ -30,7 +30,7 @@ public class FileManager {
     }
 
 
-    public void updateHeadword(String oldWord,String newWord,String filePath){
+    public boolean updateHeadword(String oldWord,String newWord,String filePath){
         try {
             File inputFile = new File(filePath);
             File tempFile = new File("temp.txt");
@@ -54,12 +54,14 @@ public class FileManager {
             bufferedWriter.close();
             inputFile.delete();
             tempFile.renameTo(inputFile);
+            return true;
         } catch (IOException ex) {
             ex.printStackTrace();
+            return false;
         }
     }
 
-    public void updateTranslation(String oldWord,String newWord,String filePath){
+    public boolean updateTranslation(String oldWord,String newWord,String filePath){
         try {
             File inputFile = new File(filePath);
             File tempFile = new File("temp.txt");
@@ -83,8 +85,10 @@ public class FileManager {
             bufferedWriter.close();
             inputFile.delete();
             tempFile.renameTo(inputFile);
+            return true;
         } catch (IOException ex) {
             ex.printStackTrace();
+            return false;
         }
     }
 
@@ -115,7 +119,7 @@ public class FileManager {
 
 
         }catch (IOException e){
-        return false;
+            return false;
         }
 
         System.out.println("Word added to the dictionary!");
