@@ -30,9 +30,9 @@ public class FileManager {
     }
 
 
-    public void updateHeadword(String oldWord,String newWord,String sourceLan, String targetLan){
+    public void updateHeadword(String oldWord,String newWord,String filePath){
         try {
-            File inputFile = new File(sourceLan+"-"+targetLan+".txt");
+            File inputFile = new File(filePath);
             File tempFile = new File("temp.txt");
 
             FileReader fileReader = new FileReader(inputFile);
@@ -59,9 +59,9 @@ public class FileManager {
         }
     }
 
-    public void updateTranslation(String oldWord,String newWord,String sourceLan,String targetLan){
+    public void updateTranslation(String oldWord,String newWord,String filePath){
         try {
-            File inputFile = new File(sourceLan+"-"+targetLan+".txt");
+            File inputFile = new File(filePath);
             File tempFile = new File("temp.txt");
 
             FileReader fileReader = new FileReader(inputFile);
@@ -88,18 +88,18 @@ public class FileManager {
         }
     }
 
-    public boolean addFile(String word, String translation, String language1, String language2) {
+    public boolean addFile(String word, String translation, String filePath) {
         FileManager fileManager = new FileManager();
 
-        String path = "dictionaries\\"+language1 + "-" + language2 + ".txt";
-        File file = new File(path);
+
+        File file = new File(filePath);
         if (!file.exists()) {
             System.out.println("Dictionary file doesn't exist for the selected languages!");
             return false;
         }
 
         // Check if the word already exists in the dictionary
-        if (!fileManager.readFile(word, language1, language2).equals("")){
+        if (!fileManager.readFile(word, filePath.substring(0,3), filePath.substring(4,7)).equals("")){
             System.out.println("The word already exists in the dictionary!");
             return false;
         }
@@ -109,7 +109,7 @@ public class FileManager {
         try {
 
 
-            FileWriter fileWriter = new FileWriter(path,true);
+            FileWriter fileWriter = new FileWriter(filePath,true);
             fileWriter.write(newEntry);
             fileWriter.close();
 
