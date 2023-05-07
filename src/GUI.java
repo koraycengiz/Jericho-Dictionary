@@ -7,12 +7,17 @@ import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
+import javafx.scene.image.Image;
+import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
+import javafx.scene.text.Font;
+import javafx.scene.text.FontWeight;
+import javafx.scene.text.Text;
 import javafx.stage.Stage;
-
 import java.util.ArrayList;
 import java.util.List;
+
 
 public class GUI extends Application {
     public static void main(String[] args) {
@@ -28,16 +33,58 @@ public class GUI extends Application {
 
         MenuBar menuBar = new MenuBar();
         Menu menu = new Menu("Help");
+        Menu action = new Menu("Actions");
+        MenuItem edit = new MenuItem("Edit");
+        MenuItem add = new MenuItem("Add");
         MenuItem about = new MenuItem("About");
         MenuItem support = new MenuItem("Support");
+
+
+        //to create background
+
+        HBox imageBox = new HBox();
+
+        Image backgroundImage = new Image("C:\\Users\\Koray\\Desktop\\Jericho-design-china-name.png");
+
+        ImageView backgroundImageView = new ImageView(backgroundImage);
+        imageBox.getChildren().addAll(backgroundImageView);
+
+
+        imageBox.setAlignment(Pos.CENTER);
+        HBox.setHgrow(imageBox, Priority.ALWAYS);
+
+
+        BackgroundFill backgroundFill = new BackgroundFill(Color.CORAL, CornerRadii.EMPTY, Insets.EMPTY);
+
+        Background background = new Background(backgroundFill);
+        mainLayout.setBackground(background);
+
         support.setOnAction(new EventHandler<ActionEvent>() {
             public void handle(ActionEvent t) {
+
+                HBox imageBox2 = new HBox();
+                ImageView backgroundImageView2 = new ImageView(backgroundImage);
+                imageBox2.getChildren().addAll(backgroundImageView2);
+
+                imageBox2.setAlignment(Pos.CENTER);
+                HBox.setHgrow(imageBox2, Priority.ALWAYS);
+
+
+                VBox.setMargin(imageBox2, new Insets(8));
                 GridPane gp = new GridPane();
+                gp.setHgap(10); // Add some horizontal gap between nodes
+                gp.setVgap(10); // Add some vertical gap between nodes
+
+                Background background2 = new Background(backgroundFill);
+                gp.setBackground(background2);
+
                 Stage stage = new Stage();
                 stage.setTitle("contact");
+
                 VBox vbox = new VBox();
-                VBox.setVgrow(gp, Priority.ALWAYS);
+                vbox.setBackground(background2);
                 Scene scene = new Scene(vbox);
+
 
                 Label Title = new Label("Contact Us");
 
@@ -71,7 +118,17 @@ public class GUI extends Application {
                 gp.add(Selection, 0,7);
                 gp.add(Selectioncb, 1,7);
 
-                Separator seperator = new Separator();
+                // Make the gridpane fill the available width and height
+                gp.setHgrow(Title, Priority.ALWAYS);
+                gp.setHgrow(Nametf, Priority.ALWAYS);
+                gp.setHgrow(Surnametf, Priority.ALWAYS);
+                gp.setHgrow(Emailtf, Priority.ALWAYS);
+                gp.setHgrow(Problemtf, Priority.ALWAYS);
+                gp.setHgrow(Descriptionta, Priority.ALWAYS);
+                gp.setHgrow(Selectioncb, Priority.ALWAYS);
+                gp.setVgrow(gp, Priority.ALWAYS);
+
+                Separator separator = new Separator();
 
                 ButtonBar buttons = new ButtonBar();
 
@@ -86,11 +143,15 @@ public class GUI extends Application {
                         System.out.println("closed"); // to test
                         stage.close();
                     }
-                }); {
+                });
 
-                }
+                vbox.getChildren().addAll(gp, imageBox2, separator, buttons);
 
-                vbox.getChildren().addAll(gp, seperator, buttons);
+                // Make the vbox fill the available width and height
+                VBox.setVgrow(gp, Priority.ALWAYS);
+                VBox.setVgrow(separator, Priority.NEVER);
+                VBox.setVgrow(buttons, Priority.NEVER);
+                VBox.setVgrow(imageBox2, Priority.ALWAYS);
 
                 stage.setScene(scene);
                 stage.show();
@@ -98,18 +159,65 @@ public class GUI extends Application {
             }
         });
 
+        about.setOnAction(new EventHandler<ActionEvent>() {
+            public void handle(ActionEvent t) {
+
+                HBox imageBox3 = new HBox();
+                ImageView backgroundImageView2 = new ImageView(backgroundImage);
+                imageBox3.getChildren().addAll(backgroundImageView2);
+
+                imageBox3.setAlignment(Pos.CENTER);
+                HBox.setHgrow(imageBox3, Priority.ALWAYS);
+
+
+                VBox.setMargin(imageBox3, new Insets(8));
+                GridPane gp = new GridPane();
+                gp.setHgap(10); // Add some horizontal gap between nodes
+                gp.setVgap(10); // Add some vertical gap between nodes
+
+
+                Stage stage = new Stage();
+                stage.setTitle("Manual");
+
+                VBox vbox = new VBox();
+                Scene scene = new Scene(vbox);
+
+                Label Title = new Label("Jericho Dictionary User Manual");
+                Title.setFont(Font.font("Times New Roman", FontWeight.BOLD, 18));
+
+
+                String IntroText = "Introduction\n\n" +
+                        "Jericho Dictionary is an offline dictionary program that allows users to translate words from one language to another.\n" +
+                        "This user manual is created to explain the basic steps of using the program";
+
+                String systemText = "System Requirements\n\n" +
+                        "Jericho Dictionary is compatible with the following operating systems:" +
+                        "Windows 10, 8, 7" +
+                        "macOS 10.13 and later";
+
+                Text manualTextNode = new Text(IntroText);
+                manualTextNode.setFont(Font.font("Times New Roman", FontWeight.NORMAL, 18));
+
+                vbox.getChildren().addAll(gp, Title, imageBox3, manualTextNode);
+
+                stage.setScene(scene);
+                stage.show();
+            }
+        });
+
+
+
         menu.getItems().addAll(about, support);
+        action.getItems().addAll(edit, add);
         menuBar.getMenus().add(menu);
+        menuBar.getMenus().add(action);
+
         root.setTop(menuBar);
 
         HBox firstLine = new HBox(8);
         firstLine.setAlignment(Pos.CENTER);
 
         Label label = new Label("Source Language");
-
-
-
-
 
 
         HBox.setHgrow(label, Priority.ALWAYS);
@@ -126,17 +234,176 @@ public class GUI extends Application {
         TextField textField = new TextField();
         Button benjamin = new Button("Search");
 
+        //add actions
+        add.setOnAction(new EventHandler<ActionEvent>() {
+            public void handle(ActionEvent t) {
+                GridPane gp = new GridPane();
 
+                HBox imageBox4 = new HBox();
+                ImageView backgroundImageView3 = new ImageView(backgroundImage);
+                imageBox4.getChildren().addAll(backgroundImageView3);
+
+                imageBox4.setAlignment(Pos.CENTER);
+                HBox.setHgrow(imageBox4, Priority.ALWAYS);
+
+
+                VBox.setMargin(imageBox4, new Insets(9));
+
+                gp.setHgap(10); // Add some horizontal gap between nodes
+                gp.setVgap(10); // Add some vertical gap between nodes
+
+                Background background4 = new Background(backgroundFill);
+                gp.setBackground(background4);
+
+                Stage stage = new Stage();
+                stage.setTitle("edit");
+
+                VBox vbox = new VBox();
+                vbox.setBackground(background4);
+                Scene scene = new Scene(vbox);
+
+                Label Title = new Label("Add Words");
+
+                Label oldWord = new Label("Old Word");
+                Label newWord = new Label("New Word");
+                Label definition = new Label("Definition");
+
+                TextField oldWordField = new TextField();
+                TextField newWorldField = new TextField();
+                TextField defField = new TextField();
+
+                gp.add(Title, 1, 1);
+                gp.add(oldWord, 0, 2);
+                gp.add(oldWordField, 1, 2);
+                gp.add(newWord, 0, 3);
+                gp.add(newWorldField, 1, 3);
+                gp.add(definition, 0,4);
+                gp.add(defField, 1,4);
+
+                gp.setHgrow(Title, Priority.ALWAYS);
+                gp.setHgrow(oldWordField, Priority.ALWAYS);
+                gp.setHgrow(newWorldField, Priority.ALWAYS);
+                gp.setHgrow(defField, Priority.ALWAYS);
+                gp.setVgrow(gp, Priority.ALWAYS);
+
+                Separator separator = new Separator();
+
+                ButtonBar buttons = new ButtonBar();
+
+                Button applyButton = new Button("Apply");
+
+                buttons.getButtons().addAll(applyButton);
+
+                applyButton.setOnAction(new EventHandler<ActionEvent>() {
+                    @Override
+                    public void handle(ActionEvent actionEvent) {
+                        System.out.println("closed"); // to test
+                        stage.close();
+                    }
+                }); {
+
+                }
+
+                vbox.getChildren().addAll(gp,imageBox4, separator, buttons);
+
+                VBox.setVgrow(gp, Priority.ALWAYS);
+                VBox.setVgrow(separator, Priority.NEVER);
+                VBox.setVgrow(buttons, Priority.NEVER);
+                VBox.setVgrow(imageBox4, Priority.ALWAYS);
+
+                stage.setScene(scene);
+                stage.show();
+
+            }
+        });
+
+
+        //edit actions
+        edit.setOnAction(new EventHandler<ActionEvent>() {
+            public void handle(ActionEvent t) {
+                GridPane gp = new GridPane();
+
+                HBox imageBox5 = new HBox();
+                //Image backgroundImage3 = new Image("C:\\Users\\Koray\\Desktop\\Jericho-design-china-name.png");
+                ImageView backgroundImageView3 = new ImageView(backgroundImage);
+                imageBox5.getChildren().addAll(backgroundImageView3);
+
+                imageBox5.setAlignment(Pos.CENTER);
+                HBox.setHgrow(imageBox5, Priority.ALWAYS);
+
+
+                VBox.setMargin(imageBox5, new Insets(9));
+
+                gp.setHgap(10); // Add some horizontal gap between nodes
+                gp.setVgap(10); // Add some vertical gap between nodes
+
+                Background background4 = new Background(backgroundFill);
+                gp.setBackground(background4);
+
+                Stage stage = new Stage();
+                stage.setTitle("edit");
+
+                VBox vbox = new VBox();
+                vbox.setBackground(background4);
+                Scene scene = new Scene(vbox);
+
+                Label Title = new Label("Edit Words");
+
+                Label oldWord = new Label("The word you will edit");
+                Label newWord = new Label("New Word");
+                Label definition = new Label("Definition");
+
+                TextField oldWordField = new TextField();
+                TextField newWorldField = new TextField();
+                TextField defField = new TextField();
+
+                gp.add(Title, 1, 1);
+                gp.add(oldWord, 0, 2);
+                gp.add(oldWordField, 1, 2);
+                gp.add(newWord, 0, 3);
+                gp.add(newWorldField, 1, 3);
+                gp.add(definition, 0,4);
+                gp.add(defField, 1,4);
+
+                gp.setHgrow(Title, Priority.ALWAYS);
+                gp.setHgrow(oldWordField, Priority.ALWAYS);
+                gp.setHgrow(newWorldField, Priority.ALWAYS);
+                gp.setHgrow(defField, Priority.ALWAYS);
+                gp.setVgrow(gp, Priority.ALWAYS);
+
+                Separator separator = new Separator();
+
+                ButtonBar buttons = new ButtonBar();
+
+                Button applyButton = new Button("Apply");
+
+                buttons.getButtons().addAll(applyButton);
+
+                applyButton.setOnAction(new EventHandler<ActionEvent>() {
+                    @Override
+                    public void handle(ActionEvent actionEvent) {
+                        System.out.println("closed"); // to test
+                        stage.close();
+                    }
+                }); {
+
+                }
+
+                vbox.getChildren().addAll(gp,imageBox5, separator, buttons);
+                VBox.setVgrow(separator, Priority.NEVER);
+                VBox.setVgrow(buttons, Priority.NEVER);
+                VBox.setVgrow(imageBox5, Priority.ALWAYS);
+
+                stage.setScene(scene);
+                stage.show();
+
+            }
+        });
 
 
         //Search button's action
         Dictionary dict = new Dictionary();
         String textEntry = textField.getText();
-
-
-
-
-
 
 
         HBox.setHgrow(word, Priority.ALWAYS);
@@ -146,7 +413,7 @@ public class GUI extends Application {
         VBox.setMargin(secondLine, new Insets(8));
         secondLine.getChildren().addAll(word, textField, benjamin);
 
-        HBox thirdLine = new HBox(8);
+        HBox thirdLine = new HBox(7);
         thirdLine.setAlignment(Pos.CENTER);
 
 
@@ -169,27 +436,18 @@ public class GUI extends Application {
         });
 
 
-
-
-
         HBox.setHgrow(listView, Priority.ALWAYS);
 
-        VBox.setMargin(thirdLine, new Insets(8));
+        VBox.setMargin(imageBox, new Insets(9));
+        VBox.setMargin(thirdLine, new Insets(10));
         thirdLine.getChildren().addAll(listView);
 
+        mainLayout.getChildren().addAll(root, firstLine, secondLine, imageBox, thirdLine);
 
-        mainLayout.getChildren().addAll(root, firstLine, secondLine, thirdLine);
-
-        BackgroundFill backgroundFill = new BackgroundFill(Color.PINK, CornerRadii.EMPTY, Insets.EMPTY);
-        Background background = new Background(backgroundFill);
-        mainLayout.setBackground(background);
-
-
-        Scene scene = new Scene(mainLayout, 400, 300);
+        Scene scene = new Scene(mainLayout, 800, 600);
         stage.setTitle("Dictionary Jericho");
         stage.setScene(scene);
         stage.show();
     }
-
 
 }
