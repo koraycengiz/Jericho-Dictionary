@@ -15,6 +15,10 @@ import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
+
+import javax.swing.*;
+import java.io.File;
+import java.io.FileInputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -190,6 +194,7 @@ public class GUI extends Application {
 
                 String IntroText = "Introduction\n\n" +
                         "Jericho Dictionary is an offline dictionary program that allows users to translate words from one language to another.\n" +
+                        "The application does not require an internet connection and runs locally on your computer."+
                         "This user manual is created to explain the basic steps of using the program";
 
                 String systemText = "System Requirements\n\n" +
@@ -258,7 +263,7 @@ public class GUI extends Application {
                 gp.setBackground(background4);
 
                 Stage stage = new Stage();
-                stage.setTitle("edit");
+                stage.setTitle("add");
 
                 VBox vbox = new VBox();
                 vbox.setBackground(background4);
@@ -266,51 +271,73 @@ public class GUI extends Application {
 
                 Label Title = new Label("Add Words");
 
-                Label oldWord = new Label("Old Word");
-                Label newWord = new Label("New Word");
-                Label definition = new Label("Definition");
+                TextField WordField = new TextField();
+                TextField translationField = new TextField();
+                ComboBox<String> sourceLangBox = new ComboBox<>();
+                ComboBox<String> targetLangBox = new ComboBox<>();
+                sourceLangBox.getItems().addAll("eng", "deu", "fra","ell","ita","swe","tur");
+                targetLangBox.getItems().addAll("eng", "deu", "fra","ell","ita","swe","tur");
 
-                TextField oldWordField = new TextField();
-                TextField newWorldField = new TextField();
-                TextField defField = new TextField();
+                Label Word = new Label("Word");
+                Label translation = new Label("Translation");
+                Label sourceLanguage = new Label("Source Language");
+                Label targetLanguage = new Label("Target Language");
+
 
                 gp.add(Title, 1, 1);
-                gp.add(oldWord, 0, 2);
-                gp.add(oldWordField, 1, 2);
-                gp.add(newWord, 0, 3);
-                gp.add(newWorldField, 1, 3);
-                gp.add(definition, 0,4);
-                gp.add(defField, 1,4);
+                gp.add(Word, 0, 2);
+                gp.add(WordField, 1, 2);
+                gp.add(translation, 0, 3);
+                gp.add(translationField, 1, 3);
+                gp.add(sourceLanguage, 0,4);
+                gp.add(sourceLangBox, 1,4);
+                gp.add(targetLanguage, 0,5);
+                gp.add(targetLangBox,1, 5);
+
 
                 gp.setHgrow(Title, Priority.ALWAYS);
-                gp.setHgrow(oldWordField, Priority.ALWAYS);
-                gp.setHgrow(newWorldField, Priority.ALWAYS);
-                gp.setHgrow(defField, Priority.ALWAYS);
+                gp.setHgrow(WordField, Priority.ALWAYS);
+                gp.setHgrow(translationField, Priority.ALWAYS);
+                gp.setHgrow(sourceLangBox, Priority.ALWAYS);
+                gp.setHgrow(targetLangBox, Priority.ALWAYS);
                 gp.setVgrow(gp, Priority.ALWAYS);
 
                 Separator separator = new Separator();
 
-                ButtonBar buttons = new ButtonBar();
-
                 Button applyButton = new Button("Apply");
-
-                buttons.getButtons().addAll(applyButton);
 
                 applyButton.setOnAction(new EventHandler<ActionEvent>() {
                     @Override
                     public void handle(ActionEvent actionEvent) {
-                        System.out.println("closed"); // to test
+                        String wordSt = WordField.getText();
+                        String translationSt = translationField.getText();
+                        String sourceLanSt = sourceLangBox.getValue();
+                        String targetLanSt = targetLangBox.getValue();
+                        FileManager fileManager = new FileManager();
+
+                        boolean isAdded = fileManager.addFile(wordSt, translationSt, sourceLanSt, targetLanSt);
+
+                        if (isAdded) {
+                            Alert alert = new Alert(Alert.AlertType.INFORMATION);
+                            alert.setTitle("Success");
+                            alert.setContentText("Word added to the dictionary!");
+                            alert.showAndWait();
+                            stage.close();
+                        } else {
+                            Alert alert = new Alert(Alert.AlertType.ERROR);
+                            alert.setTitle("Error");
+                            alert.setContentText("The word already exists in the dictionary or the file doesn't exist for the selected languages!");
+                            alert.showAndWait();
+                        }
                         stage.close();
                     }
-                }); {
+                });
 
-                }
-
-                vbox.getChildren().addAll(gp,imageBox4, separator, buttons);
+                vbox.getChildren().addAll(gp,imageBox4, separator, applyButton);
 
                 VBox.setVgrow(gp, Priority.ALWAYS);
                 VBox.setVgrow(separator, Priority.NEVER);
-                VBox.setVgrow(buttons, Priority.NEVER);
+                VBox.setVgrow(applyButton, Priority.NEVER);
                 VBox.setVgrow(imageBox4, Priority.ALWAYS);
 
                 stage.setScene(scene);
